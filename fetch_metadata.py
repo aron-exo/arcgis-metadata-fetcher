@@ -4,7 +4,7 @@ import asyncio
 import json
 from tqdm import tqdm
 
-async def fetch_metadata(session, server):
+async def fetch_metadata(server):
     async with aiohttp.ClientSession() as client_session:
         url = f"{server}?f=json"
         async with client_session.get(url) as response:
@@ -21,7 +21,7 @@ async def process_server(server):
         print(f"Metadata for {server} already exists. Skipping...")
         return
 
-    metadata = await fetch_metadata(session, server)
+    metadata = await fetch_metadata(server)
     if metadata:
         with open(metadata_file, 'w') as f:
             json.dump(metadata, f, indent=4)
