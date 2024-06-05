@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: '3.8'
 
-      - name: Cache pip
+      - name: Cache pip dependencies
         uses: actions/cache@v2
         with:
           path: ~/.cache/pip
