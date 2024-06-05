@@ -1,0 +1,121 @@
+{
+    "currentVersion": 10.91,
+    "folders": [
+        "Testing",
+        "Utilities"
+    ],
+    "services": [
+        {
+            "name": "ADMINCampus14",
+            "type": "MapServer"
+        },
+        {
+            "name": "ARVinspections",
+            "type": "MapServer"
+        },
+        {
+            "name": "CItyworksBase14",
+            "type": "MapServer"
+        },
+        {
+            "name": "CityworksBaseV2",
+            "type": "MapServer"
+        },
+        {
+            "name": "CItyworksBaseWebMerc",
+            "type": "MapServer"
+        },
+        {
+            "name": "CWLocator",
+            "type": "GeocodeServer"
+        },
+        {
+            "name": "HSSpumps",
+            "type": "FeatureServer"
+        },
+        {
+            "name": "HSSpumps",
+            "type": "MapServer"
+        },
+        {
+            "name": "HydrantFlush",
+            "type": "FeatureServer"
+        },
+        {
+            "name": "HydrantFlush",
+            "type": "MapServer"
+        },
+        {
+            "name": "MHinspections",
+            "type": "MapServer"
+        },
+        {
+            "name": "Modified_Compaction",
+            "type": "MapServer"
+        },
+        {
+            "name": "PS_Drainage_Areas",
+            "type": "MapServer"
+        },
+        {
+            "name": "PumpStation14",
+            "type": "MapServer"
+        },
+        {
+            "name": "SampleWorldCities",
+            "type": "MapServer"
+        },
+        {
+            "name": "Sewage_Drainage_Areas",
+            "type": "MapServer"
+        },
+        {
+            "name": "TestUtilityNetwork",
+            "type": "FeatureServer"
+        },
+        {
+            "name": "TestUtilityNetwork",
+            "type": "MapServer"
+        },
+        {
+            "name": "UtilityNetworkDES",
+            "type": "MapServer"
+        },
+        {
+            "name": "UtilityNetworkWSIM",
+            "type": "FeatureServer"
+        },
+        {
+            "name": "UtilityNetworkWSIM",
+            "type": "MapServer"
+        },
+        {
+            "name": "ValveExercise",
+            "type": "MapServer"
+        },
+        {
+            "name": "WaterandSewerAdditionalInformation",
+            "type": "MapServer"
+        },
+        {
+            "name": "WaterZones",
+            "type": "MapServer"
+        },
+        {
+            "name": "WSIM",
+            "type": "FeatureServer"
+        },
+        {
+            "name": "WSIM",
+            "type": "MapServer"
+        },
+        {
+            "name": "WSOPS",
+            "type": "FeatureServer"
+        },
+        {
+            "name": "WSOPS",
+            "type": "MapServer"
+        }
+    ]
+}
