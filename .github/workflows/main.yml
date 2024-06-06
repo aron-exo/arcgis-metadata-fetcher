@@ -1,11 +1,10 @@
 name: Fetch and Process Metadata
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # Run every hour
   push:
-    branches:
-      - main
+    paths:
+      - '**/*.py'
+      - 'requirements.txt'
 
 jobs:
   build:
