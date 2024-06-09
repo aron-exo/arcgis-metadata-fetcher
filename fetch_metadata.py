@@ -9,8 +9,12 @@ async def fetch_metadata(server):
         url = f"{server}?f=json"
         async with client_session.get(url) as response:
             if response.status == 200:
-                data = await response.json()
-                return data
+                try:
+                    data = await response.json()
+                    return data
+                except aiohttp.ContentTypeError:
+                    print(f"Invalid content type at {server}")
+                    return None
             else:
                 print(f"Failed to fetch data from {server}")
                 return None
