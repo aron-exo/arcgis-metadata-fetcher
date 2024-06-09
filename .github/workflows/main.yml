@@ -37,10 +37,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Search for servers
-        run: |
-          python search_servers.py
-
       - name: Fetch metadata
         run: |
           python fetch_metadata.py
