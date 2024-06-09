@@ -1,3 +1,4 @@
 arcgis
 aiohttp
 tqdm
+osmnx
