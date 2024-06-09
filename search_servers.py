@@ -85,6 +85,6 @@ for server in unique_servers:
     print(server)
 
 # Save unique servers to a file
-with open('unique_servers.txt', 'w') as f:
+with open('servers.txt', 'w') as f:
     for server in unique_servers:
         f.write(server + '\n')
