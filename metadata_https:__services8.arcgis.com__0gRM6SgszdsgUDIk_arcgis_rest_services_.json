@@ -1,0 +1,620 @@
+{
+    "currentVersion": 11.2,
+    "services": [
+        {
+            "name": "1_Mile_Buffer",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/1_Mile_Buffer/FeatureServer"
+        },
+        {
+            "name": "10_mile_Buffer_Zone_of_California_Ports4",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/10_mile_Buffer_Zone_of_California_Ports4/FeatureServer"
+        },
+        {
+            "name": "100_Yard_Buffer_of_Public_Schools",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/100_Yard_Buffer_of_Public_Schools/FeatureServer"
+        },
+        {
+            "name": "2011_Asthma",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/2011_Asthma/FeatureServer"
+        },
+        {
+            "name": "2014cropmap2",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/2014cropmap2/FeatureServer"
+        },
+        {
+            "name": "2017_Asthma",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/2017_Asthma/FeatureServer"
+        },
+        {
+            "name": "2017_fires",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/2017_fires/FeatureServer"
+        },
+        {
+            "name": "2018cropmapexp",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/2018cropmapexp/FeatureServer"
+        },
+        {
+            "name": "500_Yard_Buffer_of_Public_Schools",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/500_Yard_Buffer_of_Public_Schools/FeatureServer"
+        },
+        {
+            "name": "Bay_Area_Jurisdictions",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Bay_Area_Jurisdictions/FeatureServer"
+        },
+        {
+            "name": "BayArea02202022",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/BayArea02202022/FeatureServer"
+        },
+        {
+            "name": "BayAreaJurisdictions",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/BayAreaJurisdictions/FeatureServer"
+        },
+        {
+            "name": "Buffer_of_BART_STATIONS",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Buffer_of_BART_STATIONS/FeatureServer"
+        },
+        {
+            "name": "Buffer_of_homeless_camp_1_(1)",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Buffer_of_homeless_camp_1_(1)/FeatureServer"
+        },
+        {
+            "name": "Buffer_of_homeless_camp_2",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Buffer_of_homeless_camp_2/FeatureServer"
+        },
+        {
+            "name": "Buffer_of_Priority_Development_Areas_(current)",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Buffer_of_Priority_Development_Areas_(current)/FeatureServer"
+        },
+        {
+            "name": "California_Pharmacies",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/California_Pharmacies/FeatureServer"
+        },
+        {
+            "name": "CaliforniaPharmacies02202022",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/CaliforniaPharmacies02202022/FeatureServer"
+        },
+        {
+            "name": "Cities_pharmacies_join",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Cities_pharmacies_join/FeatureServer"
+        },
+        {
+            "name": "Coordinate_sheet_Prediction",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Coordinate_sheet_Prediction/FeatureServer"
+        },
+        {
+            "name": "Coordinates_ForDataCollected",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Coordinates_ForDataCollected/FeatureServer"
+        },
+        {
+            "name": "CSCI_Water_Quality_Index_CA_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/CSCI_Water_Quality_Index_CA_WFL1/FeatureServer"
+        },
+        {
+            "name": "CSCI_Water_Quality_Index_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/CSCI_Water_Quality_Index_WFL1/FeatureServer"
+        },
+        {
+            "name": "DHSMICS_04192019",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/DHSMICS_04192019/FeatureServer"
+        },
+        {
+            "name": "Disadvantaged_Communities_In_California",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Disadvantaged_Communities_In_California/FeatureServer"
+        },
+        {
+            "name": "Disadvantaged_Communities_in_CVC_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Disadvantaged_Communities_in_CVC_WFL1/FeatureServer"
+        },
+        {
+            "name": "Nearest_Public_Schools_to_Air_Quality_(Points)",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Nearest_Public_Schools_to_Air_Quality_(Points)/FeatureServer"
+        },
+        {
+            "name": "Oil_Budget_AL",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Oil_Budget_AL/FeatureServer"
+        },
+        {
+            "name": "Pharmacies_08292021",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Pharmacies_08292021/FeatureServer"
+        },
+        {
+            "name": "Sonoma_County_Parcels_Shapefile_Download",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Sonoma_County_Parcels_Shapefile_Download/FeatureServer"
+        },
+        {
+            "name": "SonomaCountyNFHL",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/SonomaCountyNFHL/FeatureServer"
+        },
+        {
+            "name": "Storm_Drain_Trace",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Storm_Drain_Trace/FeatureServer"
+        },
+        {
+            "name": "Storm_Drain_Trace_Scott_Yip",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Storm_Drain_Trace_Scott_Yip/FeatureServer"
+        },
+        {
+            "name": "survey123_0223ed1b65524812b335127659373473_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_0223ed1b65524812b335127659373473_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_0a562f0a037f4f4191ef8b4f09414fba_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_0a562f0a037f4f4191ef8b4f09414fba_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_0a562f0a037f4f4191ef8b4f09414fba_stakeholder",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_0a562f0a037f4f4191ef8b4f09414fba_stakeholder/FeatureServer"
+        },
+        {
+            "name": "survey123_11365cfb28d54d3fb73a1458d54cf9d2_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_11365cfb28d54d3fb73a1458d54cf9d2_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_13fd1e8108ec43fb92f4d346b0ddad9d_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_13fd1e8108ec43fb92f4d346b0ddad9d_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_215b459ff0164c188ad4031de11b13f7_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_215b459ff0164c188ad4031de11b13f7_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_2e8b053d3d144bff9e6949cb721ff2f1_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_2e8b053d3d144bff9e6949cb721ff2f1_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_583b333313f54b95a06a343df0c1499a_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_583b333313f54b95a06a343df0c1499a_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_583b333313f54b95a06a343df0c1499a_stakeholder",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_583b333313f54b95a06a343df0c1499a_stakeholder/FeatureServer"
+        },
+        {
+            "name": "survey123_66773df7324d482485dba886b50b4529_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_66773df7324d482485dba886b50b4529_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_869bfbc2f8264519a748a22c5f4fd884_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_869bfbc2f8264519a748a22c5f4fd884_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_8f772319d6914bff90faf9a4cc7e7728_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_8f772319d6914bff90faf9a4cc7e7728_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_8f772319d6914bff90faf9a4cc7e7728_stakeholder",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_8f772319d6914bff90faf9a4cc7e7728_stakeholder/FeatureServer"
+        },
+        {
+            "name": "survey123_9790cff9bfaf4de087645b75f16a8fe7_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_9790cff9bfaf4de087645b75f16a8fe7_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_a9b7b55bd8f540758e99f1ee16114ff4_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_a9b7b55bd8f540758e99f1ee16114ff4_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_cedbfbb9d7b4443e8d6639a69167b0cd_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_cedbfbb9d7b4443e8d6639a69167b0cd_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_dc4d33f69580470b89f44d0e4cc0a1a2_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/survey123_dc4d33f69580470b89f44d0e4cc0a1a2_fieldworker/FeatureServer"
+        },
+        {
+            "name": "Tobacco_free_pharmacy",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Tobacco_free_pharmacy/FeatureServer"
+        },
+        {
+            "name": "Upsteream_(Points)_Watersheds_CB",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Upsteream_(Points)_Watersheds_CB/FeatureServer"
+        },
+        {
+            "name": "Upstream_Watershed_Scott_Yip",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Upstream_Watershed_Scott_Yip/FeatureServer"
+        },
+        {
+            "name": "US_Population_200_Years",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/US_Population_200_Years/FeatureServer"
+        },
+        {
+            "name": "Alameda_County_Tract_Ethnicities",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Alameda_County_Tract_Ethnicities/FeatureServer"
+        },
+        {
+            "name": "Santa_Clara_Population",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Santa_Clara_Population/FeatureServer"
+        },
+        {
+            "name": "Santa_Clara",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Santa_Clara/FeatureServer"
+        },
+        {
+            "name": "CA_Oil_Wells_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/CA_Oil_Wells_WFL1/FeatureServer"
+        },
+        {
+            "name": "Oil_Wells",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Oil_Wells/FeatureServer"
+        },
+        {
+            "name": "California_EnviroScreen_Projected",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/California_EnviroScreen_Projected/FeatureServer"
+        },
+        {
+            "name": "California_Ports_Projected",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/California_Ports_Projected/FeatureServer"
+        },
+        {
+            "name": "Los_Angeles_And_Long_Beach_10_Mile_Buffer",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Los_Angeles_And_Long_Beach_10_Mile_Buffer/FeatureServer"
+        },
+        {
+            "name": "Los_Angeles_And_Long_Beach_EnviroScreen",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Los_Angeles_And_Long_Beach_EnviroScreen/FeatureServer"
+        },
+        {
+            "name": "San_Francisco_Bay_Area_10_Mile_Buffer",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/San_Francisco_Bay_Area_10_Mile_Buffer/FeatureServer"
+        },
+        {
+            "name": "San_Francisco_Bay_Area_EnviroScreen",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/San_Francisco_Bay_Area_EnviroScreen/FeatureServer"
+        },
+        {
+            "name": "CalEnviroScreen4_0",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/CalEnviroScreen4_0/FeatureServer"
+        },
+        {
+            "name": "Stockton_EnviroScreen",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Stockton_EnviroScreen/FeatureServer"
+        },
+        {
+            "name": "Stockton_10_Mile_Buffer",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Stockton_10_Mile_Buffer/FeatureServer"
+        },
+        {
+            "name": "PM 2.5 Hot Spot",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/PM 2.5 Hot Spot/FeatureServer"
+        },
+        {
+            "name": "PM2.5",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/PM2.5/FeatureServer"
+        },
+        {
+            "name": "FIRE2021_HS",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/FIRE2021_HS/FeatureServer"
+        },
+        {
+            "name": "LA_Redlining",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/LA_Redlining/FeatureServer"
+        },
+        {
+            "name": "LARedlining",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/LARedlining/FeatureServer"
+        },
+        {
+            "name": "SF_Redlining",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/SF_Redlining/FeatureServer"
+        },
+        {
+            "name": "tracts_OAK",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/tracts_OAK/FeatureServer"
+        },
+        {
+            "name": "tracts_SF_clip",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/tracts_SF_clip/FeatureServer"
+        },
+        {
+            "name": "Cal_Enviroscreen",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Cal_Enviroscreen/FeatureServer"
+        },
+        {
+            "name": "ca_tracts_web",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/ca_tracts_web/FeatureServer"
+        },
+        {
+            "name": "la_redlining_web",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/la_redlining_web/FeatureServer"
+        },
+        {
+            "name": "oak_redlining_web",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/oak_redlining_web/FeatureServer"
+        },
+        {
+            "name": "sf_redlining_web",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/sf_redlining_web/FeatureServer"
+        },
+        {
+            "name": "CalEnviroscreen",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/CalEnviroscreen/FeatureServer"
+        },
+        {
+            "name": "Orange_AOC_Join",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Orange_AOC_Join/FeatureServer"
+        },
+        {
+            "name": "Santa_Cruz_Zoning",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Santa_Cruz_Zoning/FeatureServer"
+        },
+        {
+            "name": "County_Limits",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/County_Limits/FeatureServer"
+        },
+        {
+            "name": "SJ_County_DA",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/SJ_County_DA/FeatureServer"
+        },
+        {
+            "name": "Fire_Hazard_and_Zoning",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Fire_Hazard_and_Zoning/FeatureServer"
+        },
+        {
+            "name": "Fire_Hazard_zones_in_Riverside",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Fire_Hazard_zones_in_Riverside/FeatureServer"
+        },
+        {
+            "name": "Santa_Cruz_Landslide_Map",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Santa_Cruz_Landslide_Map/FeatureServer"
+        },
+        {
+            "name": "Community_Vulnerability_",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Community_Vulnerability_/FeatureServer"
+        },
+        {
+            "name": "City_Comparison",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/City_Comparison/FeatureServer"
+        },
+        {
+            "name": "County_Boundaries",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/County_Boundaries/FeatureServer"
+        },
+        {
+            "name": "Historic_Native_American_Territories_in_California_shp",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Historic_Native_American_Territories_in_California_shp/FeatureServer"
+        },
+        {
+            "name": "CA_Prescribed_Fire_Perimeters",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/CA_Prescribed_Fire_Perimeters/FeatureServer"
+        },
+        {
+            "name": "Riverside_Cities_and_Fault_Zones_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Riverside_Cities_and_Fault_Zones_WFL1/FeatureServer"
+        },
+        {
+            "name": "Intersect_of_County_Limits_and_San_Joaquin_County_Indigenous_Territories",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Intersect_of_County_Limits_and_San_Joaquin_County_Indigenous_Territories/FeatureServer"
+        },
+        {
+            "name": "Solution_Mircogrid",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Solution_Mircogrid/FeatureServer"
+        },
+        {
+            "name": "Solution_Microgrid_DG",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Solution_Microgrid_DG/FeatureServer"
+        },
+        {
+            "name": "Yolo_County_Population_Density_Map_with_Power_Plant_Locations",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Yolo_County_Population_Density_Map_with_Power_Plant_Locations/FeatureServer"
+        },
+        {
+            "name": "Wastewater_Treatment_Plants",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Wastewater_Treatment_Plants/FeatureServer"
+        },
+        {
+            "name": "alameda_flooding_slr6_5ft",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/alameda_flooding_slr6_5ft/FeatureServer"
+        },
+        {
+            "name": "Dissolve_Disadvantaged_Communities",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Dissolve_Disadvantaged_Communities/FeatureServer"
+        },
+        {
+            "name": "FEMA",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/FEMA/FeatureServer"
+        },
+        {
+            "name": "Finalprojectdataset",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Finalprojectdataset/FeatureServer"
+        },
+        {
+            "name": "statewide_solar_footpoint_w_landuse",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/statewide_solar_footpoint_w_landuse/FeatureServer"
+        },
+        {
+            "name": "Hotspots_tes",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Hotspots_tes/FeatureServer"
+        },
+        {
+            "name": "White_population_hotspot_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/White_population_hotspot_WFL1/FeatureServer"
+        },
+        {
+            "name": "Median_Income_hotspots_LA",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Median_Income_hotspots_LA/FeatureServer"
+        },
+        {
+            "name": "Walkability_of_San_Jose",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Walkability_of_San_Jose/FeatureServer"
+        },
+        {
+            "name": "San_Jose_median_Income_hotspots",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/San_Jose_median_Income_hotspots/FeatureServer"
+        },
+        {
+            "name": "Parks_in_San_Jose_with_Walkability",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Parks_in_San_Jose_with_Walkability/FeatureServer"
+        },
+        {
+            "name": "LA_Black_percentage",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/LA_Black_percentage/FeatureServer"
+        },
+        {
+            "name": "FinalProject_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/FinalProject_WFL1/FeatureServer"
+        },
+        {
+            "name": "San_Jose_tree_equity_score_and_demographics_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/San_Jose_tree_equity_score_and_demographics_WFL1/FeatureServer"
+        },
+        {
+            "name": "San_Jose_White_Population_Hot_Spots",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/San_Jose_White_Population_Hot_Spots/FeatureServer"
+        },
+        {
+            "name": "San_Jose_Hispanic_Population_Hot_Spots",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/San_Jose_Hispanic_Population_Hot_Spots/FeatureServer"
+        },
+        {
+            "name": "Medium_to_Large_Park_Buffers_in_San_Jose",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Medium_to_Large_Park_Buffers_in_San_Jose/FeatureServer"
+        },
+        {
+            "name": "Tiny_and_Small_Park_Buffers_in_San_Jose",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Tiny_and_Small_Park_Buffers_in_San_Jose/FeatureServer"
+        },
+        {
+            "name": "San_Jose_City_Borders",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/San_Jose_City_Borders/FeatureServer"
+        },
+        {
+            "name": "density footpoint state2",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/density footpoint state2/FeatureServer"
+        },
+        {
+            "name": "Finalprojectwithbuffers_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Finalprojectwithbuffers_WFL1/FeatureServer"
+        },
+        {
+            "name": "Race_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Race_WFL1/FeatureServer"
+        },
+        {
+            "name": "Race_with_parks_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/0gRM6SgszdsgUDIk/ArcGIS/rest/services/Race_with_parks_WFL1/FeatureServer"
+        }
+    ]
+}

@@ -1,0 +1,2865 @@
+{
+    "currentVersion": 11.2,
+    "services": [
+        {
+            "name": "53070034",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/53070034/FeatureServer"
+        },
+        {
+            "name": "79360000___Block_Label",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/79360000___Block_Label/FeatureServer"
+        },
+        {
+            "name": "79360000_SAM",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/79360000_SAM/FeatureServer"
+        },
+        {
+            "name": "Amalfi_at_the_Islands_Phase_1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Amalfi_at_the_Islands_Phase_1/FeatureServer"
+        },
+        {
+            "name": "Amalfi_at_the_Islands_Phase_1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Amalfi_at_the_Islands_Phase_1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Amalfi_at_the_Islands_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Amalfi_at_the_Islands_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Amalfi_at_the_Islands_Phase_4",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Amalfi_at_the_Islands_Phase_4/FeatureServer"
+        },
+        {
+            "name": "Amore_at_Portofino_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Amore_at_Portofino_2/FeatureServer"
+        },
+        {
+            "name": "Amore_at_Portofino_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Amore_at_Portofino_3/FeatureServer"
+        },
+        {
+            "name": "Aventine",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Aventine/FeatureServer"
+        },
+        {
+            "name": "BH_CDO_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/BH_CDO_Amenities/FeatureServer"
+        },
+        {
+            "name": "Brescia_2_Di_Citta_Italia",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Brescia_2_Di_Citta_Italia/FeatureServer"
+        },
+        {
+            "name": "Brescia_Di_Citta_Italia",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Brescia_Di_Citta_Italia/FeatureServer"
+        },
+        {
+            "name": "Bria_Balingasag_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Balingasag_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Baras_Ph1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Baras_Ph1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Calamba_Ph_4",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Calamba_Ph_4/FeatureServer"
+        },
+        {
+            "name": "Bria_Calamba_Ph1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Calamba_Ph1/FeatureServer"
+        },
+        {
+            "name": "Bria_Calamba_Ph1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Calamba_Ph1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Calamba_Ph2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Calamba_Ph2/FeatureServer"
+        },
+        {
+            "name": "Bria_Calamba_Ph2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Calamba_Ph2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Calamba_Ph3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Calamba_Ph3/FeatureServer"
+        },
+        {
+            "name": "Bria_Digos_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Digos_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Dumaguete",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Dumaguete/FeatureServer"
+        },
+        {
+            "name": "Bria_GenSan_2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_GenSan_2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Gingoog_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Gingoog_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Alaminos",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Alaminos/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Alaminos_Laguna_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Alaminos_Laguna_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Balayan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Balayan/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Balayan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Balayan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Balingasag",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Balingasag/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Baras",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Baras/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Baras_Executive",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Baras_Executive/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Baras_Executive_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Baras_Executive_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Baras_Ph2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Baras_Ph2/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Baras_Ph3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Baras_Ph3/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Baras_Ph4",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Baras_Ph4/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Binangonan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Binangonan/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Binangonan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Binangonan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Cagayan_de_Oro",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Cagayan_de_Oro/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Calauan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Calauan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Calauan_Ph1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Calauan_Ph1/FeatureServer"
+        },
+        {
+            "name": "BRIA_HOMES_CALINAN",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/BRIA_HOMES_CALINAN/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Calinan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Calinan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Digos",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Digos/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Executive_Calamba",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Executive_Calamba/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Executive_Calamba_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Executive_Calamba_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_General_Santos_Ph2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_General_Santos_Ph2/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Gingoog",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Gingoog/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Hermosa",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Hermosa/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Hermosa_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Hermosa_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Iriga",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Iriga/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Iriga_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Iriga_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Kidapawan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Kidapawan/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Kidapawan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Kidapawan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Kidapawan_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Kidapawan_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Kidapawan_Phase_2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Kidapawan_Phase_2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_La_Hacienda_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_La_Hacienda_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Lipa",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Lipa/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Lipa_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Lipa_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Magalang",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Magalang/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Magalang_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Magalang_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Magalang_Ph2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Magalang_Ph2/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Magalang_Ph2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Magalang_Ph2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Manolo_Fortich",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Manolo_Fortich/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Manolo_Fortich_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Manolo_Fortich_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Montalban",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Montalban/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Montalban_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Montalban_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Norzagaray_Ph1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Norzagaray_Ph1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Ormoc",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Ormoc/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Paniqui",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Paniqui/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Paniqui_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Paniqui_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Plaridel",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Plaridel/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Plaridel_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Plaridel_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_SJDM",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_SJDM/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_SJDM_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_SJDM_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Sta_Cruz",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Sta_Cruz/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Sta_Cruz_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Sta_Cruz_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Tagum",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Tagum/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Tagum_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Tagum_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Teresa",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Teresa/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Trece_Martires_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Trece_Martires_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Urdaneta",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Urdaneta/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Valencia",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Valencia/FeatureServer"
+        },
+        {
+            "name": "Bria_Homes_Valencia_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Homes_Valencia_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_La_Hacienda",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_La_Hacienda/FeatureServer"
+        },
+        {
+            "name": "Bria_Norzagaray",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Norzagaray/FeatureServer"
+        },
+        {
+            "name": "Bria_Norzagaray_Ph2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Norzagaray_Ph2/FeatureServer"
+        },
+        {
+            "name": "Bria_Norzagaray_Ph3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Norzagaray_Ph3/FeatureServer"
+        },
+        {
+            "name": "Bria_Ormoc_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Ormoc_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_San_Pablo",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_San_Pablo/FeatureServer"
+        },
+        {
+            "name": "Bria_San_Pablo_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_San_Pablo_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Sta_Maria_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Sta_Maria_Amenities/FeatureServer"
+        },
+        {
+            "name": "Bria_Sta_Maria_Bulacan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Sta_Maria_Bulacan/FeatureServer"
+        },
+        {
+            "name": "Bria_Trece",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Trece/FeatureServer"
+        },
+        {
+            "name": "Bria_Urdaneta_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Bria_Urdaneta_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Aklan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Aklan/FeatureServer"
+        },
+        {
+            "name": "Camella_Aklan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Aklan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Alfonso",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Alfonso/FeatureServer"
+        },
+        {
+            "name": "Camella_Alfonso_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Alfonso_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Alta_Silang",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Alta_Silang/FeatureServer"
+        },
+        {
+            "name": "Camella_Alta_Silang_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Alta_Silang_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Altea",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Altea/FeatureServer"
+        },
+        {
+            "name": "Camella_Altea_Expansion",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Altea_Expansion/FeatureServer"
+        },
+        {
+            "name": "Camella_Altea_PH1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Altea_PH1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_and_Lessandra_Heights_Naga",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_and_Lessandra_Heights_Naga/FeatureServer"
+        },
+        {
+            "name": "Camella_Aventine_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Aventine_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Azienda_Batangas",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Azienda_Batangas/FeatureServer"
+        },
+        {
+            "name": "Camella_Azienda_Batangas_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Azienda_Batangas_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Bacolod_South",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bacolod_South/FeatureServer"
+        },
+        {
+            "name": "Camella_Bacolod_South_Ph1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bacolod_South_Ph1/FeatureServer"
+        },
+        {
+            "name": "Camella_Bacolod_South_Ph2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bacolod_South_Ph2/FeatureServer"
+        },
+        {
+            "name": "Camella_Baia",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Baia/FeatureServer"
+        },
+        {
+            "name": "Camella_Baia_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Baia_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Baia_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Baia_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Camella_Baia_Phase_2A",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Baia_Phase_2A/FeatureServer"
+        },
+        {
+            "name": "Camella_Balanga",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Balanga/FeatureServer"
+        },
+        {
+            "name": "Camella_Balanga_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Balanga_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Balanga_Heights_Ph2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Balanga_Heights_Ph2/FeatureServer"
+        },
+        {
+            "name": "Camella_Baliwag_Phase_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Baliwag_Phase_3/FeatureServer"
+        },
+        {
+            "name": "Camella_Baliwag_Phase_4",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Baliwag_Phase_4/FeatureServer"
+        },
+        {
+            "name": "Camella_Baliwag_Phase_4_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Baliwag_Phase_4_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Baliwag_Phase_5",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Baliwag_Phase_5/FeatureServer"
+        },
+        {
+            "name": "Camella_Baliwag_Phase_6",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Baliwag_Phase_6/FeatureServer"
+        },
+        {
+            "name": "Camella_Bantay",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bantay/FeatureServer"
+        },
+        {
+            "name": "Camella_Bantay_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bantay_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Bantay_Expansion",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bantay_Expansion/FeatureServer"
+        },
+        {
+            "name": "Camella_Bataan_Ph_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bataan_Ph_2/FeatureServer"
+        },
+        {
+            "name": "Camella_Bohol_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bohol_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Bucandala_4_Expansion",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bucandala_4_Expansion/FeatureServer"
+        },
+        {
+            "name": "Camella_Bucandala_5",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bucandala_5/FeatureServer"
+        },
+        {
+            "name": "Camella_Bucandala_5_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bucandala_5_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Bucandala_PH_3_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bucandala_PH_3_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Bucandala_PH_4_Guardhouse",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bucandala_PH_4_Guardhouse/FeatureServer"
+        },
+        {
+            "name": "Camella_Bukandala_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bukandala_2/FeatureServer"
+        },
+        {
+            "name": "Camella_Bukandala_2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bukandala_2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Bukandala_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bukandala_3/FeatureServer"
+        },
+        {
+            "name": "Camella_Bukandala_3_Expansions",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bukandala_3_Expansions/FeatureServer"
+        },
+        {
+            "name": "Camella_Bukandala_4",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bukandala_4/FeatureServer"
+        },
+        {
+            "name": "Camella_Bukandala_4_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bukandala_4_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Bulakan_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bulakan_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Camella_Bulakan_Phase_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bulakan_Phase_3/FeatureServer"
+        },
+        {
+            "name": "Camella_Bulakan_Phase_3_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bulakan_Phase_3_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Bulakan_Phase_4",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Bulakan_Phase_4/FeatureServer"
+        },
+        {
+            "name": "Camella_Cabanatuan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Cabanatuan/FeatureServer"
+        },
+        {
+            "name": "Camella_Cabanatuan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Cabanatuan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Cagayan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Cagayan/FeatureServer"
+        },
+        {
+            "name": "Camella_Cagayan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Cagayan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Cagayan_Trails",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Cagayan_Trails/FeatureServer"
+        },
+        {
+            "name": "Camella_Calamba",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Calamba/FeatureServer"
+        },
+        {
+            "name": "Camella_Calamba_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Calamba_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Candon",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Candon/FeatureServer"
+        },
+        {
+            "name": "Camella_Candon_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Candon_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Candon_Ph_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Candon_Ph_2/FeatureServer"
+        },
+        {
+            "name": "Camella_Capas",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Capas/FeatureServer"
+        },
+        {
+            "name": "Camella_Capiz",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Capiz/FeatureServer"
+        },
+        {
+            "name": "Camella_Capiz_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Capiz_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Carcar",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Carcar/FeatureServer"
+        },
+        {
+            "name": "Camella_Carcar_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Carcar_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Carson",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Carson/FeatureServer"
+        },
+        {
+            "name": "Camella_Carson_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Carson_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Cauayan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Cauayan/FeatureServer"
+        },
+        {
+            "name": "Camella_Cauayan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Cauayan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Cerritos_Gensan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Cerritos_Gensan/FeatureServer"
+        },
+        {
+            "name": "Camella_Cerritos_GenSan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Cerritos_GenSan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Cerritos_Heights_PH1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Cerritos_Heights_PH1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Cerritos_Heights_PH2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Cerritos_Heights_PH2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Cerritos_Heights_Phase_2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Cerritos_Heights_Phase_2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Cerritos_PH2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Cerritos_PH2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Cielo_at_SJDM",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Cielo_at_SJDM/FeatureServer"
+        },
+        {
+            "name": "Camella_Crisciente",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Crisciente/FeatureServer"
+        },
+        {
+            "name": "Camella_Crisciente_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Crisciente_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Dasma_2_at_Islands_Exp",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Dasma_2_at_Islands_Exp/FeatureServer"
+        },
+        {
+            "name": "Camella_Dasma_2_at_the_Islands_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Dasma_2_at_the_Islands_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Dasma_3_at_the_Islands_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Dasma_3_at_the_Islands_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Dasma_at_Islands_Exp",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Dasma_at_Islands_Exp/FeatureServer"
+        },
+        {
+            "name": "Camella_Dasma_at_the_Islands",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Dasma_at_the_Islands/FeatureServer"
+        },
+        {
+            "name": "Camella_Dasmarinas",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Dasmarinas/FeatureServer"
+        },
+        {
+            "name": "Camella_Dasmarinas_PH1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Dasmarinas_PH1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Davao_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Davao_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Camella_Davao_South_Toril",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Davao_South_Toril/FeatureServer"
+        },
+        {
+            "name": "Camella_Davao_South_Toril_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Davao_South_Toril_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Digos",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Digos/FeatureServer"
+        },
+        {
+            "name": "Camella_Digos_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Digos_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Dos_Rio_Trails",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Dos_Rio_Trails/FeatureServer"
+        },
+        {
+            "name": "Camella_Dos_Rios_Trails_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Dos_Rios_Trails_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Ellisande",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Ellisande/FeatureServer"
+        },
+        {
+            "name": "Camella_Ellisande_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Ellisande_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Fiorenza_Phase_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Fiorenza_Phase_3/FeatureServer"
+        },
+        {
+            "name": "Camella_Frontiera_Heights",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Frontiera_Heights/FeatureServer"
+        },
+        {
+            "name": "Camella_Frontiera_South",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Frontiera_South/FeatureServer"
+        },
+        {
+            "name": "Camella_Frontiera_South_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Frontiera_South_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Heights_II",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Heights_II/FeatureServer"
+        },
+        {
+            "name": "Camella_Hillcrest_Legazpi",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Hillcrest_Legazpi/FeatureServer"
+        },
+        {
+            "name": "Camella_Hillcrest_Legazpi_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Hillcrest_Legazpi_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Isabela_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Isabela_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_La_Hacienda_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_La_Hacienda_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_La_Vecina",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_La_Vecina/FeatureServer"
+        },
+        {
+            "name": "Camella_La_Vecina1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_La_Vecina1/FeatureServer"
+        },
+        {
+            "name": "Camella_Laoag_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Laoag_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Laoag_Ph_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Laoag_Ph_2/FeatureServer"
+        },
+        {
+            "name": "Camella_Laoag_Ph_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Laoag_Ph_3/FeatureServer"
+        },
+        {
+            "name": "Camella_Laoag_Ph_4",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Laoag_Ph_4/FeatureServer"
+        },
+        {
+            "name": "Camella_Laoag_Ph_5",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Laoag_Ph_5/FeatureServer"
+        },
+        {
+            "name": "Camella_Laoag_Phase_1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Laoag_Phase_1/FeatureServer"
+        },
+        {
+            "name": "Camella_Legazpi",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Legazpi/FeatureServer"
+        },
+        {
+            "name": "Camella_Legazpi_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Legazpi_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Lessandra_Naga_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Lessandra_Naga_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Lipa_East_Grove",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Lipa_East_Grove/FeatureServer"
+        },
+        {
+            "name": "Camella_Lipa_Heights_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Lipa_Heights_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Meadows",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Meadows/FeatureServer"
+        },
+        {
+            "name": "Camella_Meadows_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Meadows_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Mille_Luce_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Mille_Luce_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Monticello",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Monticello/FeatureServer"
+        },
+        {
+            "name": "Camella_Monticello_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Monticello_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Nasugbu",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Nasugbu/FeatureServer"
+        },
+        {
+            "name": "Camella_Nasugbu_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Nasugbu_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_North_Hill_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_North_Hill_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Nueva_Ecija_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Nueva_Ecija_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Nueva_Ecija_Trails_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Nueva_Ecija_Trails_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Orani",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Orani/FeatureServer"
+        },
+        {
+            "name": "Camella_Orani_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Orani_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Ormoc_North",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Ormoc_North/FeatureServer"
+        },
+        {
+            "name": "Camella_Ozamiz",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Ozamiz/FeatureServer"
+        },
+        {
+            "name": "Camella_Ozamiz_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Ozamiz_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Pagadian",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Pagadian/FeatureServer"
+        },
+        {
+            "name": "Camella_Pagadian_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Pagadian_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Palawan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Palawan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Pampanga_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Pampanga_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Pili_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Pili_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Plantacion_Meridienne",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Plantacion_Meridienne/FeatureServer"
+        },
+        {
+            "name": "Camella_Portello",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Portello/FeatureServer"
+        },
+        {
+            "name": "Camella_Prima_Butuan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Prima_Butuan/FeatureServer"
+        },
+        {
+            "name": "Camella_Prima_Butuan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Prima_Butuan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Prima_Koronadal",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Prima_Koronadal/FeatureServer"
+        },
+        {
+            "name": "Camella_Provence_Ph_9",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Provence_Ph_9/FeatureServer"
+        },
+        {
+            "name": "Camella_Puerto_Princesa",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Puerto_Princesa/FeatureServer"
+        },
+        {
+            "name": "Camella_Puerto_Princesa_The_Island_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Puerto_Princesa_The_Island_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Quezon",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Quezon/FeatureServer"
+        },
+        {
+            "name": "Camella_Quezon_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Quezon_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_San_Juan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_San_Juan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_San_Pablo",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_San_Pablo/FeatureServer"
+        },
+        {
+            "name": "Camella_San_Pablo_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_San_Pablo_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Santiago_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Santiago_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Sierra_Metro_East",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Sierra_Metro_East/FeatureServer"
+        },
+        {
+            "name": "Camella_Sierra_Metro_East_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Sierra_Metro_East_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Silang_PH1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Silang_PH1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Silang_Ph2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Silang_Ph2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Silang_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Silang_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Camella_SJDM_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_SJDM_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Solamente",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Solamente/FeatureServer"
+        },
+        {
+            "name": "Camella_Solamente_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Solamente_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Sorrento_Ph1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Sorrento_Ph1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Southfields",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Southfields/FeatureServer"
+        },
+        {
+            "name": "Camella_Southfields_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Southfields_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Sta__Cruz",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Sta__Cruz/FeatureServer"
+        },
+        {
+            "name": "Camella_Sta_Cruz_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Sta_Cruz_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Sta_Maria_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Sta_Maria_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Sta_Maria_Bulacan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Sta_Maria_Bulacan/FeatureServer"
+        },
+        {
+            "name": "Camella_Sta_Maria_Guardhouse",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Sta_Maria_Guardhouse/FeatureServer"
+        },
+        {
+            "name": "Camella_Sto_Tomas_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Sto_Tomas_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Sto_Tomas_Camella",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Sto_Tomas_Camella/FeatureServer"
+        },
+        {
+            "name": "Camella_Sto_Tomas_North_Trails",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Sto_Tomas_North_Trails/FeatureServer"
+        },
+        {
+            "name": "Camella_Subic",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Subic/FeatureServer"
+        },
+        {
+            "name": "Camella_Subic_Alta",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Subic_Alta/FeatureServer"
+        },
+        {
+            "name": "Camella_Subic_Alta_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Subic_Alta_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Subic_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Subic_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Taal",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Taal/FeatureServer"
+        },
+        {
+            "name": "Camella_Taal_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Taal_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Tagum_Trails",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Tagum_Trails/FeatureServer"
+        },
+        {
+            "name": "Camella_Tagum_Trails_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Tagum_Trails_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Tanza",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Tanza/FeatureServer"
+        },
+        {
+            "name": "Camella_Tanza_PH1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Tanza_PH1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Tarlac_Frontiera",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Tarlac_Frontiera/FeatureServer"
+        },
+        {
+            "name": "Camella_Tarlac_Frontiera_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Tarlac_Frontiera_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Tarlac_Phase_1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Tarlac_Phase_1/FeatureServer"
+        },
+        {
+            "name": "Camella_Tarlac_Phase_1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Tarlac_Phase_1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Tarlac_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Tarlac_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Camella_Tarlac_Phase_2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Tarlac_Phase_2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Tarlac_Phase_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Tarlac_Phase_3/FeatureServer"
+        },
+        {
+            "name": "Camella_Terrazas",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Terrazas/FeatureServer"
+        },
+        {
+            "name": "Camella_Terrazas_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Terrazas_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Trece_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Trece_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Urdaneta",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Urdaneta/FeatureServer"
+        },
+        {
+            "name": "Camella_Urdaneta_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Urdaneta_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Verra_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Verra_Amenities/FeatureServer"
+        },
+        {
+            "name": "Camella_Vita_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Vita_Amenities/FeatureServer"
+        },
+        {
+            "name": "Cerritos_Heights_Phase_1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Cerritos_Heights_Phase_1/FeatureServer"
+        },
+        {
+            "name": "Cerritos_Heights_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Cerritos_Heights_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Citta_Italia_Phase_1_Milano",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Citta_Italia_Phase_1_Milano/FeatureServer"
+        },
+        {
+            "name": "Crown_Asia_Citta_Italia_Venezia_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Crown_Asia_Citta_Italia_Venezia_Amenities/FeatureServer"
+        },
+        {
+            "name": "EH_PILILLA",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/EH_PILILLA/FeatureServer"
+        },
+        {
+            "name": "Empresa_Mariveles",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Empresa_Mariveles/FeatureServer"
+        },
+        {
+            "name": "Empresa_Mariveles_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Empresa_Mariveles_Amenities/FeatureServer"
+        },
+        {
+            "name": "Empresa_Mexico",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Empresa_Mexico/FeatureServer"
+        },
+        {
+            "name": "Empresa_Pililia_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Empresa_Pililia_Amenities/FeatureServer"
+        },
+        {
+            "name": "Empresa_San_Fernando",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Empresa_San_Fernando/FeatureServer"
+        },
+        {
+            "name": "Empresa_San_Fernando_Ph1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Empresa_San_Fernando_Ph1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Empresa_San_Fernando_Phase_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Empresa_San_Fernando_Phase_3/FeatureServer"
+        },
+        {
+            "name": "Empresa_San_Fernando_Phase_3_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Empresa_San_Fernando_Phase_3_Amenities/FeatureServer"
+        },
+        {
+            "name": "Georgia_Club",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Georgia_Club/FeatureServer"
+        },
+        {
+            "name": "Georgia_Club_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Georgia_Club_Amenities/FeatureServer"
+        },
+        {
+            "name": "Georgia_Club_Augusta",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Georgia_Club_Augusta/FeatureServer"
+        },
+        {
+            "name": "Georgia_Club_Augusta_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Georgia_Club_Augusta_Amenities/FeatureServer"
+        },
+        {
+            "name": "Groves_at_Camella_Provence",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Groves_at_Camella_Provence/FeatureServer"
+        },
+        {
+            "name": "Heights_of_Wedgewood_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Heights_of_Wedgewood_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Azienda_Batangas_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Azienda_Batangas_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Bacoor_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Bacoor_3/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Bacoor_3_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Bacoor_3_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Bacoor_4",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Bacoor_4/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Bacoor_5",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Bacoor_5/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Bacoor_5_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Bacoor_5_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Bacoor_6",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Bacoor_6/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Bacoor_6_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Bacoor_6_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Bacoor_7",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Bacoor_7/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Bacoor_7_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Bacoor_7_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Bacoor_8",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Bacoor_8/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Bacoor_9",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Bacoor_9/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Bukandala",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Bukandala/FeatureServer"
+        },
+        {
+            "name": "Lessandra_C_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_C_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Capas_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Capas_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Cielo_SJDM_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Cielo_SJDM_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Gapan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Gapan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Gensan_Trails_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Gensan_Trails_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Heights",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Heights/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Heights_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Heights_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Koronadal_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Koronadal_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Negros_Oriental_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Negros_Oriental_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Nueva_Ecija_Trails",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Nueva_Ecija_Trails/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Orani",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Orani/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Peak",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Peak/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Peak_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Peak_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Prima_Koronadal_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Prima_Koronadal_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Quezon_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Quezon_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_San_Jose",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_San_Jose/FeatureServer"
+        },
+        {
+            "name": "Lessandra_SJDM_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_SJDM_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Sorrento",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Sorrento/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Sorsogon_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Sorsogon_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Taal",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Taal/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Tanza_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Tanza_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Trails_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Trails_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Tuguegarao_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Tuguegarao_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lum_Bacolod_East_Ph1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lum_Bacolod_East_Ph1/FeatureServer"
+        },
+        {
+            "name": "Lum_Res_Cauayan_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lum_Res_Cauayan_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Lum_Res_Cauayan_Phase1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lum_Res_Cauayan_Phase1/FeatureServer"
+        },
+        {
+            "name": "Lumina_Bacolod",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Bacolod/FeatureServer"
+        },
+        {
+            "name": "Lumina_Bacolod_East_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Bacolod_East_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Bacolod_Ph1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Bacolod_Ph1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Bacolod_Ph2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Bacolod_Ph2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Bacolod_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Bacolod_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Lumina_Bauan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Bauan/FeatureServer"
+        },
+        {
+            "name": "Lumina_Bauan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Bauan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Butuan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Butuan/FeatureServer"
+        },
+        {
+            "name": "Lumina_Butuan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Butuan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Butuan_Ph3_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Butuan_Ph3_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Butuan_Phase_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Butuan_Phase_3/FeatureServer"
+        },
+        {
+            "name": "Lumina_Cabanatuan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Cabanatuan/FeatureServer"
+        },
+        {
+            "name": "Lumina_Cabanatuan_Classic",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Cabanatuan_Classic/FeatureServer"
+        },
+        {
+            "name": "Lumina_Cabanatuan_Classic_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Cabanatuan_Classic_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Cabanatuan_Ph_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Cabanatuan_Ph_3/FeatureServer"
+        },
+        {
+            "name": "Lumina_Cabanatuan_Ph1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Cabanatuan_Ph1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Cabanatuan_Ph2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Cabanatuan_Ph2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Cabanatuan_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Cabanatuan_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Lumina_Cabanatuan_Phase_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Cabanatuan_Phase_3/FeatureServer"
+        },
+        {
+            "name": "Lumina_Cabanatuan_Phase_3_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Cabanatuan_Phase_3_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Calauan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Calauan/FeatureServer"
+        },
+        {
+            "name": "Lumina_Calauan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Calauan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Calauan_Phase2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Calauan_Phase2/FeatureServer"
+        },
+        {
+            "name": "Lumina_Calauan_Phase2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Calauan_Phase2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Camarines_Norte",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Camarines_Norte/FeatureServer"
+        },
+        {
+            "name": "Lumina_Camarines_Norte_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Camarines_Norte_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_CamSur",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_CamSur/FeatureServer"
+        },
+        {
+            "name": "Lumina_CamSur_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_CamSur_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Camsur_Classic",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Camsur_Classic/FeatureServer"
+        },
+        {
+            "name": "Lumina_Camsur_Classic_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Camsur_Classic_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Capiz_Ph1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Capiz_Ph1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Capiz_Ph2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Capiz_Ph2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Capiz_Ph3_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Capiz_Ph3_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Capiz_Phase_1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Capiz_Phase_1/FeatureServer"
+        },
+        {
+            "name": "Lumina_Capiz_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Capiz_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Lumina_Capiz_Phase_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Capiz_Phase_3/FeatureServer"
+        },
+        {
+            "name": "Lumina_Cauayan_Ph1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Cauayan_Ph1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Cauayan_Ph2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Cauayan_Ph2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Classic",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Classic/FeatureServer"
+        },
+        {
+            "name": "Lumina_Dumaguete_Classic_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Dumaguete_Classic_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Dumaguete_Ph1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Dumaguete_Ph1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Dumaguete_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Dumaguete_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Lumina_GenSan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_GenSan/FeatureServer"
+        },
+        {
+            "name": "Lumina_GenSan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_GenSan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Gentri",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Gentri/FeatureServer"
+        },
+        {
+            "name": "Lumina_GenTri_Ph1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_GenTri_Ph1_Amenities/FeatureServer"
+        },
+        {
+            "name": "LUMINA_GENTRI_PH2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/LUMINA_GENTRI_PH2/FeatureServer"
+        },
+        {
+            "name": "Lumina_Gran_Europa",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Gran_Europa/FeatureServer"
+        },
+        {
+            "name": "Lumina_Gran_Europa_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Gran_Europa_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Iloilo_Ph_4_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Iloilo_Ph_4_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Iloilo_Ph1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Iloilo_Ph1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Iloilo_Ph2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Iloilo_Ph2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Iloilo_Ph2_Classic_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Iloilo_Ph2_Classic_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Iloilo_Ph3_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Iloilo_Ph3_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Iloilo_Ph4_Classic_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Iloilo_Ph4_Classic_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Iloilo_Phase_1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Iloilo_Phase_1/FeatureServer"
+        },
+        {
+            "name": "Lumina_Iloilo_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Iloilo_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Lumina_Iloilo_Phase_2_Classic",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Iloilo_Phase_2_Classic/FeatureServer"
+        },
+        {
+            "name": "Lumina_Iloilo_Phase_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Iloilo_Phase_3/FeatureServer"
+        },
+        {
+            "name": "Lumina_Iloilo_Phase_4",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Iloilo_Phase_4/FeatureServer"
+        },
+        {
+            "name": "Lumina_Iloilo_Phase_4_Classic",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Iloilo_Phase_4_Classic/FeatureServer"
+        },
+        {
+            "name": "Lumina_Lipa_Ph2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Lipa_Ph2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Lipa_Phase2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Lipa_Phase2/FeatureServer"
+        },
+        {
+            "name": "Lumina_Malaybalay",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Malaybalay/FeatureServer"
+        },
+        {
+            "name": "Lumina_Malaybalay_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Malaybalay_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Manaoag",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Manaoag/FeatureServer"
+        },
+        {
+            "name": "Lumina_Manaoag_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Manaoag_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Ozamis_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Ozamis_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Ozamiz",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Ozamiz/FeatureServer"
+        },
+        {
+            "name": "Lumina_Pagadian",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Pagadian/FeatureServer"
+        },
+        {
+            "name": "Lumina_Pagadian_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Pagadian_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Panabo",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Panabo/FeatureServer"
+        },
+        {
+            "name": "Lumina_Panabo_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Panabo_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Pandi",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Pandi/FeatureServer"
+        },
+        {
+            "name": "Lumina_Pandi_4_Classic",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Pandi_4_Classic/FeatureServer"
+        },
+        {
+            "name": "Lumina_Pandi_4_Classic_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Pandi_4_Classic_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Pandi_5_Classic",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Pandi_5_Classic/FeatureServer"
+        },
+        {
+            "name": "Lumina_Pandi_5_Classic_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Pandi_5_Classic_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Pandi_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Pandi_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Pilar",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Pilar/FeatureServer"
+        },
+        {
+            "name": "Lumina_Pilar_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Pilar_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Pililla",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Pililla/FeatureServer"
+        },
+        {
+            "name": "Lumina_Pililla_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Pililla_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Polomolok",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Polomolok/FeatureServer"
+        },
+        {
+            "name": "Lumina_Polomolok_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Polomolok_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Polomolok_Sales_Analysis_Map",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Polomolok_Sales_Analysis_Map/FeatureServer"
+        },
+        {
+            "name": "Lumina_Res_Bats_Ph2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Res_Bats_Ph2/FeatureServer"
+        },
+        {
+            "name": "Lumina_Residences_Batangas_Ph2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Residences_Batangas_Ph2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Residences_Calumpit",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Residences_Calumpit/FeatureServer"
+        },
+        {
+            "name": "Lumina_Residences_Calumpit_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Residences_Calumpit_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Residences_Plaridel_1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Residences_Plaridel_1/FeatureServer"
+        },
+        {
+            "name": "Lumina_Residences_Plaridel_1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Residences_Plaridel_1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Residences_Plaridel_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Residences_Plaridel_2/FeatureServer"
+        },
+        {
+            "name": "Lumina_Residences_Plaridel_Ph2_Amenity",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Residences_Plaridel_Ph2_Amenity/FeatureServer"
+        },
+        {
+            "name": "Lumina_Rosario_Ph1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Rosario_Ph1/FeatureServer"
+        },
+        {
+            "name": "Lumina_Rosario_Ph1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Rosario_Ph1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Rosario_Ph3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Rosario_Ph3/FeatureServer"
+        },
+        {
+            "name": "Lumina_Rosario_Ph3_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Rosario_Ph3_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Sagay",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Sagay/FeatureServer"
+        },
+        {
+            "name": "Lumina_Sagay_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Sagay_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_San_Jose",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_San_Jose/FeatureServer"
+        },
+        {
+            "name": "Lumina_San_Jose_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_San_Jose_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_San_Jose_Ph2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_San_Jose_Ph2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_San_Jose_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_San_Jose_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Lumina_San_Juan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_San_Juan/FeatureServer"
+        },
+        {
+            "name": "Lumina_San_Juan_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_San_Juan_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_San_Miguel",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_San_Miguel/FeatureServer"
+        },
+        {
+            "name": "Lumina_San_Miguel_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_San_Miguel_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_San_Pablo",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_San_Pablo/FeatureServer"
+        },
+        {
+            "name": "Lumina_San_Pablo_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_San_Pablo_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Sariaya",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Sariaya/FeatureServer"
+        },
+        {
+            "name": "Lumina_Sariaya_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Sariaya_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Silay",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Silay/FeatureServer"
+        },
+        {
+            "name": "Lumina_Silay_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Silay_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Sorsogon",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Sorsogon/FeatureServer"
+        },
+        {
+            "name": "Lumina_Sorsogon_PH1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Sorsogon_PH1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tanauan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tanauan/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tanauan_PH1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tanauan_PH1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tanza_Ph5_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tanza_Ph5_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tanza_Ph6_Classic_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tanza_Ph6_Classic_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tanza_Phase_6_Classic",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tanza_Phase_6_Classic/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tarlac_Classic",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tarlac_Classic/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tarlac_Classic_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tarlac_Classic_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tarlac_Phase_1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tarlac_Phase_1/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tarlac_Phase_1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tarlac_Phase_1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tarlac_Residences",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tarlac_Residences/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tarlac_Residences_Tarlac",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tarlac_Residences_Tarlac/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tuguegarao_Classic_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tuguegarao_Classic_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tuguegarao_Ph1_Classic",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tuguegarao_Ph1_Classic/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tuguegarao_Phase_1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tuguegarao_Phase_1/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tuguegarao_Phase_1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tuguegarao_Phase_1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tuguegarao_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tuguegarao_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tuguegarao_Phase_2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tuguegarao_Phase_2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tuguegarao_Phase_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tuguegarao_Phase_3/FeatureServer"
+        },
+        {
+            "name": "Lumina_Tuguegarao_Phase_3_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Tuguegarao_Phase_3_Amenities/FeatureServer"
+        },
+        {
+            "name": "Lumina_Valencia",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Valencia/FeatureServer"
+        },
+        {
+            "name": "Lumina_Valencia_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lumina_Valencia_Amenities/FeatureServer"
+        },
+        {
+            "name": "Mia_Vita",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Mia_Vita/FeatureServer"
+        },
+        {
+            "name": "Mia_Vita_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Mia_Vita_Amenities/FeatureServer"
+        },
+        {
+            "name": "Northridge_Central_Lane",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Northridge_Central_Lane/FeatureServer"
+        },
+        {
+            "name": "Northridge_Grove_1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Northridge_Grove_1/FeatureServer"
+        },
+        {
+            "name": "Northridge_Grove_1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Northridge_Grove_1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Northridge_Grove_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Northridge_Grove_2/FeatureServer"
+        },
+        {
+            "name": "Northridge_Lane",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Northridge_Lane/FeatureServer"
+        },
+        {
+            "name": "Northridge_View",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Northridge_View/FeatureServer"
+        },
+        {
+            "name": "Northridge_View_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Northridge_View_Amenities/FeatureServer"
+        },
+        {
+            "name": "Orchard",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Orchard/FeatureServer"
+        },
+        {
+            "name": "Orchard_C_Annex",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Orchard_C_Annex/FeatureServer"
+        },
+        {
+            "name": "Orchard_C_Annex_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Orchard_C_Annex_Amenities/FeatureServer"
+        },
+        {
+            "name": "Orchard_Expansion",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Orchard_Expansion/FeatureServer"
+        },
+        {
+            "name": "Orchard_of_Maia_Alta_Play_Area",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Orchard_of_Maia_Alta_Play_Area/FeatureServer"
+        },
+        {
+            "name": "Ponticelli_Gardens",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Ponticelli_Gardens/FeatureServer"
+        },
+        {
+            "name": "Ponticelli_Gardens_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Ponticelli_Gardens_2/FeatureServer"
+        },
+        {
+            "name": "Ponticelli_Gardens_2_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Ponticelli_Gardens_2_Amenities/FeatureServer"
+        },
+        {
+            "name": "Ponticelli_Gardens_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Ponticelli_Gardens_Amenities/FeatureServer"
+        },
+        {
+            "name": "Ponticelli_Hills",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Ponticelli_Hills/FeatureServer"
+        },
+        {
+            "name": "Ponticelli_Hills_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Ponticelli_Hills_Amenities/FeatureServer"
+        },
+        {
+            "name": "Portofino_Heights_Phase_5_to_7",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Portofino_Heights_Phase_5_to_7/FeatureServer"
+        },
+        {
+            "name": "Promenade",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Promenade/FeatureServer"
+        },
+        {
+            "name": "Promenade_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Promenade_Amenities/FeatureServer"
+        },
+        {
+            "name": "Provence_Phase_9",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Provence_Phase_9/FeatureServer"
+        },
+        {
+            "name": "Riverdale",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Riverdale/FeatureServer"
+        },
+        {
+            "name": "Riverdale_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Riverdale_Amenities/FeatureServer"
+        },
+        {
+            "name": "Savannah_Crest_B",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Savannah_Crest_B/FeatureServer"
+        },
+        {
+            "name": "Savannah_Crest_D",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Savannah_Crest_D/FeatureServer"
+        },
+        {
+            "name": "Sienna_Villas",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Sienna_Villas/FeatureServer"
+        },
+        {
+            "name": "Sienna_Villas1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Sienna_Villas1/FeatureServer"
+        },
+        {
+            "name": "Sole_Vita_Toscana",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Sole_Vita_Toscana/FeatureServer"
+        },
+        {
+            "name": "Sorrento",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Sorrento/FeatureServer"
+        },
+        {
+            "name": "Sorrento_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Sorrento_3/FeatureServer"
+        },
+        {
+            "name": "Sorrento_Phase_2B",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Sorrento_Phase_2B/FeatureServer"
+        },
+        {
+            "name": "The_Cove_at_Camella_Palawan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/The_Cove_at_Camella_Palawan/FeatureServer"
+        },
+        {
+            "name": "The_Heights_of_Wedgewood",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/The_Heights_of_Wedgewood/FeatureServer"
+        },
+        {
+            "name": "The_Hills_of_Wedgewood_B",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/The_Hills_of_Wedgewood_B/FeatureServer"
+        },
+        {
+            "name": "The_Orchard_B_of_Savannah",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/The_Orchard_B_of_Savannah/FeatureServer"
+        },
+        {
+            "name": "The_Orchard_C_of_Savannah",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/The_Orchard_C_of_Savannah/FeatureServer"
+        },
+        {
+            "name": "The_Orchard_D_at_Savannah",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/The_Orchard_D_at_Savannah/FeatureServer"
+        },
+        {
+            "name": "The_Orchard_D_of_Savannah_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/The_Orchard_D_of_Savannah_Amenities/FeatureServer"
+        },
+        {
+            "name": "The_Orchard_of_Wedgewood",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/The_Orchard_of_Wedgewood/FeatureServer"
+        },
+        {
+            "name": "Valenza_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Valenza_3/FeatureServer"
+        },
+        {
+            "name": "Valenza_Phase_1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Valenza_Phase_1/FeatureServer"
+        },
+        {
+            "name": "Valenza_Phase_1_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Valenza_Phase_1_Amenities/FeatureServer"
+        },
+        {
+            "name": "Valenza_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Valenza_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Venezia",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Venezia/FeatureServer"
+        },
+        {
+            "name": "Venezia_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Venezia_Amenities/FeatureServer"
+        },
+        {
+            "name": "Venezia_Di_Citta_Italia",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Venezia_Di_Citta_Italia/FeatureServer"
+        },
+        {
+            "name": "Vicenza_5",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Vicenza_5/FeatureServer"
+        },
+        {
+            "name": "Wedgewood_Consolidation_Amenities",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Wedgewood_Consolidation_Amenities/FeatureServer"
+        },
+        {
+            "name": "Willows_of_Wedgewood",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Willows_of_Wedgewood/FeatureServer"
+        },
+        {
+            "name": "Masterplan_with_Data_new",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Masterplan_with_Data_new/FeatureServer"
+        },
+        {
+            "name": "Camella_Nueva_Ecija_Trails",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Nueva_Ecija_Trails/FeatureServer"
+        },
+        {
+            "name": "Camella_Silang",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Silang/FeatureServer"
+        },
+        {
+            "name": "Camella_Pampanga",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Pampanga/FeatureServer"
+        },
+        {
+            "name": "Camella_Taal_Trails",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Taal_Trails/FeatureServer"
+        },
+        {
+            "name": "Camella_Solamente_Lessandra",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Solamente_Lessandra/FeatureServer"
+        },
+        {
+            "name": "Camella_SJDM",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_SJDM/FeatureServer"
+        },
+        {
+            "name": "Camella_Santiago",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Santiago/FeatureServer"
+        },
+        {
+            "name": "Camella_San_Juan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_San_Juan/FeatureServer"
+        },
+        {
+            "name": "Camella_San_Jose",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_San_Jose/FeatureServer"
+        },
+        {
+            "name": "Camella_Pili",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Pili/FeatureServer"
+        },
+        {
+            "name": "Camella_Nueva_Ecija_Phase_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Nueva_Ecija_Phase_2/FeatureServer"
+        },
+        {
+            "name": "Camella_Nueva_Ecija",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Nueva_Ecija/FeatureServer"
+        },
+        {
+            "name": "Camella_Negros_Oriental_Ph_1A",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Negros_Oriental_Ph_1A/FeatureServer"
+        },
+        {
+            "name": "Camella_Negros_Oriental_Ph_1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Negros_Oriental_Ph_1/FeatureServer"
+        },
+        {
+            "name": "Camella_Naga",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Naga/FeatureServer"
+        },
+        {
+            "name": "Camella_Lipa_South_Grove",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Lipa_South_Grove/FeatureServer"
+        },
+        {
+            "name": "Camella_Lipa_Heights",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Lipa_Heights/FeatureServer"
+        },
+        {
+            "name": "Camella_Isabela_Expansion",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Isabela_Expansion/FeatureServer"
+        },
+        {
+            "name": "Camella_Isabela",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Isabela/FeatureServer"
+        },
+        {
+            "name": "Camella_Heights",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Heights/FeatureServer"
+        },
+        {
+            "name": "Camella_Gapan",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Gapan/FeatureServer"
+        },
+        {
+            "name": "Camella_Trece",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Trece/FeatureServer"
+        },
+        {
+            "name": "Camella_Vita",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Vita/FeatureServer"
+        },
+        {
+            "name": "Camella_Dasma_3_at_the_Islands",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Dasma_3_at_the_Islands/FeatureServer"
+        },
+        {
+            "name": "Camella_Dasma_2_at_the_Islands",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Dasma_2_at_the_Islands/FeatureServer"
+        },
+        {
+            "name": "Camella_Cerritos_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Cerritos_2/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Heights_Naga",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Heights_Naga/FeatureServer"
+        },
+        {
+            "name": "Lessandra_SJDM",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_SJDM/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Quezon_Phase_4",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Quezon_Phase_4/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Quezon_Phase_3",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Quezon_Phase_3/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Quezon",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Quezon/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Naga",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Naga/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Koronadal",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Koronadal/FeatureServer"
+        },
+        {
+            "name": "Lessandra_Frontiera_Heights",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Lessandra_Frontiera_Heights/FeatureServer"
+        },
+        {
+            "name": "Camella_Verra_Metro_North",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Verra_Metro_North/FeatureServer"
+        },
+        {
+            "name": "Camella_Tuguegarao_Ph_2",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Tuguegarao_Ph_2/FeatureServer"
+        },
+        {
+            "name": "Camella_Tuguegarao_Ph_1",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Tuguegarao_Ph_1/FeatureServer"
+        },
+        {
+            "name": "Camella_Sorsogon",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/iX3aICG0rFYmpRSY/ArcGIS/rest/services/Camella_Sorsogon/FeatureServer"
+        }
+    ]
+}

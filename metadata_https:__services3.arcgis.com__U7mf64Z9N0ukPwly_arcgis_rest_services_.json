@@ -1,0 +1,510 @@
+{
+    "currentVersion": 11.2,
+    "services": [
+        {
+            "name": "1051f21da3244392908ada4711c1620a_public_view_1612060840158",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/1051f21da3244392908ada4711c1620a_public_view_1612060840158/FeatureServer"
+        },
+        {
+            "name": "98ed57b2ae1343ec9d3f911bd853dfb6_public_view_1612308146820",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/98ed57b2ae1343ec9d3f911bd853dfb6_public_view_1612308146820/FeatureServer"
+        },
+        {
+            "name": "AyU57",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/AyU57/FeatureServer"
+        },
+        {
+            "name": "bl4fS",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/bl4fS/FeatureServer"
+        },
+        {
+            "name": "City_Border",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/City_Border/FeatureServer"
+        },
+        {
+            "name": "d623358158cb4f2bbfa27c6c8e0fae7b_public_view_1612060440831",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/d623358158cb4f2bbfa27c6c8e0fae7b_public_view_1612060440831/FeatureServer"
+        },
+        {
+            "name": "DaIiT",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/DaIiT/FeatureServer"
+        },
+        {
+            "name": "Delineations_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Delineations_WFL1/FeatureServer"
+        },
+        {
+            "name": "Domenigoni_SP",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Domenigoni_SP/FeatureServer"
+        },
+        {
+            "name": "dpw_SDS_Shape_(4)",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/dpw_SDS_Shape_(4)/FeatureServer"
+        },
+        {
+            "name": "e0lkE",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/e0lkE/FeatureServer"
+        },
+        {
+            "name": "El Monte Catch Basins 1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/El Monte Catch Basins 1/FeatureServer"
+        },
+        {
+            "name": "El_Monte_StormDrain",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/El_Monte_StormDrain/FeatureServer"
+        },
+        {
+            "name": "El_Monte_Subwatersheds",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/El_Monte_Subwatersheds/FeatureServer"
+        },
+        {
+            "name": "Estrella_Elementary_School",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Estrella_Elementary_School/FeatureServer"
+        },
+        {
+            "name": "f4dPc",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/f4dPc/FeatureServer"
+        },
+        {
+            "name": "Field_Notes",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Field_Notes/FeatureServer"
+        },
+        {
+            "name": "Focus_Areas",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Focus_Areas/FeatureServer"
+        },
+        {
+            "name": "GgXG4",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/GgXG4/FeatureServer"
+        },
+        {
+            "name": "GhfiM",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/GhfiM/FeatureServer"
+        },
+        {
+            "name": "Glassell_Park_EEC_BMPs",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Glassell_Park_EEC_BMPs/FeatureServer"
+        },
+        {
+            "name": "Hesperia_Facilities_Map_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Hesperia_Facilities_Map_WFL1/FeatureServer"
+        },
+        {
+            "name": "hWsRG",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/hWsRG/FeatureServer"
+        },
+        {
+            "name": "hwy74_landuse_zoning_032618",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/hwy74_landuse_zoning_032618/FeatureServer"
+        },
+        {
+            "name": "hwy74_landuse_zoning_050919",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/hwy74_landuse_zoning_050919/FeatureServer"
+        },
+        {
+            "name": "hwy74_parcels",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/hwy74_parcels/FeatureServer"
+        },
+        {
+            "name": "Inspection_Zones",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Inspection_Zones/FeatureServer"
+        },
+        {
+            "name": "Irwindale Catch Basins 1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Irwindale Catch Basins 1/FeatureServer"
+        },
+        {
+            "name": "Irwindale_BaseFiles",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Irwindale_BaseFiles/FeatureServer"
+        },
+        {
+            "name": "Irwindale_Catch_Basins",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Irwindale_Catch_Basins/FeatureServer"
+        },
+        {
+            "name": "Irwindale_Catch_Basins_2021",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Irwindale_Catch_Basins_2021/FeatureServer"
+        },
+        {
+            "name": "Irwindale_Critical_Source",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Irwindale_Critical_Source/FeatureServer"
+        },
+        {
+            "name": "Irwindale_Outfall_Inventory",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Irwindale_Outfall_Inventory/FeatureServer"
+        },
+        {
+            "name": "Irwindale_Outfall_Inventory_06082020",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Irwindale_Outfall_Inventory_06082020/FeatureServer"
+        },
+        {
+            "name": "Irwindale_Outfall_Inventory_06092020",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Irwindale_Outfall_Inventory_06092020/FeatureServer"
+        },
+        {
+            "name": "Irwindale_Public_Facility_Inventory",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Irwindale_Public_Facility_Inventory/FeatureServer"
+        },
+        {
+            "name": "Irwindale_Public_Facility_Invintory",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Irwindale_Public_Facility_Invintory/FeatureServer"
+        },
+        {
+            "name": "kwrw7",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/kwrw7/FeatureServer"
+        },
+        {
+            "name": "LAUSD Zones 1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/LAUSD Zones 1/FeatureServer"
+        },
+        {
+            "name": "lausd_bmp_base_data_july19",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/lausd_bmp_base_data_july19/FeatureServer"
+        },
+        {
+            "name": "LAUSD_First_50_Schools_Master_BMP_List",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/LAUSD_First_50_Schools_Master_BMP_List/FeatureServer"
+        },
+        {
+            "name": "LAUSD_Master_School_List",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/LAUSD_Master_School_List/FeatureServer"
+        },
+        {
+            "name": "lausd_shapefiles_stormwater_nc_redev",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/lausd_shapefiles_stormwater_nc_redev/FeatureServer"
+        },
+        {
+            "name": "LAUSD_Site_List_CSV",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/LAUSD_Site_List_CSV/FeatureServer"
+        },
+        {
+            "name": "LAUSD_Zones",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/LAUSD_Zones/FeatureServer"
+        },
+        {
+            "name": "Lawndale_City_Boundaries",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Lawndale_City_Boundaries/FeatureServer"
+        },
+        {
+            "name": "Lawndale_Public_Facilities",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Lawndale_Public_Facilities/FeatureServer"
+        },
+        {
+            "name": "Lawndale_Trash_Excluder_Locations",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Lawndale_Trash_Excluder_Locations/FeatureServer"
+        },
+        {
+            "name": "Location_Tracking",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Location_Tracking/FeatureServer"
+        },
+        {
+            "name": "Outfall Photos",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Outfall Photos/FeatureServer"
+        },
+        {
+            "name": "Outfall_Screening_and_Inventory_(CSV)",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Outfall_Screening_and_Inventory_(CSV)/FeatureServer"
+        },
+        {
+            "name": "Palm_Springs_NPDES_Businesses_Inspect",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Palm_Springs_NPDES_Businesses_Inspect/FeatureServer"
+        },
+        {
+            "name": "Parks_and_Gardens",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Parks_and_Gardens/FeatureServer"
+        },
+        {
+            "name": "Parks_Gardens",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Parks_Gardens/FeatureServer"
+        },
+        {
+            "name": "Prado_Raceway_Limits",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Prado_Raceway_Limits/FeatureServer"
+        },
+        {
+            "name": "Public_Facilities",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Public_Facilities/FeatureServer"
+        },
+        {
+            "name": "San_Marcos_BMP_Data_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/San_Marcos_BMP_Data_WFL1/FeatureServer"
+        },
+        {
+            "name": "service_5a7dcfab79f049c0b3d93a38934b739e",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/service_5a7dcfab79f049c0b3d93a38934b739e/FeatureServer"
+        },
+        {
+            "name": "service_977f189faade436dbb351d642c17089b",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/service_977f189faade436dbb351d642c17089b/FeatureServer"
+        },
+        {
+            "name": "service_b3f36224b3ca4b55802170e1fc449289",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/service_b3f36224b3ca4b55802170e1fc449289/FeatureServer"
+        },
+        {
+            "name": "service_cc210d7f73464167b7d14fd7e9b4c9f6",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/service_cc210d7f73464167b7d14fd7e9b4c9f6/FeatureServer"
+        },
+        {
+            "name": "service_ebef2ae2bbb04258a30c5557dc9bf4ab",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/service_ebef2ae2bbb04258a30c5557dc9bf4ab/FeatureServer"
+        },
+        {
+            "name": "site_constraints_basemap",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/site_constraints_basemap/FeatureServer"
+        },
+        {
+            "name": "Sonia_Sotomayor_Learning_Academies_BMPs",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Sonia_Sotomayor_Learning_Academies_BMPs/FeatureServer"
+        },
+        {
+            "name": "Sphere_of_Influence",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Sphere_of_Influence/FeatureServer"
+        },
+        {
+            "name": "stormwater_group1_shapefiles",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/stormwater_group1_shapefiles/FeatureServer"
+        },
+        {
+            "name": "Stormwater_Project_group1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Stormwater_Project_group1/FeatureServer"
+        },
+        {
+            "name": "Subwatershed_Review_AGO",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Subwatershed_Review_AGO/FeatureServer"
+        },
+        {
+            "name": "Subwatershed_Review_Temecula",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Subwatershed_Review_Temecula/FeatureServer"
+        },
+        {
+            "name": "Subwatersheds_AGO_20200415",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Subwatersheds_AGO_20200415/FeatureServer"
+        },
+        {
+            "name": "Subwatersheds_AGO_20200416",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Subwatersheds_AGO_20200416/FeatureServer"
+        },
+        {
+            "name": "survey123_269b37ad18554c6ab899b4f43dc7d957_stakeholder",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/survey123_269b37ad18554c6ab899b4f43dc7d957_stakeholder/FeatureServer"
+        },
+        {
+            "name": "survey123_5c3f7ec22b214dde969897082c37b1e3_stakeholder",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/survey123_5c3f7ec22b214dde969897082c37b1e3_stakeholder/FeatureServer"
+        },
+        {
+            "name": "survey123_80a817218aa8425a9d551a1360020871_stakeholder",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/survey123_80a817218aa8425a9d551a1360020871_stakeholder/FeatureServer"
+        },
+        {
+            "name": "survey123_951da2f45cf340c3bd030c5d2500ebe3_stakeholder",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/survey123_951da2f45cf340c3bd030c5d2500ebe3_stakeholder/FeatureServer"
+        },
+        {
+            "name": "survey123_bdfc490319bd4e09ba74615c7d018076_stakeholder",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/survey123_bdfc490319bd4e09ba74615c7d018076_stakeholder/FeatureServer"
+        },
+        {
+            "name": "survey123_ca99f585d0d249daae13dfe24d338f90_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/survey123_ca99f585d0d249daae13dfe24d338f90_fieldworker/FeatureServer"
+        },
+        {
+            "name": "sXhRk",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/sXhRk/FeatureServer"
+        },
+        {
+            "name": "Temecula_Business_Layers",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Temecula_Business_Layers/FeatureServer"
+        },
+        {
+            "name": "Temecula_Inlets_GIS_AGO",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Temecula_Inlets_GIS_AGO/FeatureServer"
+        },
+        {
+            "name": "Temecula_Trash_Capture_and_Subwatershed_Delineation_REV_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Temecula_Trash_Capture_and_Subwatershed_Delineation_REV_WFL1/FeatureServer"
+        },
+        {
+            "name": "Temecula_Trash_Capture_and_Subwatershed_Delineation_REV2_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Temecula_Trash_Capture_and_Subwatershed_Delineation_REV2_WFL1/FeatureServer"
+        },
+        {
+            "name": "Tract_Maps",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Tract_Maps/FeatureServer"
+        },
+        {
+            "name": "Tract31892",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Tract31892/FeatureServer"
+        },
+        {
+            "name": "Wilson_Creek_Site_Boundary_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Wilson_Creek_Site_Boundary_WFL1/FeatureServer"
+        },
+        {
+            "name": "Temecula_Inlets_Phase_2_Map_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Temecula_Inlets_Phase_2_Map_WFL1/FeatureServer"
+        },
+        {
+            "name": "service_61e282bf5c3d4e4b8d68300866dda217",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/service_61e282bf5c3d4e4b8d68300866dda217/FeatureServer"
+        },
+        {
+            "name": "Big_Tujunga_Canyon_Rd__Drone_Photos_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Big_Tujunga_Canyon_Rd__Drone_Photos_WFL1/FeatureServer"
+        },
+        {
+            "name": "LAUSD_Completed_BMPs_Public_View",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/LAUSD_Completed_BMPs_Public_View/FeatureServer"
+        },
+        {
+            "name": "Kern_Photo_Points",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Kern_Photo_Points/FeatureServer"
+        },
+        {
+            "name": "Proposed_Land_Use",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Proposed_Land_Use/FeatureServer"
+        },
+        {
+            "name": "Banning_Boundary",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Banning_Boundary/FeatureServer"
+        },
+        {
+            "name": "Specific_Plans",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Specific_Plans/FeatureServer"
+        },
+        {
+            "name": "Sphere_of_Influence_Parcels",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Sphere_of_Influence_Parcels/FeatureServer"
+        },
+        {
+            "name": "Existing_LandUse",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Existing_LandUse/FeatureServer"
+        },
+        {
+            "name": "PacoimaDronePhotos",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/PacoimaDronePhotos/FeatureServer"
+        },
+        {
+            "name": "Buena_Park_Map_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Buena_Park_Map_WFL1/FeatureServer"
+        },
+        {
+            "name": "BouquetCanyonPhotos",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/BouquetCanyonPhotos/FeatureServer"
+        },
+        {
+            "name": "Proposed_Overlay",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Proposed_Overlay/FeatureServer"
+        },
+        {
+            "name": "Existing_HOO",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Existing_HOO/FeatureServer"
+        },
+        {
+            "name": "Overlay_Zoning",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/U7mf64Z9N0ukPwly/ArcGIS/rest/services/Overlay_Zoning/FeatureServer"
+        }
+    ]
+}

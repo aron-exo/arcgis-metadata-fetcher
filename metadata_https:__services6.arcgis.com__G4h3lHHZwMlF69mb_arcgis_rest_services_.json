@@ -1,0 +1,1570 @@
+{
+    "currentVersion": 11.2,
+    "services": [
+        {
+            "name": "11_16",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/11_16/FeatureServer"
+        },
+        {
+            "name": "12142023",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/12142023/FeatureServer"
+        },
+        {
+            "name": "3D_Model_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL1/FeatureServer"
+        },
+        {
+            "name": "3D_Model_WSL2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL2/FeatureServer"
+        },
+        {
+            "name": "3D_Model_WSL3",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL3/FeatureServer"
+        },
+        {
+            "name": "3D_Model_WSL4",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL4/FeatureServer"
+        },
+        {
+            "name": "3D_Model_WSL5",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL5/FeatureServer"
+        },
+        {
+            "name": "3D_Model_WSL6",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL6/FeatureServer"
+        },
+        {
+            "name": "3D_Model_WSL7",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL7/FeatureServer"
+        },
+        {
+            "name": "3D_Model_WSL8",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL8/FeatureServer"
+        },
+        {
+            "name": "3D_Model_WSL9",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL9/FeatureServer"
+        },
+        {
+            "name": "3DLidar_Lab3_AT_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3DLidar_Lab3_AT_WFL1/FeatureServer"
+        },
+        {
+            "name": "3DLidar_Lab3_AT_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3DLidar_Lab3_AT_WSL1/FeatureServer"
+        },
+        {
+            "name": "3DLidar_Lab3_AT_WSL5",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3DLidar_Lab3_AT_WSL5/FeatureServer"
+        },
+        {
+            "name": "3DLidar_Lab3_AT_WSL6",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3DLidar_Lab3_AT_WSL6/FeatureServer"
+        },
+        {
+            "name": "Amy_Lab3_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Amy_Lab3_WFL1/FeatureServer"
+        },
+        {
+            "name": "Amy_Lab3_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Amy_Lab3_WSL1/FeatureServer"
+        },
+        {
+            "name": "Amy_Lab3_WSL10",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Amy_Lab3_WSL10/FeatureServer"
+        },
+        {
+            "name": "Amy_Lab3_WSL11",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Amy_Lab3_WSL11/FeatureServer"
+        },
+        {
+            "name": "Amy_Lab3_WSL12",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Amy_Lab3_WSL12/FeatureServer"
+        },
+        {
+            "name": "Amy_Lab3_WSL13",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Amy_Lab3_WSL13/FeatureServer"
+        },
+        {
+            "name": "Amy_Lab3_WSL8",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Amy_Lab3_WSL8/FeatureServer"
+        },
+        {
+            "name": "Amy_Lab3_WSL9",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Amy_Lab3_WSL9/FeatureServer"
+        },
+        {
+            "name": "Bike_Map_2_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Bike_Map_2_WFL1/FeatureServer"
+        },
+        {
+            "name": "Bike_Map_Version_2_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Bike_Map_Version_2_WFL1/FeatureServer"
+        },
+        {
+            "name": "CainM_Lidar_Assignment3_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/CainM_Lidar_Assignment3_WSL1/FeatureServer"
+        },
+        {
+            "name": "CainM_Lidar_Assignment3_WSL2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/CainM_Lidar_Assignment3_WSL2/FeatureServer"
+        },
+        {
+            "name": "CainM_Lidar_Assignment3_WSL3",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/CainM_Lidar_Assignment3_WSL3/FeatureServer"
+        },
+        {
+            "name": "Childcare_Provider",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Childcare_Provider/FeatureServer"
+        },
+        {
+            "name": "Childcare_Providers_Edit",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Childcare_Providers_Edit/FeatureServer"
+        },
+        {
+            "name": "Composting_Facilities",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Composting_Facilities/FeatureServer"
+        },
+        {
+            "name": "Edit",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Edit/FeatureServer"
+        },
+        {
+            "name": "Edit1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Edit1/FeatureServer"
+        },
+        {
+            "name": "EHI_Tract_Hillsborough2022_PLACES",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/EHI_Tract_Hillsborough2022_PLACES/FeatureServer"
+        },
+        {
+            "name": "Environmental_Justice",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Environmental_Justice/FeatureServer"
+        },
+        {
+            "name": "Farmers_market",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Farmers_market/FeatureServer"
+        },
+        {
+            "name": "Farmers_Market_2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Farmers_Market_2/FeatureServer"
+        },
+        {
+            "name": "Fawbush_Lab3_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Fawbush_Lab3_WSL1/FeatureServer"
+        },
+        {
+            "name": "Fawbush_Lab3_WSL2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Fawbush_Lab3_WSL2/FeatureServer"
+        },
+        {
+            "name": "Fawbush_Lab3_WSL3",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Fawbush_Lab3_WSL3/FeatureServer"
+        },
+        {
+            "name": "Fawbush_Lab3_WSL4",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Fawbush_Lab3_WSL4/FeatureServer"
+        },
+        {
+            "name": "FEMA_Flood_Web",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/FEMA_Flood_Web/FeatureServer"
+        },
+        {
+            "name": "fl",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/fl/FeatureServer"
+        },
+        {
+            "name": "Fletcher_WebScene___JH_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Fletcher_WebScene___JH_WSL1/FeatureServer"
+        },
+        {
+            "name": "Florida_parents_as_changemakers",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Florida_parents_as_changemakers/FeatureServer"
+        },
+        {
+            "name": "Florida_Zip_Codes",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Florida_Zip_Codes/FeatureServer"
+        },
+        {
+            "name": "FNAI_USF_Web",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/FNAI_USF_Web/FeatureServer"
+        },
+        {
+            "name": "Food_layers",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Food_layers/FeatureServer"
+        },
+        {
+            "name": "Food_Sovereignty_Zones",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Food_Sovereignty_Zones/FeatureServer"
+        },
+        {
+            "name": "foodbanks",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/foodbanks/FeatureServer"
+        },
+        {
+            "name": "HART_HH",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/HART_HH/FeatureServer"
+        },
+        {
+            "name": "Health",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Health/FeatureServer"
+        },
+        {
+            "name": "Health1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Health1/FeatureServer"
+        },
+        {
+            "name": "HH_7_13_new_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/HH_7_13_new_WFL1/FeatureServer"
+        },
+        {
+            "name": "HH_WebMap_SF_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/HH_WebMap_SF_WFL1/FeatureServer"
+        },
+        {
+            "name": "HHSteve_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/HHSteve_WFL1/FeatureServer"
+        },
+        {
+            "name": "Hillsborough_and_Pinellas_County_Indicators_of_Neighborhood_Stressors_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Hillsborough_and_Pinellas_County_Indicators_of_Neighborhood_Stressors_WFL1/FeatureServer"
+        },
+        {
+            "name": "Hillsborough_County_Bike_Map_Test_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Hillsborough_County_Bike_Map_Test_WFL1/FeatureServer"
+        },
+        {
+            "name": "Hillsborough_County_Food_Planning_Basemap_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Hillsborough_County_Food_Planning_Basemap_WFL1/FeatureServer"
+        },
+        {
+            "name": "Hillsborough_Homegrown_Web_Map_New_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Hillsborough_Homegrown_Web_Map_New_WFL1/FeatureServer"
+        },
+        {
+            "name": "Hillsborough_Soils",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Hillsborough_Soils/FeatureServer"
+        },
+        {
+            "name": "Historic_Districts_of_Tampa_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Historic_Districts_of_Tampa_WFL1/FeatureServer"
+        },
+        {
+            "name": "IECMH_March_3_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/IECMH_March_3_WFL1/FeatureServer"
+        },
+        {
+            "name": "JH_Lab_Test_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/JH_Lab_Test_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lab_3_3D_Modeling_KM_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab_3_3D_Modeling_KM_WFL1/FeatureServer"
+        },
+        {
+            "name": "Lab_3_3D_Modeling_KM_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab_3_3D_Modeling_KM_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lab_3_3D_Modeling_KM_WSL2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab_3_3D_Modeling_KM_WSL2/FeatureServer"
+        },
+        {
+            "name": "Lab_3_3D_Modeling_KM_WSL3",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab_3_3D_Modeling_KM_WSL3/FeatureServer"
+        },
+        {
+            "name": "Lab_3_KMendez_Nov08_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab_3_KMendez_Nov08_WFL1/FeatureServer"
+        },
+        {
+            "name": "Lab_3_KMendez_Nov08_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab_3_KMendez_Nov08_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lab_3_KMendez_Nov08_WSL2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab_3_KMendez_Nov08_WSL2/FeatureServer"
+        },
+        {
+            "name": "Lab_3_KMendez_Nov08_WSL3",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab_3_KMendez_Nov08_WSL3/FeatureServer"
+        },
+        {
+            "name": "Lab3_ABednar_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_ABednar_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_2_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_2_WFL1/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_2_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_2_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_2_WSL10",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_2_WSL10/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_2_WSL5",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_2_WSL5/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_2_WSL6",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_2_WSL6/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_2_WSL7",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_2_WSL7/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_2_WSL8",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_2_WSL8/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_2_WSL9",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_2_WSL9/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_WFL1/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_WSL10",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_WSL10/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_WSL5",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_WSL5/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_WSL6",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_WSL6/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_WSL7",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_WSL7/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_WSL8",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_WSL8/FeatureServer"
+        },
+        {
+            "name": "Lab3_AT_WSL9",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_WSL9/FeatureServer"
+        },
+        {
+            "name": "lab3_jw_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/lab3_jw_WSL1/FeatureServer"
+        },
+        {
+            "name": "lab3_jw_WSL2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/lab3_jw_WSL2/FeatureServer"
+        },
+        {
+            "name": "Lab4Test_Thinh_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab4Test_Thinh_WSL1/FeatureServer"
+        },
+        {
+            "name": "Layers_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Layers_WFL1/FeatureServer"
+        },
+        {
+            "name": "Lee_s_Grocery_Practice_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lee_s_Grocery_Practice_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lee_s_Grocery_Practice_WSL2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lee_s_Grocery_Practice_WSL2/FeatureServer"
+        },
+        {
+            "name": "LeeBuilding_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/LeeBuilding_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lees_Building_Practice_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Building_Practice_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_Practice_BF_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_Practice_BF_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_Practice_CG_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_Practice_CG_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_Practice_Darby_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_Practice_Darby_WSL1/FeatureServer"
+        },
+        {
+            "name": "lees_grocery_class_practice_jw_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/lees_grocery_class_practice_jw_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_Practice_KM_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_Practice_KM_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_Practice_LP_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_Practice_LP_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_Practice_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_Practice_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_Practice1_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_Practice1_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_practiceTN_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_practiceTN_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lees_Models_Test_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Models_Test_WSL1/FeatureServer"
+        },
+        {
+            "name": "Lees_Models_Test_WSL2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Models_Test_WSL2/FeatureServer"
+        },
+        {
+            "name": "Lees_Models_Test_WSL3",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Models_Test_WSL3/FeatureServer"
+        },
+        {
+            "name": "Lees_Models_Test_WSL4",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Models_Test_WSL4/FeatureServer"
+        },
+        {
+            "name": "Lees_Models_Test_WSL5",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Models_Test_WSL5/FeatureServer"
+        },
+        {
+            "name": "Local_Areas",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Local_Areas/FeatureServer"
+        },
+        {
+            "name": "LP_Lab3_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/LP_Lab3_WSL1/FeatureServer"
+        },
+        {
+            "name": "LP_Lab3_WSL2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/LP_Lab3_WSL2/FeatureServer"
+        },
+        {
+            "name": "LP_Lab3_WSL3",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/LP_Lab3_WSL3/FeatureServer"
+        },
+        {
+            "name": "LP_Updated_Scene_Lab3_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/LP_Updated_Scene_Lab3_WSL1/FeatureServer"
+        },
+        {
+            "name": "LP_Updated_Scene_Lab3_WSL2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/LP_Updated_Scene_Lab3_WSL2/FeatureServer"
+        },
+        {
+            "name": "LP_Updated_Scene_Lab3_WSL3",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/LP_Updated_Scene_Lab3_WSL3/FeatureServer"
+        },
+        {
+            "name": "Map_2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Map_2/FeatureServer"
+        },
+        {
+            "name": "Map_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Map_WFL1/FeatureServer"
+        },
+        {
+            "name": "Map_with_added_10ft_Tolerance_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Map_with_added_10ft_Tolerance_WFL1/FeatureServer"
+        },
+        {
+            "name": "Median_Income",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Median_Income/FeatureServer"
+        },
+        {
+            "name": "Median_Income2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Median_Income2/FeatureServer"
+        },
+        {
+            "name": "Missing_3dwarehouseModels",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Missing_3dwarehouseModels/FeatureServer"
+        },
+        {
+            "name": "Missing_Model",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Missing_Model/FeatureServer"
+        },
+        {
+            "name": "Missing_Model_FINALTRY",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Missing_Model_FINALTRY/FeatureServer"
+        },
+        {
+            "name": "ModelHomes_3dWarehouseLP",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/ModelHomes_3dWarehouseLP/FeatureServer"
+        },
+        {
+            "name": "Native_American_Lands",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Native_American_Lands/FeatureServer"
+        },
+        {
+            "name": "new",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/new/FeatureServer"
+        },
+        {
+            "name": "New_Project_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/New_Project_WSL1/FeatureServer"
+        },
+        {
+            "name": "NEWWEBLAYER",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/NEWWEBLAYER/FeatureServer"
+        },
+        {
+            "name": "NWI_USF_Preserve_Web",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/NWI_USF_Preserve_Web/FeatureServer"
+        },
+        {
+            "name": "OpportunityInd_ExportFeature1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/OpportunityInd_ExportFeature1/FeatureServer"
+        },
+        {
+            "name": "OtherMissingModel",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/OtherMissingModel/FeatureServer"
+        },
+        {
+            "name": "OtherMissingModels",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/OtherMissingModels/FeatureServer"
+        },
+        {
+            "name": "parking",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/parking/FeatureServer"
+        },
+        {
+            "name": "parking_2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/parking_2/FeatureServer"
+        },
+        {
+            "name": "PCI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/PCI/FeatureServer"
+        },
+        {
+            "name": "Point_Viewer_Sites_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Point_Viewer_Sites_WFL1/FeatureServer"
+        },
+        {
+            "name": "Population_of_0_to_4_Year_Old",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Population_of_0_to_4_Year_Old/FeatureServer"
+        },
+        {
+            "name": "Readiness_For_Kindergarten",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Readiness_For_Kindergarten/FeatureServer"
+        },
+        {
+            "name": "SA",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SA/FeatureServer"
+        },
+        {
+            "name": "SavSquares",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SavSquares/FeatureServer"
+        },
+        {
+            "name": "Scene_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Scene_WFL1/FeatureServer"
+        },
+        {
+            "name": "Scene_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Scene_WSL1/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_1_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_1_WSL1/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_1_WSL2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_1_WSL2/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_1_WSL3",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_1_WSL3/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_1_WSL4",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_1_WSL4/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_1_WSL5",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_1_WSL5/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_1_WSL6",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_1_WSL6/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_1_WSL7",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_1_WSL7/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL1/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL2/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL3",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL3/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL4",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL4/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL5",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL5/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL6",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL6/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL7",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL7/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL8",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL8/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_WSL1/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_WSL2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_WSL2/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_WSL3",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_WSL3/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_WSL4",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_WSL4/FeatureServer"
+        },
+        {
+            "name": "SceneLab3_WSL5",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_WSL5/FeatureServer"
+        },
+        {
+            "name": "SF_Lab4_Test_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SF_Lab4_Test_WSL1/FeatureServer"
+        },
+        {
+            "name": "socioeconomic",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/socioeconomic/FeatureServer"
+        },
+        {
+            "name": "Support_app",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Support_app/FeatureServer"
+        },
+        {
+            "name": "survey123_9e068a132c6a44b8b6f98b9e18dcc60b_form",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/survey123_9e068a132c6a44b8b6f98b9e18dcc60b_form/FeatureServer"
+        },
+        {
+            "name": "Tampa_Historic_Districts_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Tampa_Historic_Districts_WFL1/FeatureServer"
+        },
+        {
+            "name": "TEST_AG_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/TEST_AG_WSL1/FeatureServer"
+        },
+        {
+            "name": "TEST_LP_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/TEST_LP_WSL1/FeatureServer"
+        },
+        {
+            "name": "TEST_LP_WSL2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/TEST_LP_WSL2/FeatureServer"
+        },
+        {
+            "name": "TEST_LP_WSL3",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/TEST_LP_WSL3/FeatureServer"
+        },
+        {
+            "name": "Test3_LP_lab3_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Test3_LP_lab3_WSL1/FeatureServer"
+        },
+        {
+            "name": "Transportation",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Transportation/FeatureServer"
+        },
+        {
+            "name": "ttbikeped2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/ttbikeped2/FeatureServer"
+        },
+        {
+            "name": "ttbikeped44",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/ttbikeped44/FeatureServer"
+        },
+        {
+            "name": "ttbikeped45",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/ttbikeped45/FeatureServer"
+        },
+        {
+            "name": "USF_Forest_Preserve_and_Golf_Course",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/USF_Forest_Preserve_and_Golf_Course/FeatureServer"
+        },
+        {
+            "name": "USF_School_of_Public_Affairs_Office_Map_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/USF_School_of_Public_Affairs_Office_Map_WFL1/FeatureServer"
+        },
+        {
+            "name": "Web_Attachment_Test_AT_2_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Web_Attachment_Test_AT_2_WSL1/FeatureServer"
+        },
+        {
+            "name": "Web_Attachment_Test_AT_WSL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Web_Attachment_Test_AT_WSL1/FeatureServer"
+        },
+        {
+            "name": "Web_Map_Practice_AG_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Web_Map_Practice_AG_WFL1/FeatureServer"
+        },
+        {
+            "name": "Web_Map_Practice_KN_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Web_Map_Practice_KN_WFL1/FeatureServer"
+        },
+        {
+            "name": "WebPractice_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/WebPractice_WFL1/FeatureServer"
+        },
+        {
+            "name": "3D_Model_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL1/SceneServer"
+        },
+        {
+            "name": "3D_Model_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL2/SceneServer"
+        },
+        {
+            "name": "3D_Model_WSL3",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL3/SceneServer"
+        },
+        {
+            "name": "3D_Model_WSL4",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL4/SceneServer"
+        },
+        {
+            "name": "3D_Model_WSL5",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL5/SceneServer"
+        },
+        {
+            "name": "3D_Model_WSL6",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL6/SceneServer"
+        },
+        {
+            "name": "3D_Model_WSL7",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL7/SceneServer"
+        },
+        {
+            "name": "3D_Model_WSL8",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL8/SceneServer"
+        },
+        {
+            "name": "3D_Model_WSL9",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3D_Model_WSL9/SceneServer"
+        },
+        {
+            "name": "3DLidar_Lab3_AT_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3DLidar_Lab3_AT_WSL1/SceneServer"
+        },
+        {
+            "name": "3DLidar_Lab3_AT_WSL5",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/3DLidar_Lab3_AT_WSL5/SceneServer"
+        },
+        {
+            "name": "Amy_Lab3_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Amy_Lab3_WSL1/SceneServer"
+        },
+        {
+            "name": "Amy_Lab3_WSL10",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Amy_Lab3_WSL10/SceneServer"
+        },
+        {
+            "name": "Amy_Lab3_WSL11",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Amy_Lab3_WSL11/SceneServer"
+        },
+        {
+            "name": "Amy_Lab3_WSL12",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Amy_Lab3_WSL12/SceneServer"
+        },
+        {
+            "name": "Amy_Lab3_WSL13",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Amy_Lab3_WSL13/SceneServer"
+        },
+        {
+            "name": "Amy_Lab3_WSL8",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Amy_Lab3_WSL8/SceneServer"
+        },
+        {
+            "name": "Amy_Lab3_WSL9",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Amy_Lab3_WSL9/SceneServer"
+        },
+        {
+            "name": "CainM_Lidar_Assignment3_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/CainM_Lidar_Assignment3_WSL1/SceneServer"
+        },
+        {
+            "name": "CainM_Lidar_Assignment3_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/CainM_Lidar_Assignment3_WSL2/SceneServer"
+        },
+        {
+            "name": "CainM_Lidar_Assignment3_WSL3",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/CainM_Lidar_Assignment3_WSL3/SceneServer"
+        },
+        {
+            "name": "Eagles_Point_BF2_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Eagles_Point_BF2_WSL1/SceneServer"
+        },
+        {
+            "name": "Eagles_Point_BF2_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Eagles_Point_BF2_WSL2/SceneServer"
+        },
+        {
+            "name": "Eagles_Point_BF2_WSL3",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Eagles_Point_BF2_WSL3/SceneServer"
+        },
+        {
+            "name": "Fawbush_Lab3_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Fawbush_Lab3_WSL1/SceneServer"
+        },
+        {
+            "name": "Fawbush_Lab3_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Fawbush_Lab3_WSL2/SceneServer"
+        },
+        {
+            "name": "Fawbush_Lab3_WSL3",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Fawbush_Lab3_WSL3/SceneServer"
+        },
+        {
+            "name": "Fawbush_Lab3_WSL4",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Fawbush_Lab3_WSL4/SceneServer"
+        },
+        {
+            "name": "Fletcher_WebScene___JH_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Fletcher_WebScene___JH_WSL1/SceneServer"
+        },
+        {
+            "name": "JH_Lab_Test_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/JH_Lab_Test_WSL1/SceneServer"
+        },
+        {
+            "name": "Lab_3_3D_Modeling_KM_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab_3_3D_Modeling_KM_WSL1/SceneServer"
+        },
+        {
+            "name": "Lab_3_3D_Modeling_KM_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab_3_3D_Modeling_KM_WSL2/SceneServer"
+        },
+        {
+            "name": "Lab_3_3D_Modeling_KM_WSL3",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab_3_3D_Modeling_KM_WSL3/SceneServer"
+        },
+        {
+            "name": "Lab_3_KMendez_Nov08_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab_3_KMendez_Nov08_WSL1/SceneServer"
+        },
+        {
+            "name": "Lab_3_KMendez_Nov08_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab_3_KMendez_Nov08_WSL2/SceneServer"
+        },
+        {
+            "name": "Lab_3_KMendez_Nov08_WSL3",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab_3_KMendez_Nov08_WSL3/SceneServer"
+        },
+        {
+            "name": "Lab3_ABednar_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_ABednar_WSL1/SceneServer"
+        },
+        {
+            "name": "Lab3_AT_2_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_2_WSL1/SceneServer"
+        },
+        {
+            "name": "Lab3_AT_2_WSL10",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_2_WSL10/SceneServer"
+        },
+        {
+            "name": "Lab3_AT_2_WSL5",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_2_WSL5/SceneServer"
+        },
+        {
+            "name": "Lab3_AT_2_WSL6",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_2_WSL6/SceneServer"
+        },
+        {
+            "name": "Lab3_AT_2_WSL7",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_2_WSL7/SceneServer"
+        },
+        {
+            "name": "Lab3_AT_2_WSL8",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_2_WSL8/SceneServer"
+        },
+        {
+            "name": "Lab3_AT_2_WSL9",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_2_WSL9/SceneServer"
+        },
+        {
+            "name": "Lab3_AT_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_WSL1/SceneServer"
+        },
+        {
+            "name": "Lab3_AT_WSL10",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_WSL10/SceneServer"
+        },
+        {
+            "name": "Lab3_AT_WSL5",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_WSL5/SceneServer"
+        },
+        {
+            "name": "Lab3_AT_WSL6",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_WSL6/SceneServer"
+        },
+        {
+            "name": "Lab3_AT_WSL7",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_WSL7/SceneServer"
+        },
+        {
+            "name": "Lab3_AT_WSL8",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_WSL8/SceneServer"
+        },
+        {
+            "name": "Lab3_AT_WSL9",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3_AT_WSL9/SceneServer"
+        },
+        {
+            "name": "lab3_jw_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/lab3_jw_WSL1/SceneServer"
+        },
+        {
+            "name": "lab3_jw_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/lab3_jw_WSL2/SceneServer"
+        },
+        {
+            "name": "Lab3Scene_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3Scene_WSL1/SceneServer"
+        },
+        {
+            "name": "Lab3Scene_WSL10",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3Scene_WSL10/SceneServer"
+        },
+        {
+            "name": "Lab3Scene_WSL11",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3Scene_WSL11/SceneServer"
+        },
+        {
+            "name": "Lab3Scene_WSL12",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3Scene_WSL12/SceneServer"
+        },
+        {
+            "name": "Lab3Scene_WSL13",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3Scene_WSL13/SceneServer"
+        },
+        {
+            "name": "Lab3Scene_WSL14",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3Scene_WSL14/SceneServer"
+        },
+        {
+            "name": "Lab3Scene_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3Scene_WSL2/SceneServer"
+        },
+        {
+            "name": "Lab3Scene_WSL3",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3Scene_WSL3/SceneServer"
+        },
+        {
+            "name": "Lab3Scene_WSL5",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3Scene_WSL5/SceneServer"
+        },
+        {
+            "name": "Lab3Scene_WSL6",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3Scene_WSL6/SceneServer"
+        },
+        {
+            "name": "Lab3Scene_WSL7",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3Scene_WSL7/SceneServer"
+        },
+        {
+            "name": "Lab3Scene_WSL8",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3Scene_WSL8/SceneServer"
+        },
+        {
+            "name": "Lab3Scene_WSL9",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab3Scene_WSL9/SceneServer"
+        },
+        {
+            "name": "Lab4Test_Thinh_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lab4Test_Thinh_WSL1/SceneServer"
+        },
+        {
+            "name": "Lee_s_Grocery_Practice_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lee_s_Grocery_Practice_WSL1/SceneServer"
+        },
+        {
+            "name": "Lee_s_Grocery_Practice_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lee_s_Grocery_Practice_WSL2/SceneServer"
+        },
+        {
+            "name": "LeeBuilding_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/LeeBuilding_WSL1/SceneServer"
+        },
+        {
+            "name": "Lees_Building_Practice_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Building_Practice_WSL1/SceneServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_Practice_BF_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_Practice_BF_WSL1/SceneServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_Practice_CG_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_Practice_CG_WSL1/SceneServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_Practice_Darby_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_Practice_Darby_WSL1/SceneServer"
+        },
+        {
+            "name": "lees_grocery_class_practice_jw_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/lees_grocery_class_practice_jw_WSL1/SceneServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_Practice_KM_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_Practice_KM_WSL1/SceneServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_Practice_LP_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_Practice_LP_WSL1/SceneServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_Practice_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_Practice_WSL1/SceneServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_Practice1_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_Practice1_WSL1/SceneServer"
+        },
+        {
+            "name": "Lees_Grocery_Class_practiceTN_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Grocery_Class_practiceTN_WSL1/SceneServer"
+        },
+        {
+            "name": "Lees_Models_Test_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Models_Test_WSL1/SceneServer"
+        },
+        {
+            "name": "Lees_Models_Test_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Models_Test_WSL2/SceneServer"
+        },
+        {
+            "name": "Lees_Models_Test_WSL3",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Models_Test_WSL3/SceneServer"
+        },
+        {
+            "name": "Lees_Models_Test_WSL4",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Models_Test_WSL4/SceneServer"
+        },
+        {
+            "name": "Lees_Models_Test_WSL5",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Lees_Models_Test_WSL5/SceneServer"
+        },
+        {
+            "name": "LP_Lab3_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/LP_Lab3_WSL1/SceneServer"
+        },
+        {
+            "name": "LP_Lab3_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/LP_Lab3_WSL2/SceneServer"
+        },
+        {
+            "name": "LP_Lab3_WSL3",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/LP_Lab3_WSL3/SceneServer"
+        },
+        {
+            "name": "LP_Updated_Scene_Lab3_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/LP_Updated_Scene_Lab3_WSL1/SceneServer"
+        },
+        {
+            "name": "LP_Updated_Scene_Lab3_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/LP_Updated_Scene_Lab3_WSL2/SceneServer"
+        },
+        {
+            "name": "LP_Updated_Scene_Lab3_WSL3",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/LP_Updated_Scene_Lab3_WSL3/SceneServer"
+        },
+        {
+            "name": "Missing_3dwarehouseModels",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Missing_3dwarehouseModels/SceneServer"
+        },
+        {
+            "name": "Missing_Model",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Missing_Model/SceneServer"
+        },
+        {
+            "name": "Missing_Model_FINALTRY",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Missing_Model_FINALTRY/SceneServer"
+        },
+        {
+            "name": "ModelHomes_3dWarehouseLP",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/ModelHomes_3dWarehouseLP/SceneServer"
+        },
+        {
+            "name": "New_Project_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/New_Project_WSL1/SceneServer"
+        },
+        {
+            "name": "OtherMissingModel",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/OtherMissingModel/SceneServer"
+        },
+        {
+            "name": "OtherMissingModels",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/OtherMissingModels/SceneServer"
+        },
+        {
+            "name": "Scene_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Scene_WSL1/SceneServer"
+        },
+        {
+            "name": "SceneLab3_1_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_1_WSL1/SceneServer"
+        },
+        {
+            "name": "SceneLab3_1_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_1_WSL2/SceneServer"
+        },
+        {
+            "name": "SceneLab3_1_WSL3",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_1_WSL3/SceneServer"
+        },
+        {
+            "name": "SceneLab3_1_WSL4",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_1_WSL4/SceneServer"
+        },
+        {
+            "name": "SceneLab3_1_WSL5",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_1_WSL5/SceneServer"
+        },
+        {
+            "name": "SceneLab3_1_WSL6",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_1_WSL6/SceneServer"
+        },
+        {
+            "name": "SceneLab3_1_WSL7",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_1_WSL7/SceneServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL1/SceneServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL2/SceneServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL3",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL3/SceneServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL4",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL4/SceneServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL5",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL5/SceneServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL6",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL6/SceneServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL7",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL7/SceneServer"
+        },
+        {
+            "name": "SceneLab3_F_WSL8",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_F_WSL8/SceneServer"
+        },
+        {
+            "name": "SceneLab3_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_WSL1/SceneServer"
+        },
+        {
+            "name": "SceneLab3_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_WSL2/SceneServer"
+        },
+        {
+            "name": "SceneLab3_WSL3",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_WSL3/SceneServer"
+        },
+        {
+            "name": "SceneLab3_WSL4",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_WSL4/SceneServer"
+        },
+        {
+            "name": "SceneLab3_WSL5",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SceneLab3_WSL5/SceneServer"
+        },
+        {
+            "name": "SF_Lab4_Test_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/SF_Lab4_Test_WSL1/SceneServer"
+        },
+        {
+            "name": "TEST_AG_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/TEST_AG_WSL1/SceneServer"
+        },
+        {
+            "name": "TEST_LP_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/TEST_LP_WSL1/SceneServer"
+        },
+        {
+            "name": "TEST_LP_WSL2",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/TEST_LP_WSL2/SceneServer"
+        },
+        {
+            "name": "TEST_LP_WSL3",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/TEST_LP_WSL3/SceneServer"
+        },
+        {
+            "name": "Test3_LP_lab3_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Test3_LP_lab3_WSL1/SceneServer"
+        },
+        {
+            "name": "Web_Attachment_Test_AT_2_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Web_Attachment_Test_AT_2_WSL1/SceneServer"
+        },
+        {
+            "name": "Web_Attachment_Test_AT_WSL1",
+            "type": "SceneServer",
+            "url": "https://services6.arcgis.com/G4h3lHHZwMlF69mb/ArcGIS/rest/services/Web_Attachment_Test_AT_WSL1/SceneServer"
+        }
+    ]
+}

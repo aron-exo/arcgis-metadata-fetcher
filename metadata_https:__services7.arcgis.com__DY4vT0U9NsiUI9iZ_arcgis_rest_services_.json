@@ -1,0 +1,645 @@
+{
+    "currentVersion": 11.2,
+    "services": [
+        {
+            "name": "1_mi_rad_of_CWC_Hollywood",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/1_mi_rad_of_CWC_Hollywood/FeatureServer"
+        },
+        {
+            "name": "1_mi_radius_of_N1_Center",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/1_mi_radius_of_N1_Center/FeatureServer"
+        },
+        {
+            "name": "15-19 YOs within 10 minutes driving",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/15-19 YOs within 10 minutes driving/FeatureServer"
+        },
+        {
+            "name": "2_mi_rad_of_Alhambra_Center",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/2_mi_rad_of_Alhambra_Center/FeatureServer"
+        },
+        {
+            "name": "2_mi_rad_of_CWC_Hollywood",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/2_mi_rad_of_CWC_Hollywood/FeatureServer"
+        },
+        {
+            "name": "2_mi_rad_of_Downey_Center",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/2_mi_rad_of_Downey_Center/FeatureServer"
+        },
+        {
+            "name": "2_mi_rad_of_Lakewood_Center",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/2_mi_rad_of_Lakewood_Center/FeatureServer"
+        },
+        {
+            "name": "2_mi_rad_of_Pasadena_Center",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/2_mi_rad_of_Pasadena_Center/FeatureServer"
+        },
+        {
+            "name": "2_mi_rad_of_San_Pedro_Center",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/2_mi_rad_of_San_Pedro_Center/FeatureServer"
+        },
+        {
+            "name": "2_mi_rad_of_Wilmington_Center",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/2_mi_rad_of_Wilmington_Center/FeatureServer"
+        },
+        {
+            "name": "2_mi_rad_of_Zone_2B_Center",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/2_mi_rad_of_Zone_2B_Center/FeatureServer"
+        },
+        {
+            "name": "2_mi_rad_of_Zone_2C_Center",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/2_mi_rad_of_Zone_2C_Center/FeatureServer"
+        },
+        {
+            "name": "2_mi_radius_of_Culver_City_Center",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/2_mi_radius_of_Culver_City_Center/FeatureServer"
+        },
+        {
+            "name": "3 mi bounded Sample Address",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/3 mi bounded Sample Address/FeatureServer"
+        },
+        {
+            "name": "3_mi_rad_of_New_Glassel_Park_Center",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/3_mi_rad_of_New_Glassel_Park_Center/FeatureServer"
+        },
+        {
+            "name": "3mi - Sample Address",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/3mi - Sample Address/FeatureServer"
+        },
+        {
+            "name": "5 Mile Radius Bottom Quartile Dallas County",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/5 Mile Radius Bottom Quartile Dallas County/FeatureServer"
+        },
+        {
+            "name": "5 min - Sample Address",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/5 min - Sample Address/FeatureServer"
+        },
+        {
+            "name": "Aggregate Waitlist Zones by Tract",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Aggregate Waitlist Zones by Tract/FeatureServer"
+        },
+        {
+            "name": "Aggregate Waitlist Zones by Tract and Population",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Aggregate Waitlist Zones by Tract and Population/FeatureServer"
+        },
+        {
+            "name": "All_Neighborhoods",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/All_Neighborhoods/FeatureServer"
+        },
+        {
+            "name": "All_School_Deserts",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/All_School_Deserts/FeatureServer"
+        },
+        {
+            "name": "All_Schools_wi_90_minute",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/All_Schools_wi_90_minute/FeatureServer"
+        },
+        {
+            "name": "All_Zones",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/All_Zones/FeatureServer"
+        },
+        {
+            "name": "CWC_Students_w_LatLong",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/CWC_Students_w_LatLong/FeatureServer"
+        },
+        {
+            "name": "Dallas County Enriched Zip Codes",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Dallas County Enriched Zip Codes/FeatureServer"
+        },
+        {
+            "name": "Enriched 3 mi bounded Sample Address",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched 3 mi bounded Sample Address/FeatureServer"
+        },
+        {
+            "name": "Enriched INDY_SchoolDistricts",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched INDY_SchoolDistricts/FeatureServer"
+        },
+        {
+            "name": "Enriched LA  Area Tracts",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched LA  Area Tracts/FeatureServer"
+        },
+        {
+            "name": "Enriched pilotED Block Groups",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched pilotED Block Groups/FeatureServer"
+        },
+        {
+            "name": "Enriched Travel from Sample Address (7 Minutes)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched Travel from Sample Address (7 Minutes)/FeatureServer"
+        },
+        {
+            "name": "Enriched USA_Human_Landscape - ZIP Codes",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched USA_Human_Landscape - ZIP Codes/FeatureServer"
+        },
+        {
+            "name": "Enriched_1_mi_radius_of_N1_Center",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_1_mi_radius_of_N1_Center/FeatureServer"
+        },
+        {
+            "name": "Enriched_1604",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_1604/FeatureServer"
+        },
+        {
+            "name": "Enriched_410",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_410/FeatureServer"
+        },
+        {
+            "name": "Enriched_Alhambra",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Alhambra/FeatureServer"
+        },
+        {
+            "name": "Enriched_Bexar_County",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Bexar_County/FeatureServer"
+        },
+        {
+            "name": "Enriched_BH_SA_Zones_(Areas)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_BH_SA_Zones_(Areas)/FeatureServer"
+        },
+        {
+            "name": "Enriched_Counties___Southern_AZ",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Counties___Southern_AZ/FeatureServer"
+        },
+        {
+            "name": "Enriched_Culver_City_(Areas)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Culver_City_(Areas)/FeatureServer"
+        },
+        {
+            "name": "Enriched_Culver_City_(Areas)_2",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Culver_City_(Areas)_2/FeatureServer"
+        },
+        {
+            "name": "Enriched_Deer_Valley",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Deer_Valley/FeatureServer"
+        },
+        {
+            "name": "Enriched_Downey",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Downey/FeatureServer"
+        },
+        {
+            "name": "Enriched_East_Phoenix",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_East_Phoenix/FeatureServer"
+        },
+        {
+            "name": "Enriched_Enriched_Zone_14___Added_Variables",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Enriched_Zone_14___Added_Variables/FeatureServer"
+        },
+        {
+            "name": "Enriched_Gilbert",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Gilbert/FeatureServer"
+        },
+        {
+            "name": "Enriched_Glassel_Park",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Glassel_Park/FeatureServer"
+        },
+        {
+            "name": "Enriched_Glendale",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Glendale/FeatureServer"
+        },
+        {
+            "name": "Enriched_LA_Times_Neighborhoods",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_LA_Times_Neighborhoods/FeatureServer"
+        },
+        {
+            "name": "Enriched_Lakewood",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Lakewood/FeatureServer"
+        },
+        {
+            "name": "Enriched_Luke_AFB",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Luke_AFB/FeatureServer"
+        },
+        {
+            "name": "Enriched_Maricopa_Pinal",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Maricopa_Pinal/FeatureServer"
+        },
+        {
+            "name": "Enriched_Mesa",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Mesa/FeatureServer"
+        },
+        {
+            "name": "Enriched_Neighborhoods___few_large",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Neighborhoods___few_large/FeatureServer"
+        },
+        {
+            "name": "Enriched_NW_Quad",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_NW_Quad/FeatureServer"
+        },
+        {
+            "name": "Enriched_Pasadena",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Pasadena/FeatureServer"
+        },
+        {
+            "name": "Enriched_Phoenix",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Phoenix/FeatureServer"
+        },
+        {
+            "name": "Enriched_Phoenix_Mountain",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Phoenix_Mountain/FeatureServer"
+        },
+        {
+            "name": "Enriched_Pima_and_Santa_Cruz_Counties",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Pima_and_Santa_Cruz_Counties/FeatureServer"
+        },
+        {
+            "name": "Enriched_San_Fernando_Valley_Zone_1_(Areas)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_San_Fernando_Valley_Zone_1_(Areas)/FeatureServer"
+        },
+        {
+            "name": "Enriched_San_Fernando_Valley_Zone_2_(Areas)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_San_Fernando_Valley_Zone_2_(Areas)/FeatureServer"
+        },
+        {
+            "name": "Enriched_Santa_Ana",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Santa_Ana/FeatureServer"
+        },
+        {
+            "name": "Enriched_School_Deserts",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_School_Deserts/FeatureServer"
+        },
+        {
+            "name": "Enriched_School_Deserts___Tucson_Metro",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_School_Deserts___Tucson_Metro/FeatureServer"
+        },
+        {
+            "name": "Enriched_Scottsdale",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Scottsdale/FeatureServer"
+        },
+        {
+            "name": "Enriched_SW_Quad",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_SW_Quad/FeatureServer"
+        },
+        {
+            "name": "Enriched_Tempe",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Tempe/FeatureServer"
+        },
+        {
+            "name": "Enriched_Wilmington_and_San_Pedro",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Wilmington_and_San_Pedro/FeatureServer"
+        },
+        {
+            "name": "Enriched_Zone_13",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Zone_13/FeatureServer"
+        },
+        {
+            "name": "Enriched_Zone_13___added_variables",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Zone_13___added_variables/FeatureServer"
+        },
+        {
+            "name": "Enriched_Zone_14",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Zone_14/FeatureServer"
+        },
+        {
+            "name": "Enriched_Zone_5_(Areas)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Zone_5_(Areas)/FeatureServer"
+        },
+        {
+            "name": "Enriched_Zone_5___added_variables",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Zone_5___added_variables/FeatureServer"
+        },
+        {
+            "name": "Enriched_Zone_6_(Areas)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Zone_6_(Areas)/FeatureServer"
+        },
+        {
+            "name": "Enriched_Zone_7_(Areas)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Zone_7_(Areas)/FeatureServer"
+        },
+        {
+            "name": "Enriched_Zone_8_(Areas)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Enriched_Zone_8_(Areas)/FeatureServer"
+        },
+        {
+            "name": "GH Denver Zip Codes",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/GH Denver Zip Codes/FeatureServer"
+        },
+        {
+            "name": "Hamilton_County_Enriched_Tracts",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Hamilton_County_Enriched_Tracts/FeatureServer"
+        },
+        {
+            "name": "Housing Information - Tracts",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Housing Information - Tracts/FeatureServer"
+        },
+        {
+            "name": "IDEA-Houston ISDs - Population Growth",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/IDEA-Houston ISDs - Population Growth/FeatureServer"
+        },
+        {
+            "name": "Indy Tracts Enriched",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Indy Tracts Enriched/FeatureServer"
+        },
+        {
+            "name": "Indy_Block_Groups_w_Pop_Income_Poverty",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Indy_Block_Groups_w_Pop_Income_Poverty/FeatureServer"
+        },
+        {
+            "name": "Indy_Neighborhoods_w_School_Age_Children",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Indy_Neighborhoods_w_School_Age_Children/FeatureServer"
+        },
+        {
+            "name": "number_of_school_age_students_in_far_eastside",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/number_of_school_age_students_in_far_eastside/FeatureServer"
+        },
+        {
+            "name": "Population_Density",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Population_Density/FeatureServer"
+        },
+        {
+            "name": "Population_that_identifies_as_a_person_of_color_rev",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Population_that_identifies_as_a_person_of_color_rev/FeatureServer"
+        },
+        {
+            "name": "Poverty - Houston - Census Tracts",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Poverty - Houston - Census Tracts/FeatureServer"
+        },
+        {
+            "name": "Poverty - IDEA-Houston ISDs",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Poverty - IDEA-Houston ISDs/FeatureServer"
+        },
+        {
+            "name": "Poverty - Tracts",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Poverty - Tracts/FeatureServer"
+        },
+        {
+            "name": "Poverty by Census Tract",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Poverty by Census Tract/FeatureServer"
+        },
+        {
+            "name": "Poverty INS_2017",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Poverty INS_2017/FeatureServer"
+        },
+        {
+            "name": "Poverty TPS_2017",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Poverty TPS_2017/FeatureServer"
+        },
+        {
+            "name": "Poverty_Charter_2017",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Poverty_Charter_2017/FeatureServer"
+        },
+        {
+            "name": "PurchasedMailingList",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/PurchasedMailingList/FeatureServer"
+        },
+        {
+            "name": "Racial Demographics by Tracts",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Racial Demographics by Tracts/FeatureServer"
+        },
+        {
+            "name": "Revised_Enriched_Zone_5",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Revised_Enriched_Zone_5/FeatureServer"
+        },
+        {
+            "name": "SA_Enriched_Census_Tracts",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/SA_Enriched_Census_Tracts/FeatureServer"
+        },
+        {
+            "name": "School Age Students in 10 Minutes Driving",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/School Age Students in 10 Minutes Driving/FeatureServer"
+        },
+        {
+            "name": "Schools_by_Neighborhood",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Schools_by_Neighborhood/FeatureServer"
+        },
+        {
+            "name": "Schools_in_Revised_Zone_5",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Schools_in_Revised_Zone_5/FeatureServer"
+        },
+        {
+            "name": "Schools_within_9_ISDs_of_Interest",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Schools_within_9_ISDs_of_Interest/FeatureServer"
+        },
+        {
+            "name": "Schools_within_Pima_County",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Schools_within_Pima_County/FeatureServer"
+        },
+        {
+            "name": "Schools_within_Pinal_County",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Schools_within_Pinal_County/FeatureServer"
+        },
+        {
+            "name": "Schools_within_Santa_Cruz_County",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Schools_within_Santa_Cruz_County/FeatureServer"
+        },
+        {
+            "name": "Schools_within_Zone_13",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Schools_within_Zone_13/FeatureServer"
+        },
+        {
+            "name": "Schools_within_Zone_14",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Schools_within_Zone_14/FeatureServer"
+        },
+        {
+            "name": "Share of Households with Children - Tracts",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Share of Households with Children - Tracts/FeatureServer"
+        },
+        {
+            "name": "Southern_Arizona___Population_Density",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Southern_Arizona___Population_Density/FeatureServer"
+        },
+        {
+            "name": "TEA_Districts",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/TEA_Districts/FeatureServer"
+        },
+        {
+            "name": "Travel from Bethel Ave Address (10 Minutes)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Travel from Bethel Ave Address (10 Minutes)/FeatureServer"
+        },
+        {
+            "name": "Travel from Bethel Ave Address (20 Minutes)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Travel from Bethel Ave Address (20 Minutes)/FeatureServer"
+        },
+        {
+            "name": "Travel from Bethel Ave Address (5 Minutes)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Travel from Bethel Ave Address (5 Minutes)/FeatureServer"
+        },
+        {
+            "name": "Travel from BRHS - 5 Minutes",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Travel from BRHS - 5 Minutes/FeatureServer"
+        },
+        {
+            "name": "Travel from BRHS (10 Minutes)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Travel from BRHS (10 Minutes)/FeatureServer"
+        },
+        {
+            "name": "Travel from BRHS (20 Minutes)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Travel from BRHS (20 Minutes)/FeatureServer"
+        },
+        {
+            "name": "Travel from CWC Hollywood (60 Minutes)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Travel from CWC Hollywood (60 Minutes)/FeatureServer"
+        },
+        {
+            "name": "Travel from CWC Mar Vista (60 Minutes)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Travel from CWC Mar Vista (60 Minutes)/FeatureServer"
+        },
+        {
+            "name": "Travel from CWC Silver Lake (60 Minutes)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Travel from CWC Silver Lake (60 Minutes)/FeatureServer"
+        },
+        {
+            "name": "Travel from Existing Campuses (60 Minutes based on Monday at 830)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Travel from Existing Campuses (60 Minutes based on Monday at 830)/FeatureServer"
+        },
+        {
+            "name": "Travel from Existing Campuses (60 Minutes using traffic - 10a Monday)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Travel from Existing Campuses (60 Minutes using traffic - 10a Monday)/FeatureServer"
+        },
+        {
+            "name": "Travel from Existing Campuses (90 Minutes based on traffic at 8a on Monday)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Travel from Existing Campuses (90 Minutes based on traffic at 8a on Monday)/FeatureServer"
+        },
+        {
+            "name": "Travel from Existing Campuses (90 Minutes w Traffic (10a Monday)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Travel from Existing Campuses (90 Minutes w Traffic (10a Monday)/FeatureServer"
+        },
+        {
+            "name": "Travel from Sample Address (12 Minutes)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Travel from Sample Address (12 Minutes)/FeatureServer"
+        },
+        {
+            "name": "Travel from Sample Address (7 Minutes)",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/Travel from Sample Address (7 Minutes)/FeatureServer"
+        },
+        {
+            "name": "TX_Schools_and_Addresses",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/TX_Schools_and_Addresses/FeatureServer"
+        },
+        {
+            "name": "USA_Human_Landscape - Tracts - HOME TYPE",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/USA_Human_Landscape - Tracts - HOME TYPE/FeatureServer"
+        },
+        {
+            "name": "USA_Human_Landscape - Tracts - POVERTY",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/USA_Human_Landscape - Tracts - POVERTY/FeatureServer"
+        },
+        {
+            "name": "USA_Human_Landscape - Tracts - RACE",
+            "type": "FeatureServer",
+            "url": "https://services7.arcgis.com/DY4vT0U9NsiUI9iZ/ArcGIS/rest/services/USA_Human_Landscape - Tracts - RACE/FeatureServer"
+        }
+    ]
+}

@@ -1,0 +1,1480 @@
+{
+    "currentVersion": 11.2,
+    "services": [
+        {
+            "name": "\u201c2020_Census_Places_FILL",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/\u201c2020_Census_Places_FILL/FeatureServer"
+        },
+        {
+            "name": "2007_Housing_Cost_Burden_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/2007_Housing_Cost_Burden_WFL1/FeatureServer"
+        },
+        {
+            "name": "2007_Owner_Housing_Cost_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/2007_Owner_Housing_Cost_WFL1/FeatureServer"
+        },
+        {
+            "name": "2007_Renter_Housing_Cost_Burden_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/2007_Renter_Housing_Cost_Burden_WFL1/FeatureServer"
+        },
+        {
+            "name": "2010_Housing_Cost_Burden_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/2010_Housing_Cost_Burden_WFL1/FeatureServer"
+        },
+        {
+            "name": "2010_Owner_Cost_Burden_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/2010_Owner_Cost_Burden_WFL1/FeatureServer"
+        },
+        {
+            "name": "2010_Renter_Housing_Cost_Burden_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/2010_Renter_Housing_Cost_Burden_WFL1/FeatureServer"
+        },
+        {
+            "name": "2146_Mallul_Dr",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/2146_Mallul_Dr/FeatureServer"
+        },
+        {
+            "name": "2Nearest_Mexican_Restaurants_(Points)_to_Home_(Points)",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/2Nearest_Mexican_Restaurants_(Points)_to_Home_(Points)/FeatureServer"
+        },
+        {
+            "name": "Abbeys_UK",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Abbeys_UK/FeatureServer"
+        },
+        {
+            "name": "ACS_5year_Data_with_Percentages",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/ACS_5year_Data_with_Percentages/FeatureServer"
+        },
+        {
+            "name": "Alt7_RW",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Alt7_RW/FeatureServer"
+        },
+        {
+            "name": "Ambulance_EOA",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Ambulance_EOA/FeatureServer"
+        },
+        {
+            "name": "Anaheim_School_Collision_Editing",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Anaheim_School_Collision_Editing/FeatureServer"
+        },
+        {
+            "name": "ArbFeatures",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/ArbFeatures/FeatureServer"
+        },
+        {
+            "name": "ArbInfTest",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/ArbInfTest/FeatureServer"
+        },
+        {
+            "name": "ArbLights",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/ArbLights/FeatureServer"
+        },
+        {
+            "name": "ArboretumTrees_June30",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/ArboretumTrees_June30/FeatureServer"
+        },
+        {
+            "name": "Areas_of_Need_Index_with_Qual_Level",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Areas_of_Need_Index_with_Qual_Level/FeatureServer"
+        },
+        {
+            "name": "Asian_Lang_CT",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Asian_Lang_CT/FeatureServer"
+        },
+        {
+            "name": "Assembly_Districts_CA_w_Cal_Grant_Dollars_20190325",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Assembly_Districts_CA_w_Cal_Grant_Dollars_20190325/FeatureServer"
+        },
+        {
+            "name": "ATAM_Dissolve_20210527",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/ATAM_Dissolve_20210527/FeatureServer"
+        },
+        {
+            "name": "Basemap",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Basemap/FeatureServer"
+        },
+        {
+            "name": "Benches",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Benches/FeatureServer"
+        },
+        {
+            "name": "BikeCommuteOSM_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/BikeCommuteOSM_WFL1/FeatureServer"
+        },
+        {
+            "name": "Block_Groups_ORANGE_COUNTY_2018_20181108",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Block_Groups_ORANGE_COUNTY_2018_20181108/FeatureServer"
+        },
+        {
+            "name": "Block_Groups_Orange_County_2021",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Block_Groups_Orange_County_2021/FeatureServer"
+        },
+        {
+            "name": "Blocks_ORANGE_COUNTY_2018_20181108",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Blocks_ORANGE_COUNTY_2018_20181108/FeatureServer"
+        },
+        {
+            "name": "Blocks_Orange_County_2021",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Blocks_Orange_County_2021/FeatureServer"
+        },
+        {
+            "name": "BluesBrews",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/BluesBrews/FeatureServer"
+        },
+        {
+            "name": "Buffer_of_Home_(Points)",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Buffer_of_Home_(Points)/FeatureServer"
+        },
+        {
+            "name": "Buffer_of_Mexican_Restaurants_(Points)",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Buffer_of_Mexican_Restaurants_(Points)/FeatureServer"
+        },
+        {
+            "name": "CAA_2012",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/CAA_2012/FeatureServer"
+        },
+        {
+            "name": "CAA21",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/CAA21/FeatureServer"
+        },
+        {
+            "name": "CAA21_DISSOLVE_20210701",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/CAA21_DISSOLVE_20210701/FeatureServer"
+        },
+        {
+            "name": "California_Counties",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/California_Counties/FeatureServer"
+        },
+        {
+            "name": "CalPop",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/CalPop/FeatureServer"
+        },
+        {
+            "name": "Campground_Buffers_MS",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Campground_Buffers_MS/FeatureServer"
+        },
+        {
+            "name": "Campgrounds_Within_Range_MS",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Campgrounds_Within_Range_MS/FeatureServer"
+        },
+        {
+            "name": "CDP_2010",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/CDP_2010/FeatureServer"
+        },
+        {
+            "name": "CDP_2020",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/CDP_2020/FeatureServer"
+        },
+        {
+            "name": "Census_Blocks_2020",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Census_Blocks_2020/FeatureServer"
+        },
+        {
+            "name": "Census_Tracts_2010",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Census_Tracts_2010/FeatureServer"
+        },
+        {
+            "name": "Census_Tracts_Orange_County_2021",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Census_Tracts_Orange_County_2021/FeatureServer"
+        },
+        {
+            "name": "Census2000_Geogs",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Census2000_Geogs/FeatureServer"
+        },
+        {
+            "name": "Census2010_block_clip_w_CVAP",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Census2010_block_clip_w_CVAP/FeatureServer"
+        },
+        {
+            "name": "Census2020_PL_OC_place_CLIP_w_DATA_20211004",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Census2020_PL_OC_place_CLIP_w_DATA_20211004/FeatureServer"
+        },
+        {
+            "name": "City_2020_Clean_Coastline",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_2020_Clean_Coastline/FeatureServer"
+        },
+        {
+            "name": "City_2020_Clean_with_Sphere",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_2020_Clean_with_Sphere/FeatureServer"
+        },
+        {
+            "name": "City_2021_CDP_Clean_Coastline",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_2021_CDP_Clean_Coastline/FeatureServer"
+        },
+        {
+            "name": "City_2021_Clean_Coastline",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_2021_Clean_Coastline/FeatureServer"
+        },
+        {
+            "name": "City_2021_Clean_Sphere",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_2021_Clean_Sphere/FeatureServer"
+        },
+        {
+            "name": "City_2021_Clean_with_Sphere",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_2021_Clean_with_Sphere/FeatureServer"
+        },
+        {
+            "name": "City_2022_Clean_Coastline",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_2022_Clean_Coastline/FeatureServer"
+        },
+        {
+            "name": "City_TAZ_Anaheim_ATAM",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_TAZ_Anaheim_ATAM/FeatureServer"
+        },
+        {
+            "name": "City_TAZ_Irvine_ITAM",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_TAZ_Irvine_ITAM/FeatureServer"
+        },
+        {
+            "name": "City_TAZ_Irvine_ITAM_202004",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_TAZ_Irvine_ITAM_202004/FeatureServer"
+        },
+        {
+            "name": "City_TAZ_Newport_Beach_NBTAM4",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_TAZ_Newport_Beach_NBTAM4/FeatureServer"
+        },
+        {
+            "name": "City_TAZs_2021",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_TAZs_2021/FeatureServer"
+        },
+        {
+            "name": "CITYTAZ_NOOCEAN_20210706",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/CITYTAZ_NOOCEAN_20210706/FeatureServer"
+        },
+        {
+            "name": "CITYTAZ20210706",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/CITYTAZ20210706/FeatureServer"
+        },
+        {
+            "name": "CITYTAZ21_NEWPORTBEACH_20210706",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/CITYTAZ21_NEWPORTBEACH_20210706/FeatureServer"
+        },
+        {
+            "name": "Congregate_and_HDM",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Congregate_and_HDM/FeatureServer"
+        },
+        {
+            "name": "CT_2000",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/CT_2000/FeatureServer"
+        },
+        {
+            "name": "Desert_Palms_Tool_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Desert_Palms_Tool_WFL1/FeatureServer"
+        },
+        {
+            "name": "Dissolve_Buffer_of_Mexican_Restaurants_(Points)",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Dissolve_Buffer_of_Mexican_Restaurants_(Points)/FeatureServer"
+        },
+        {
+            "name": "Dissolve_YLWD_Sewer_Service_Area",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Dissolve_YLWD_Sewer_Service_Area/FeatureServer"
+        },
+        {
+            "name": "Drainage_Anno",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Drainage_Anno/FeatureServer"
+        },
+        {
+            "name": "Drainages",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Drainages/FeatureServer"
+        },
+        {
+            "name": "DraingeFStructure",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/DraingeFStructure/FeatureServer"
+        },
+        {
+            "name": "Duplicate_Signs",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Duplicate_Signs/FeatureServer"
+        },
+        {
+            "name": "East_Orange_Water_District_Retail_Boundary_LAFCO_20210825",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/East_Orange_Water_District_Retail_Boundary_LAFCO_20210825/FeatureServer"
+        },
+        {
+            "name": "El_Toro_Water_District_Boundary_LAFCO_20220223",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/El_Toro_Water_District_Boundary_LAFCO_20220223/FeatureServer"
+        },
+        {
+            "name": "Electoral_Boundaries_Orange_County_CA",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Electoral_Boundaries_Orange_County_CA/FeatureServer"
+        },
+        {
+            "name": "Emerald_Bay_District_Boundary_LAFCO_20210825",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Emerald_Bay_District_Boundary_LAFCO_20210825/FeatureServer"
+        },
+        {
+            "name": "Existing_ROW",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Existing_ROW/FeatureServer"
+        },
+        {
+            "name": "FC_Features",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/FC_Features/FeatureServer"
+        },
+        {
+            "name": "Food_Ancillary_Svcs_20211116",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Food_Ancillary_Svcs_20211116/FeatureServer"
+        },
+        {
+            "name": "Football_Stadiums_of_England_and_Wales",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Football_Stadiums_of_England_and_Wales/FeatureServer"
+        },
+        {
+            "name": "FullBasemap",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/FullBasemap/FeatureServer"
+        },
+        {
+            "name": "GravityMains",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/GravityMains/FeatureServer"
+        },
+        {
+            "name": "HDM_Clients_October_7_2021",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/HDM_Clients_October_7_2021/FeatureServer"
+        },
+        {
+            "name": "Infrastructure_Oct2016",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Infrastructure_Oct2016/FeatureServer"
+        },
+        {
+            "name": "InternTrees2Acc",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/InternTrees2Acc/FeatureServer"
+        },
+        {
+            "name": "InternTrees2Accession",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/InternTrees2Accession/FeatureServer"
+        },
+        {
+            "name": "Irvine_Boundary",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Irvine_Boundary/FeatureServer"
+        },
+        {
+            "name": "Irvine_ITAM_Review",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Irvine_ITAM_Review/FeatureServer"
+        },
+        {
+            "name": "Irvine_ITAM_TC_TAZ_May_2021",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Irvine_ITAM_TC_TAZ_May_2021/FeatureServer"
+        },
+        {
+            "name": "IRWDLegalBoundaryFEIupdatedPolygon_20220310_DISSOLVE",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/IRWDLegalBoundaryFEIupdatedPolygon_20220310_DISSOLVE/FeatureServer"
+        },
+        {
+            "name": "ITAM_2015_IDs_20210428_Dissolve",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/ITAM_2015_IDs_20210428_Dissolve/FeatureServer"
+        },
+        {
+            "name": "ITAM_2015_IDs_20210504_Dissolve",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/ITAM_2015_IDs_20210504_Dissolve/FeatureServer"
+        },
+        {
+            "name": "ITAM_2015_IDs_20210602_Dissolve",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/ITAM_2015_IDs_20210602_Dissolve/FeatureServer"
+        },
+        {
+            "name": "ITAM_TC_TAZ_April_2021",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/ITAM_TC_TAZ_April_2021/FeatureServer"
+        },
+        {
+            "name": "Jamaica_(Points)_to_Importers",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Jamaica_(Points)_to_Importers/FeatureServer"
+        },
+        {
+            "name": "Join_Features_to_Census_Tracts_Canada_2016_2",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Join_Features_to_Census_Tracts_Canada_2016_2/FeatureServer"
+        },
+        {
+            "name": "Join_Features_to_Join_Features_to_Census_Tracts_Canada_2016_2",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Join_Features_to_Join_Features_to_Census_Tracts_Canada_2016_2/FeatureServer"
+        },
+        {
+            "name": "Justin_Tucker_WO1_Areas_of_Need",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Justin_Tucker_WO1_Areas_of_Need/FeatureServer"
+        },
+        {
+            "name": "Justin_Tucker_WO1_Layers",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Justin_Tucker_WO1_Layers/FeatureServer"
+        },
+        {
+            "name": "Laguna_Beach_Water_District_Boundary_LAFCO_20210825_1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Laguna_Beach_Water_District_Boundary_LAFCO_20210825_1/FeatureServer"
+        },
+        {
+            "name": "LAMurals",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/LAMurals/FeatureServer"
+        },
+        {
+            "name": "Layout_Alt7",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Layout_Alt7/FeatureServer"
+        },
+        {
+            "name": "Layout_Mod_Alt7",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Layout_Mod_Alt7/FeatureServer"
+        },
+        {
+            "name": "Major_Roads_SCAG_Region",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Major_Roads_SCAG_Region/FeatureServer"
+        },
+        {
+            "name": "Map4",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Map4/FeatureServer"
+        },
+        {
+            "name": "Mapping_Incidents_template",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Mapping_Incidents_template/FeatureServer"
+        },
+        {
+            "name": "Mesa_Water_District_Boundary_LAFCO_20210825",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Mesa_Water_District_Boundary_LAFCO_20210825/FeatureServer"
+        },
+        {
+            "name": "MetroLink_Stations",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/MetroLink_Stations/FeatureServer"
+        },
+        {
+            "name": "Mod_Alt7_RW",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Mod_Alt7_RW/FeatureServer"
+        },
+        {
+            "name": "Moulton_Niguel_Water_District_LAFCO_20220323",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Moulton_Niguel_Water_District_LAFCO_20220323/FeatureServer"
+        },
+        {
+            "name": "MoW_OC_Sites_2019_20_and_2020_21",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/MoW_OC_Sites_2019_20_and_2020_21/FeatureServer"
+        },
+        {
+            "name": "MoWCA_ACS_2019_5YEAR_DATA",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/MoWCA_ACS_2019_5YEAR_DATA/FeatureServer"
+        },
+        {
+            "name": "MoWCA_Zip_Relationship_Nov2021",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/MoWCA_Zip_Relationship_Nov2021/FeatureServer"
+        },
+        {
+            "name": "MoWCA_Zip_Relationship_w_Food_Ancil_Srvs_20211130",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/MoWCA_Zip_Relationship_w_Food_Ancil_Srvs_20211130/FeatureServer"
+        },
+        {
+            "name": "Murals_SpecialPlan",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Murals_SpecialPlan/FeatureServer"
+        },
+        {
+            "name": "MWDOC_2022_ADOPTED_DirectorDivisions_20220216",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/MWDOC_2022_ADOPTED_DirectorDivisions_20220216/FeatureServer"
+        },
+        {
+            "name": "MWDOC_Agencies_2019",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/MWDOC_Agencies_2019/FeatureServer"
+        },
+        {
+            "name": "MWDOC_Boundary_Review_Layers",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/MWDOC_Boundary_Review_Layers/FeatureServer"
+        },
+        {
+            "name": "MWDOC_District_Boundary_2020",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/MWDOC_District_Boundary_2020/FeatureServer"
+        },
+        {
+            "name": "NewportBeach_NBTAM_Apr_26_2021",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/NewportBeach_NBTAM_Apr_26_2021/FeatureServer"
+        },
+        {
+            "name": "News_Articles",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/News_Articles/FeatureServer"
+        },
+        {
+            "name": "NH_Black",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/NH_Black/FeatureServer"
+        },
+        {
+            "name": "OC_BOS_DATA_PREP_20200831",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OC_BOS_DATA_PREP_20200831/FeatureServer"
+        },
+        {
+            "name": "OC_Food_Landscape_Layers",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OC_Food_Landscape_Layers/FeatureServer"
+        },
+        {
+            "name": "OC_Landbase_Parcels_2020",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OC_Landbase_Parcels_2020/FeatureServer"
+        },
+        {
+            "name": "OC_Open_Space",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OC_Open_Space/FeatureServer"
+        },
+        {
+            "name": "OC_Parcels_2018",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OC_Parcels_2018/FeatureServer"
+        },
+        {
+            "name": "OC_Parcels_2020_",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OC_Parcels_2020_/FeatureServer"
+        },
+        {
+            "name": "OC_Public_Schools_2018_2019",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OC_Public_Schools_2018_2019/FeatureServer"
+        },
+        {
+            "name": "OC_Water_Areas_2018",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OC_Water_Areas_2018/FeatureServer"
+        },
+        {
+            "name": "OC_ZIP_Codes_2020",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OC_ZIP_Codes_2020/FeatureServer"
+        },
+        {
+            "name": "OCEMS_WO5_Layers",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OCEMS_WO5_Layers/FeatureServer"
+        },
+        {
+            "name": "OCSD_2020",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OCSD_2020/FeatureServer"
+        },
+        {
+            "name": "OCTAM_TAZ_Review_20200827_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OCTAM_TAZ_Review_20200827_WFL1/FeatureServer"
+        },
+        {
+            "name": "OCWD_2019",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OCWD_2019/FeatureServer"
+        },
+        {
+            "name": "OnlyTrees1_Feb_ArbStaff",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OnlyTrees1_Feb_ArbStaff/FeatureServer"
+        },
+        {
+            "name": "OnlyTrees2_ArbStaff",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OnlyTrees2_ArbStaff/FeatureServer"
+        },
+        {
+            "name": "OoA_C1_Sites",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OoA_C1_Sites/FeatureServer"
+        },
+        {
+            "name": "Orange_County_Election_Results_2016",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Orange_County_Election_Results_2016/FeatureServer"
+        },
+        {
+            "name": "Orange_County_PL_CVAP16",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Orange_County_PL_CVAP16/FeatureServer"
+        },
+        {
+            "name": "Orange_County_Retail_Water_Provider_April_21_2021",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Orange_County_Retail_Water_Provider_April_21_2021/FeatureServer"
+        },
+        {
+            "name": "Orange_County_Senior_and_Affordable_Housing_2021",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Orange_County_Senior_and_Affordable_Housing_2021/FeatureServer"
+        },
+        {
+            "name": "ParcelTakes_Mod_Alt7",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/ParcelTakes_Mod_Alt7/FeatureServer"
+        },
+        {
+            "name": "Photo_Locations",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Photo_Locations/FeatureServer"
+        },
+        {
+            "name": "Photo_Modified_Alternative_7",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Photo_Modified_Alternative_7/FeatureServer"
+        },
+        {
+            "name": "physicalGeography",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/physicalGeography/FeatureServer"
+        },
+        {
+            "name": "Places_Orange_County_2010",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Places_Orange_County_2010/FeatureServer"
+        },
+        {
+            "name": "Places_Orange_County_2021",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Places_Orange_County_2021/FeatureServer"
+        },
+        {
+            "name": "Plan_A_Dissolve",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Plan_A_Dissolve/FeatureServer"
+        },
+        {
+            "name": "Plants",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Plants/FeatureServer"
+        },
+        {
+            "name": "POVERTY",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/POVERTY/FeatureServer"
+        },
+        {
+            "name": "Receiver_Existing",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Receiver_Existing/FeatureServer"
+        },
+        {
+            "name": "Receiver_Modified_Alt7",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Receiver_Modified_Alt7/FeatureServer"
+        },
+        {
+            "name": "Retailers_20220805_DRAFT",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Retailers_20220805_DRAFT/FeatureServer"
+        },
+        {
+            "name": "Retailers_20220805_STARTMODS_22220805",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Retailers_20220805_STARTMODS_22220805/FeatureServer"
+        },
+        {
+            "name": "Retailers_Service_Area_Boundary_20220805_START_MODS_singlepart_220805",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Retailers_Service_Area_Boundary_20220805_START_MODS_singlepart_220805/FeatureServer"
+        },
+        {
+            "name": "Retailers_Service_Area_Boundary_20220819_DRAFT",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Retailers_Service_Area_Boundary_20220819_DRAFT/FeatureServer"
+        },
+        {
+            "name": "Retailers_Service_Area_Boundary_20220819_DRAFT_20220926",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Retailers_Service_Area_Boundary_20220819_DRAFT_20220926/FeatureServer"
+        },
+        {
+            "name": "Retailers_Service_Area_Boundary_20220819_DRAFT_B",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Retailers_Service_Area_Boundary_20220819_DRAFT_B/FeatureServer"
+        },
+        {
+            "name": "RMV_Planning_Areas",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/RMV_Planning_Areas/FeatureServer"
+        },
+        {
+            "name": "RowCrops",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/RowCrops/FeatureServer"
+        },
+        {
+            "name": "RowCrops20152016",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/RowCrops20152016/FeatureServer"
+        },
+        {
+            "name": "SAB_Final_1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/SAB_Final_1/FeatureServer"
+        },
+        {
+            "name": "Santa_Margarita_Water_District_LAFCO_20220302",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Santa_Margarita_Water_District_LAFCO_20220302/FeatureServer"
+        },
+        {
+            "name": "SB2021_Dissolve_ATAM_20210614",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/SB2021_Dissolve_ATAM_20210614/FeatureServer"
+        },
+        {
+            "name": "SB2021_Dissolve_ATAM_20210617",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/SB2021_Dissolve_ATAM_20210617/FeatureServer"
+        },
+        {
+            "name": "SCAG_t2a_adj_DRAFT_REC_20210120",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/SCAG_t2a_adj_DRAFT_REC_20210120/FeatureServer"
+        },
+        {
+            "name": "SCAG_TAZ_T2_Layers",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/SCAG_TAZ_T2_Layers/FeatureServer"
+        },
+        {
+            "name": "SCAG_Tier_2_TAZ_2021",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/SCAG_Tier_2_TAZ_2021/FeatureServer"
+        },
+        {
+            "name": "SCAG21T1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/SCAG21T1/FeatureServer"
+        },
+        {
+            "name": "Schools_1920",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Schools_1920/FeatureServer"
+        },
+        {
+            "name": "SecondHarvest_Pantries_20211007",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/SecondHarvest_Pantries_20211007/FeatureServer"
+        },
+        {
+            "name": "Selected_Meals_on_Wheels_Member_Organization_w_Food_and_Ancillary_Services_20211130",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Selected_Meals_on_Wheels_Member_Organization_w_Food_and_Ancillary_Services_20211130/FeatureServer"
+        },
+        {
+            "name": "Serrano_Water_District_Boundary_LAFCO_20210825_1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Serrano_Water_District_Boundary_LAFCO_20210825_1/FeatureServer"
+        },
+        {
+            "name": "Service_Area_(10_km)",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Service_Area_(10_km)/FeatureServer"
+        },
+        {
+            "name": "Sewer_Manholes",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Sewer_Manholes/FeatureServer"
+        },
+        {
+            "name": "Signs_Oct2016",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Signs_Oct2016/FeatureServer"
+        },
+        {
+            "name": "SNAP_Stores_with_Index",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/SNAP_Stores_with_Index/FeatureServer"
+        },
+        {
+            "name": "SoilSamples_General",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/SoilSamples_General/FeatureServer"
+        },
+        {
+            "name": "Sound_Barriers_Alt7",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Sound_Barriers_Alt7/FeatureServer"
+        },
+        {
+            "name": "Sound_Barriers_Mod_Alt7",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Sound_Barriers_Mod_Alt7/FeatureServer"
+        },
+        {
+            "name": "South_Coast_Water_District_Boundary_LAFCO_20220323",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/South_Coast_Water_District_Boundary_LAFCO_20220323/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_20211220_CITYTAZ21",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_20211220_CITYTAZ21/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_20211220_TAZ21_and_Splitblock_2021_20211220_CAA21",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_20211220_TAZ21_and_Splitblock_2021_20211220_CAA21/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210412a_AS_OF_20210429",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210412a_AS_OF_20210429/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210706_DISSOLVE_CITYTAZ21_b_ANAHEIM",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210706_DISSOLVE_CITYTAZ21_b_ANAHEIM/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210706_DISSOLVE_CITYTAZ21_b_IRVINE",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210706_DISSOLVE_CITYTAZ21_b_IRVINE/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210729_DISSOLVE_SCAGTZ21T2",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210729_DISSOLVE_SCAGTZ21T2/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210729_DISSOLVE_TAZ21",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210729_DISSOLVE_TAZ21/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210803_DISSOLVE_SCAGTZ21T2",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210803_DISSOLVE_SCAGTZ21T2/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210803_DISSOLVE_TAZ21",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210803_DISSOLVE_TAZ21/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210803_DISSOLVE_TAZ21_TV_COPY_SORT_UL",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210803_DISSOLVE_TAZ21_TV_COPY_SORT_UL/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210818_DISSOLVE_SCAGTZ21T2",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210818_DISSOLVE_SCAGTZ21T2/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210818_DISSOLVE_TAZ21",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210818_DISSOLVE_TAZ21/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210818_DISSOLVE_TAZ21_rename_20210905",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210818_DISSOLVE_TAZ21_rename_20210905/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210818_DISSOLVE_TAZ21_SORT_UL",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210818_DISSOLVE_TAZ21_SORT_UL/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210818_DISSOLVE_TAZ21_SORT_UL_B",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210818_DISSOLVE_TAZ21_SORT_UL_B/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210913_DISSOLVE_TAZ21_rename",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210913_DISSOLVE_TAZ21_rename/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210913_DISSOLVE_TAZ21_rename_20210926_a",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210913_DISSOLVE_TAZ21_rename_20210926_a/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20210913_DISSOLVE_TAZ21_rename_20210927_a",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20210913_DISSOLVE_TAZ21_rename_20210927_a/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20211001_w_PL_v_E_DISSOLVE_CAA21_A",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20211001_w_PL_v_E_DISSOLVE_CAA21_A/FeatureServer"
+        },
+        {
+            "name": "Splitblock_2021_Base_20211001_w_PL_v_E_DISSOLVE_TAZ21_A",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_2021_Base_20211001_w_PL_v_E_DISSOLVE_TAZ21_A/FeatureServer"
+        },
+        {
+            "name": "Splitblock_TAZ21",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Splitblock_TAZ21/FeatureServer"
+        },
+        {
+            "name": "State_Senate_Districts_CA_w_Cal_Grant_Dollars_20190325",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/State_Senate_Districts_CA_w_Cal_Grant_Dollars_20190325/FeatureServer"
+        },
+        {
+            "name": "Streams_and_Creeks",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Streams_and_Creeks/FeatureServer"
+        },
+        {
+            "name": "StudyArea_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/StudyArea_WFL1/FeatureServer"
+        },
+        {
+            "name": "survey123_00ba840243f14dc08a41f83639eabdc2_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/survey123_00ba840243f14dc08a41f83639eabdc2_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_0734b3e102be4ba0b53ee5536a1cf7bd_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/survey123_0734b3e102be4ba0b53ee5536a1cf7bd_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_11bb013cc7b944e88d7c2d5eb9d028b0_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/survey123_11bb013cc7b944e88d7c2d5eb9d028b0_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_48072eb785bb430ab78ecb7acefdbd1a_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/survey123_48072eb785bb430ab78ecb7acefdbd1a_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_e90fec0d1ecb4f8292b73cfe686fced2_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/survey123_e90fec0d1ecb4f8292b73cfe686fced2_fieldworker/FeatureServer"
+        },
+        {
+            "name": "TAZ_2012",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TAZ_2012/FeatureServer"
+        },
+        {
+            "name": "TAZ_ITAM_Updates_20210622",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TAZ_ITAM_Updates_20210622/FeatureServer"
+        },
+        {
+            "name": "TAZ21",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TAZ21/FeatureServer"
+        },
+        {
+            "name": "TAZ21_20210329",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TAZ21_20210329/FeatureServer"
+        },
+        {
+            "name": "TAZ21_20210329_Dissolve",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TAZ21_20210329_Dissolve/FeatureServer"
+        },
+        {
+            "name": "TAZ21_FILL",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TAZ21_FILL/FeatureServer"
+        },
+        {
+            "name": "TAZ21_Update_20210412",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TAZ21_Update_20210412/FeatureServer"
+        },
+        {
+            "name": "TAZ21_Update_20210429",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TAZ21_Update_20210429/FeatureServer"
+        },
+        {
+            "name": "TAZ21_Update_20210512",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TAZ21_Update_20210512/FeatureServer"
+        },
+        {
+            "name": "TAZ21_Update_20210527",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TAZ21_Update_20210527/FeatureServer"
+        },
+        {
+            "name": "TAZ21_Update_20210622",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TAZ21_Update_20210622/FeatureServer"
+        },
+        {
+            "name": "TAZ2120210706",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TAZ2120210706/FeatureServer"
+        },
+        {
+            "name": "TAZ2120210706_OUTLINE",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TAZ2120210706_OUTLINE/FeatureServer"
+        },
+        {
+            "name": "Topo_Map",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Topo_Map/FeatureServer"
+        },
+        {
+            "name": "Trabuco_Water_District_Boundary_LAFCO_20210825",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Trabuco_Water_District_Boundary_LAFCO_20210825/FeatureServer"
+        },
+        {
+            "name": "Travel_from_Home_(Points)_(15_Kilometers)",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Travel_from_Home_(Points)_(15_Kilometers)/FeatureServer"
+        },
+        {
+            "name": "TreeInventory_Arevalo",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TreeInventory_Arevalo/FeatureServer"
+        },
+        {
+            "name": "TreeInventoryShelton",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TreeInventoryShelton/FeatureServer"
+        },
+        {
+            "name": "Trees_Dec26_2017_Test",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Trees_Dec26_2017_Test/FeatureServer"
+        },
+        {
+            "name": "Trees1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Trees1/FeatureServer"
+        },
+        {
+            "name": "Trees1IDSignCond",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Trees1IDSignCond/FeatureServer"
+        },
+        {
+            "name": "Trees2016",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Trees2016/FeatureServer"
+        },
+        {
+            "name": "Trees2IDSignCond",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Trees2IDSignCond/FeatureServer"
+        },
+        {
+            "name": "TreesWithJoinApril12",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/TreesWithJoinApril12/FeatureServer"
+        },
+        {
+            "name": "Tuesday_230_345",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Tuesday_230_345/FeatureServer"
+        },
+        {
+            "name": "Tussock_Within_Buffers_MS",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Tussock_Within_Buffers_MS/FeatureServer"
+        },
+        {
+            "name": "Veg_BSA",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Veg_BSA/FeatureServer"
+        },
+        {
+            "name": "VRTourTest",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/VRTourTest/FeatureServer"
+        },
+        {
+            "name": "WATER_LEGAL_AREA_20220802",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/WATER_LEGAL_AREA_20220802/FeatureServer"
+        },
+        {
+            "name": "WATER_LEGAL_AREA_20220802_W_COLOR",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/WATER_LEGAL_AREA_20220802_W_COLOR/FeatureServer"
+        },
+        {
+            "name": "WATER_SERVICE_AREA_20220802",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/WATER_SERVICE_AREA_20220802/FeatureServer"
+        },
+        {
+            "name": "WATER_SERVICE_AREA_20220802_W_COLOR",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/WATER_SERVICE_AREA_20220802_W_COLOR/FeatureServer"
+        },
+        {
+            "name": "Yorba_Linda_Water_District_LAFCO_20210825",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Yorba_Linda_Water_District_LAFCO_20210825/FeatureServer"
+        },
+        {
+            "name": "Zip_Codes_ACS_Data_20190807",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Zip_Codes_ACS_Data_20190807/FeatureServer"
+        },
+        {
+            "name": "Zip_Codes_EXPERIAN_Data_20191107",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Zip_Codes_EXPERIAN_Data_20191107/FeatureServer"
+        },
+        {
+            "name": "Zip_Codes_EXPERIAN_Data_20191115",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Zip_Codes_EXPERIAN_Data_20191115/FeatureServer"
+        },
+        {
+            "name": "Zip_Codes_HH_Income_CA_20190514",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Zip_Codes_HH_Income_CA_20190514/FeatureServer"
+        },
+        {
+            "name": "Retailers_Water_Agency_Legal_20221130",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Retailers_Water_Agency_Legal_20221130/FeatureServer"
+        },
+        {
+            "name": "Retailers_Water_Service_Areas_20221102",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Retailers_Water_Service_Areas_20221102/FeatureServer"
+        },
+        {
+            "name": "OUTLINE_Retailers_Water_Service_Areas_20221102",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OUTLINE_Retailers_Water_Service_Areas_20221102/FeatureServer"
+        },
+        {
+            "name": "OUTLINE_Retailers_Water_Agency_Legal_20221130",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OUTLINE_Retailers_Water_Agency_Legal_20221130/FeatureServer"
+        },
+        {
+            "name": "Retailers_Water_Service_Areas_20221208",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Retailers_Water_Service_Areas_20221208/FeatureServer"
+        },
+        {
+            "name": "Retailers_Water_Service_Areas_20221208_b",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Retailers_Water_Service_Areas_20221208_b/FeatureServer"
+        },
+        {
+            "name": "CalVacantt",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/CalVacantt/FeatureServer"
+        },
+        {
+            "name": "CalPopp",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/CalPopp/FeatureServer"
+        },
+        {
+            "name": "City_2022_Clean_Coastline_20230110",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_2022_Clean_Coastline_20230110/FeatureServer"
+        },
+        {
+            "name": "City_2023_Clean_Coastline",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_2023_Clean_Coastline/FeatureServer"
+        },
+        {
+            "name": "Retailers_Water_Agency_Legal_20221130_20230110",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Retailers_Water_Agency_Legal_20221130_20230110/FeatureServer"
+        },
+        {
+            "name": "Orange_County_Unified_School_Districts_20180906",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Orange_County_Unified_School_Districts_20180906/FeatureServer"
+        },
+        {
+            "name": "Retailers_Water_Agency_Legal_20230111_SMWD_only",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Retailers_Water_Agency_Legal_20230111_SMWD_only/FeatureServer"
+        },
+        {
+            "name": "SAMPLE_DD12_20221019_A",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/SAMPLE_DD12_20221019_A/FeatureServer"
+        },
+        {
+            "name": "MV2021_PLAN_A_20211117",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/MV2021_PLAN_A_20211117/FeatureServer"
+        },
+        {
+            "name": "MWDOC_Agency_20211012_LAFCO_Legal",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/MWDOC_Agency_20211012_LAFCO_Legal/FeatureServer"
+        },
+        {
+            "name": "Schools_2021_2022",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Schools_2021_2022/FeatureServer"
+        },
+        {
+            "name": "2020_Census_Block_Groups",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/2020_Census_Block_Groups/FeatureServer"
+        },
+        {
+            "name": "2020_Census_Blocks",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/2020_Census_Blocks/FeatureServer"
+        },
+        {
+            "name": "Plan_1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Plan_1/FeatureServer"
+        },
+        {
+            "name": "Plan_2",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Plan_2/FeatureServer"
+        },
+        {
+            "name": "Plan_3",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Plan_3/FeatureServer"
+        },
+        {
+            "name": "Plan_4",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Plan_4/FeatureServer"
+        },
+        {
+            "name": "Plan_5",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Plan_5/FeatureServer"
+        },
+        {
+            "name": "Nigeria_Flood_ahuh1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Nigeria_Flood_ahuh1/FeatureServer"
+        },
+        {
+            "name": "Orange_County_Retail_Water_Agency_(LEGAL)",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Orange_County_Retail_Water_Agency_(LEGAL)/FeatureServer"
+        },
+        {
+            "name": "Orange_County_Water_Provider_Service_Area_",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Orange_County_Water_Provider_Service_Area_/FeatureServer"
+        },
+        {
+            "name": "Orange_County_Jurisdictions_(20230829)",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Orange_County_Jurisdictions_(20230829)/FeatureServer"
+        },
+        {
+            "name": "Zips2020FoodInsecure",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Zips2020FoodInsecure/FeatureServer"
+        },
+        {
+            "name": "Tract2010FoodInsecure",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Tract2010FoodInsecure/FeatureServer"
+        },
+        {
+            "name": "OC_City_Boundary",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OC_City_Boundary/FeatureServer"
+        },
+        {
+            "name": "Single_Family_Dwelling_OC",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Single_Family_Dwelling_OC/FeatureServer"
+        },
+        {
+            "name": "SFD_2024_Test",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/SFD_2024_Test/FeatureServer"
+        },
+        {
+            "name": "City_2024_Clean_Coastline",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_2024_Clean_Coastline/FeatureServer"
+        },
+        {
+            "name": "City_2023_Clean_Coastline_NEW",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/City_2023_Clean_Coastline_NEW/FeatureServer"
+        },
+        {
+            "name": "OCSan_Boundary_2023_03",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/OCSan_Boundary_2023_03/FeatureServer"
+        },
+        {
+            "name": "Food_Insecurity_Index_2023_by_Zip_from_Conduent",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Food_Insecurity_Index_2023_by_Zip_from_Conduent/FeatureServer"
+        },
+        {
+            "name": "Health_Equity_Index_2023_by_Zip_from_Conduent",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Health_Equity_Index_2023_by_Zip_from_Conduent/FeatureServer"
+        },
+        {
+            "name": "Mental_Health_Index_2023_by_Zip_from_Conduent",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Mental_Health_Index_2023_by_Zip_from_Conduent/FeatureServer"
+        },
+        {
+            "name": "Health_Equity_Index_2023_Zip_from_Conduent",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Health_Equity_Index_2023_Zip_from_Conduent/FeatureServer"
+        },
+        {
+            "name": "Mental_Health_Index_2023_Zip_from_Conduent",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Mental_Health_Index_2023_Zip_from_Conduent/FeatureServer"
+        },
+        {
+            "name": "Habitat_Map_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Habitat_Map_WFL1/FeatureServer"
+        },
+        {
+            "name": "Ownership_Map_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Ownership_Map_WFL1/FeatureServer"
+        },
+        {
+            "name": "Land_Cover_Map_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Land_Cover_Map_WFL1/FeatureServer"
+        },
+        {
+            "name": "Criteria_land",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Criteria_land/FeatureServer"
+        },
+        {
+            "name": "Native_Tree_Observations",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Native_Tree_Observations/FeatureServer"
+        },
+        {
+            "name": "Native_Tree_Observation_Map_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Native_Tree_Observation_Map_WFL1/FeatureServer"
+        },
+        {
+            "name": "Critical_Habitat",
+            "type": "FeatureServer",
+            "url": "https://services3.arcgis.com/kBkwjVOhc0QonEjP/ArcGIS/rest/services/Critical_Habitat/FeatureServer"
+        }
+    ]
+}

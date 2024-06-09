@@ -1,0 +1,1670 @@
+{
+    "currentVersion": 11.2,
+    "services": [
+        {
+            "name": "10_minute_walk",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/10_minute_walk/FeatureServer"
+        },
+        {
+            "name": "2015_2019_NNEIEthnoraceCounty",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2015_2019_NNEIEthnoraceCounty/FeatureServer"
+        },
+        {
+            "name": "2015NNEIEthnorace",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2015NNEIEthnorace/FeatureServer"
+        },
+        {
+            "name": "2016NNEIEthnorace",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2016NNEIEthnorace/FeatureServer"
+        },
+        {
+            "name": "2017NNEIEthnorace",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2017NNEIEthnorace/FeatureServer"
+        },
+        {
+            "name": "2018_NRI_CT_test",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2018_NRI_CT_test/FeatureServer"
+        },
+        {
+            "name": "2018_Track3_ElMonteRegion_Reading_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2018_Track3_ElMonteRegion_Reading_Final/FeatureServer"
+        },
+        {
+            "name": "2018NNEIEthnorace",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2018NNEIEthnorace/FeatureServer"
+        },
+        {
+            "name": "2019_DC_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2019_DC_EDI/FeatureServer"
+        },
+        {
+            "name": "2019_Track3_5_DC_NRI_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2019_Track3_5_DC_NRI_EDI/FeatureServer"
+        },
+        {
+            "name": "2019NNEIEthnorace",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2019NNEIEthnorace/FeatureServer"
+        },
+        {
+            "name": "2020_LACounty_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2020_LACounty_EDI/FeatureServer"
+        },
+        {
+            "name": "2020_LACounty_NRI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2020_LACounty_NRI/FeatureServer"
+        },
+        {
+            "name": "2020_LACounty_NRI_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2020_LACounty_NRI_EDI/FeatureServer"
+        },
+        {
+            "name": "2020_LAUSD_Domain_with_Most_Vulnerabilities",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2020_LAUSD_Domain_with_Most_Vulnerabilities/FeatureServer"
+        },
+        {
+            "name": "2020_LAUSD_Pct_Vulnerable_in_Communication_Skills_and_General_Knowledge",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2020_LAUSD_Pct_Vulnerable_in_Communication_Skills_and_General_Knowledge/FeatureServer"
+        },
+        {
+            "name": "2020_LAUSD_Pct_Vulnerable_in_Emotional_Maturity",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2020_LAUSD_Pct_Vulnerable_in_Emotional_Maturity/FeatureServer"
+        },
+        {
+            "name": "2020_LAUSD_Pct_Vulnerable_in_Language_and_Cognitive_Development",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2020_LAUSD_Pct_Vulnerable_in_Language_and_Cognitive_Development/FeatureServer"
+        },
+        {
+            "name": "2020_LAUSD_Pct_Vulnerable_in_Physical_Health_and_Well_being",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2020_LAUSD_Pct_Vulnerable_in_Physical_Health_and_Well_being/FeatureServer"
+        },
+        {
+            "name": "2020_LAUSD_Pct_Vulnerable_in_Social_Competence",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2020_LAUSD_Pct_Vulnerable_in_Social_Competence/FeatureServer"
+        },
+        {
+            "name": "2020_LAUSD_Pct_Vulnerable_on_1_or_More_Domains",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2020_LAUSD_Pct_Vulnerable_on_1_or_More_Domains/FeatureServer"
+        },
+        {
+            "name": "2020_MDI_ElMonte_5thGrade_WebMap",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2020_MDI_ElMonte_5thGrade_WebMap/FeatureServer"
+        },
+        {
+            "name": "2020_MDI_ElMonte_7thGrade_WebMap",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2020_MDI_ElMonte_7thGrade_WebMap/FeatureServer"
+        },
+        {
+            "name": "2021_NRI_California",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2021_NRI_California/FeatureServer"
+        },
+        {
+            "name": "2021_Pomona_4th_MDI_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2021_Pomona_4th_MDI_Final/FeatureServer"
+        },
+        {
+            "name": "2021_Pomona_7th_MDI_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2021_Pomona_7th_MDI_Final/FeatureServer"
+        },
+        {
+            "name": "2021_Track2_Spartanburg_ChildCare_shp",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2021_Track2_Spartanburg_ChildCare_shp/FeatureServer"
+        },
+        {
+            "name": "2021_Track3_CHEQ_shp",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2021_Track3_CHEQ_shp/FeatureServer"
+        },
+        {
+            "name": "2021_Track3_SantaMonica_ChildCareSubsidy_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2021_Track3_SantaMonica_ChildCareSubsidy_Final/FeatureServer"
+        },
+        {
+            "name": "2021_Track3_SantaMonica_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2021_Track3_SantaMonica_EDI/FeatureServer"
+        },
+        {
+            "name": "2021_Track3_SantaMonica_Rent_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2021_Track3_SantaMonica_Rent_Final/FeatureServer"
+        },
+        {
+            "name": "2022_COT",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_COT/FeatureServer"
+        },
+        {
+            "name": "2022_COT_Rockford",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_COT_Rockford/FeatureServer"
+        },
+        {
+            "name": "2022_LACounty_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_LACounty_EDI/FeatureServer"
+        },
+        {
+            "name": "2022_LACounty_NNEI_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_LACounty_NNEI_EDI/FeatureServer"
+        },
+        {
+            "name": "2022_LosAngelesCounty_ChildCareCenters",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_LosAngelesCounty_ChildCareCenters/FeatureServer"
+        },
+        {
+            "name": "2022_LosAngelesCounty_Children_and_Family_Services",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_LosAngelesCounty_Children_and_Family_Services/FeatureServer"
+        },
+        {
+            "name": "2022_LosAngelesCounty_Food_Assistance",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_LosAngelesCounty_Food_Assistance/FeatureServer"
+        },
+        {
+            "name": "2022_LosAngelesCounty_Hospitals_and_Medical_Centers",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_LosAngelesCounty_Hospitals_and_Medical_Centers/FeatureServer"
+        },
+        {
+            "name": "2022_LosAngelesCounty_Libraries",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_LosAngelesCounty_Libraries/FeatureServer"
+        },
+        {
+            "name": "2022_LosAngelesCounty_Mental_Health_Centers",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_LosAngelesCounty_Mental_Health_Centers/FeatureServer"
+        },
+        {
+            "name": "2022_LosAngelesCounty_Parks",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_LosAngelesCounty_Parks/FeatureServer"
+        },
+        {
+            "name": "2022_Rockford_Assets_PlacesofConnection",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Rockford_Assets_PlacesofConnection/FeatureServer"
+        },
+        {
+            "name": "2022_Rockford_ElementaryAttendance",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Rockford_ElementaryAttendance/FeatureServer"
+        },
+        {
+            "name": "2022_Rockford_HighAttendance",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Rockford_HighAttendance/FeatureServer"
+        },
+        {
+            "name": "2022_Rockford_MiddleAttendance",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Rockford_MiddleAttendance/FeatureServer"
+        },
+        {
+            "name": "2022_Track1_Pomona_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track1_Pomona_EDI/FeatureServer"
+        },
+        {
+            "name": "2022_Track1_Pomona_ELA2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track1_Pomona_ELA2/FeatureServer"
+        },
+        {
+            "name": "2022_Track1_Pomona_GroceryStores",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track1_Pomona_GroceryStores/FeatureServer"
+        },
+        {
+            "name": "2022_Track1_Pomona_Math2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track1_Pomona_Math2/FeatureServer"
+        },
+        {
+            "name": "2022_Track1_Pomona_NNEI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track1_Pomona_NNEI/FeatureServer"
+        },
+        {
+            "name": "2022_Track1_Pomona_NNEI_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track1_Pomona_NNEI_EDI/FeatureServer"
+        },
+        {
+            "name": "2022_Track1_Pomona_Schools",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track1_Pomona_Schools/FeatureServer"
+        },
+        {
+            "name": "2022_Track1_Rosemead_Clinics",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track1_Rosemead_Clinics/FeatureServer"
+        },
+        {
+            "name": "2022_Track1_Rosemead_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track1_Rosemead_EDI/FeatureServer"
+        },
+        {
+            "name": "2022_Track1_Rosemead_NNEI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track1_Rosemead_NNEI/FeatureServer"
+        },
+        {
+            "name": "2022_Track1_Rosemead_Unemployment_Final_shp",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track1_Rosemead_Unemployment_Final_shp/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_Fairfax_NHOODs",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_Fairfax_NHOODs/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_LongBeach_Absences_shp",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_LongBeach_Absences_shp/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_LongBeach_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_LongBeach_EDI/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_LongBeach_Indicators",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_LongBeach_Indicators/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_LongBeach_NNEI_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_LongBeach_NNEI_EDI/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_NavarroCounty_BGs",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_NavarroCounty_BGs/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_NavarroCounty_CTs",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_NavarroCounty_CTs/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_Rockford_Assets",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_Rockford_Assets/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_Rockford_DomesticViolence_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_Rockford_DomesticViolence_Final/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_Rockford_EC",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_Rockford_EC/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_Rockford_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_Rockford_EDI/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_Rockford_Income",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_Rockford_Income/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_Rockford_NNEI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_Rockford_NNEI/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_Rockford_PossibleNHOODs",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_Rockford_PossibleNHOODs/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_Rockford_SchoolDistricts",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_Rockford_SchoolDistricts/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_Rockford_TeenBirths",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_Rockford_TeenBirths/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_SanAntonio_ALICE",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_SanAntonio_ALICE/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_SanAntonio_ChildMaltreatment",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_SanAntonio_ChildMaltreatment/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_SanAntonio_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_SanAntonio_EDI/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_SanAntonio_NNEI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_SanAntonio_NNEI/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_SanAntonio_Population",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_SanAntonio_Population/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_SanAntonio_Race",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_SanAntonio_Race/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_SanAntonio_SchoolDistricts",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_SanAntonio_SchoolDistricts/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_SantaMonica_ChildCare_CentersOnly",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_SantaMonica_ChildCare_CentersOnly/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_SantaMonica_EDI_NoErrors",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_SantaMonica_EDI_NoErrors/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_SantaMonica_NNEI_EDI_NoErrors",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_SantaMonica_NNEI_EDI_NoErrors/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_SantaMonica_Playgrounds",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_SantaMonica_Playgrounds/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_SantaMonica_Race",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_SantaMonica_Race/FeatureServer"
+        },
+        {
+            "name": "2022_Track2_SantaMonica_Subsidy_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track2_SantaMonica_Subsidy_Final/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_ElMonte_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_ElMonte_EDI/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_ElMonte_HomeLanguage_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_ElMonte_HomeLanguage_Final/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_ElMonte_NNEI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_ElMonte_NNEI/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_ElMonte_Population_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_ElMonte_Population_Final/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_ElMonte_Reading",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_ElMonte_Reading/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_LAUSD_ChronicAbsences",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_LAUSD_ChronicAbsences/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_LAUSD_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_LAUSD_EDI/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_LAUSD_ELA",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_LAUSD_ELA/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_LAUSD_NNEI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_LAUSD_NNEI/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_LAUSD_Population_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_LAUSD_Population_Final/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_MountainView_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_MountainView_EDI/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_MountainView_ELA",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_MountainView_ELA/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_MountainView_ELL",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_MountainView_ELL/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_MountainView_ELPAC",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_MountainView_ELPAC/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_MountainView_MATH",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_MountainView_MATH/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_MountainView_NNEI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_MountainView_NNEI/FeatureServer"
+        },
+        {
+            "name": "2022_Track3_MountainView_Race",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_Track3_MountainView_Race/FeatureServer"
+        },
+        {
+            "name": "2022_TriCities_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_TriCities_EDI/FeatureServer"
+        },
+        {
+            "name": "2022_TriCities_ElMonteUnionHSD",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_TriCities_ElMonteUnionHSD/FeatureServer"
+        },
+        {
+            "name": "2022_TriCities_NNEI_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2022_TriCities_NNEI_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_AntelopeValley_SDs_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_AntelopeValley_SDs_Final/FeatureServer"
+        },
+        {
+            "name": "2023_COT_SanAntonio",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_COT_SanAntonio/FeatureServer"
+        },
+        {
+            "name": "2023_EDI_LACounty",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_EDI_LACounty/FeatureServer"
+        },
+        {
+            "name": "2023_ElMonteUnion_NHOODs",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_ElMonteUnion_NHOODs/FeatureServer"
+        },
+        {
+            "name": "2023_Garvey_CTs",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Garvey_CTs/FeatureServer"
+        },
+        {
+            "name": "2023_Garvey_NHOODs_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Garvey_NHOODs_Final/FeatureServer"
+        },
+        {
+            "name": "2023_Garvey_PossibleNHOODs",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Garvey_PossibleNHOODs/FeatureServer"
+        },
+        {
+            "name": "2023_Garvey_SchoolDistrict",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Garvey_SchoolDistrict/FeatureServer"
+        },
+        {
+            "name": "2023_LACounty_Fire",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LACounty_Fire/FeatureServer"
+        },
+        {
+            "name": "2023_LACounty_FoodAssistance",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LACounty_FoodAssistance/FeatureServer"
+        },
+        {
+            "name": "2023_LACounty_Hospitals",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LACounty_Hospitals/FeatureServer"
+        },
+        {
+            "name": "2023_LACounty_Libraries",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LACounty_Libraries/FeatureServer"
+        },
+        {
+            "name": "2023_LACounty_MentalHealth",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LACounty_MentalHealth/FeatureServer"
+        },
+        {
+            "name": "2023_LACounty_MetroBusStops",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LACounty_MetroBusStops/FeatureServer"
+        },
+        {
+            "name": "2023_LACounty_NNEI_EDI_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LACounty_NNEI_EDI_Final/FeatureServer"
+        },
+        {
+            "name": "2023_LACounty_Parks",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LACounty_Parks/FeatureServer"
+        },
+        {
+            "name": "2023_LACounty_Police",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LACounty_Police/FeatureServer"
+        },
+        {
+            "name": "2023_LACounty_PublicSafety",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LACounty_PublicSafety/FeatureServer"
+        },
+        {
+            "name": "2023_LitchfieldCounty_BGs",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LitchfieldCounty_BGs/FeatureServer"
+        },
+        {
+            "name": "2023_LitchfieldCounty_CTs",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LitchfieldCounty_CTs/FeatureServer"
+        },
+        {
+            "name": "2023_LitchfieldCounty_EKP",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LitchfieldCounty_EKP/FeatureServer"
+        },
+        {
+            "name": "2023_LitchfieldCounty_NNEI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LitchfieldCounty_NNEI/FeatureServer"
+        },
+        {
+            "name": "2023_LitchfieldCounty_Places",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LitchfieldCounty_Places/FeatureServer"
+        },
+        {
+            "name": "2023_LitchfieldCounty_PopulationUnder5",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LitchfieldCounty_PopulationUnder5/FeatureServer"
+        },
+        {
+            "name": "2023_LitchfieldCounty_SchoolDistricts",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_LitchfieldCounty_SchoolDistricts/FeatureServer"
+        },
+        {
+            "name": "2023_NationalEDI_2012_2020",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_NationalEDI_2012_2020/FeatureServer"
+        },
+        {
+            "name": "2023_NationalEDI_2021_2023",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_NationalEDI_2021_2023/FeatureServer"
+        },
+        {
+            "name": "2023_NationalNNEI_2017_2021",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_NationalNNEI_2017_2021/FeatureServer"
+        },
+        {
+            "name": "2023_SantaMonica_Race_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_SantaMonica_Race_Final/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_FranklinMcKinley_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_FranklinMcKinley_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_FranklinMcKinley_Hospitals",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_FranklinMcKinley_Hospitals/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_FranklinMcKinley_NNEI_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_FranklinMcKinley_NNEI_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_FranklinMcKinley_Parks",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_FranklinMcKinley_Parks/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_FranklinMcKinley_Residence",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_FranklinMcKinley_Residence/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_NewLondon_Assets_shp",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_NewLondon_Assets_shp/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_NewLondon_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_NewLondon_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_NewLondon_Neighborhoods_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_NewLondon_Neighborhoods_Final/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_NewLondon_NNEI_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_NewLondon_NNEI_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_NewLondon_Residence",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_NewLondon_Residence/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_SanAntonio_ALICE",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_SanAntonio_ALICE/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_SanAntonio_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_SanAntonio_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_SanAntonio_NNEI_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_SanAntonio_NNEI_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_SanAntonio_OBGYN_shp",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_SanAntonio_OBGYN_shp/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_SanAntonio_PopulationUnder5",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_SanAntonio_PopulationUnder5/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_SanAntonio_RaceEthnicity",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_SanAntonio_RaceEthnicity/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_Spartanburg_ConcentratedPoverty",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_Spartanburg_ConcentratedPoverty/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_Spartanburg_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_Spartanburg_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_Spartanburg_NNEI_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_Spartanburg_NNEI_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_Spartanburg_PopulationUnder5",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_Spartanburg_PopulationUnder5/FeatureServer"
+        },
+        {
+            "name": "2023_Track1_Spartanburg_RaceEthnicity",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track1_Spartanburg_RaceEthnicity/FeatureServer"
+        },
+        {
+            "name": "2023_Track2_SantaMonica_ChildCareCenters",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track2_SantaMonica_ChildCareCenters/FeatureServer"
+        },
+        {
+            "name": "2023_Track2_SantaMonica_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track2_SantaMonica_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_Track2_SantaMonica_ElementarySchools",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track2_SantaMonica_ElementarySchools/FeatureServer"
+        },
+        {
+            "name": "2023_Track2_SantaMonica_Libraries",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track2_SantaMonica_Libraries/FeatureServer"
+        },
+        {
+            "name": "2023_Track2_SantaMonica_NNEI_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track2_SantaMonica_NNEI_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_Track2_SantaMonica_Parks",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track2_SantaMonica_Parks/FeatureServer"
+        },
+        {
+            "name": "2023_Track2_SantaMonica_Playgrounds",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track2_SantaMonica_Playgrounds/FeatureServer"
+        },
+        {
+            "name": "2023_Track2_SantaMonica_SocialServices",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track2_SantaMonica_SocialServices/FeatureServer"
+        },
+        {
+            "name": "2023_Track2_SantaMonica_Subsidy_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track2_SantaMonica_Subsidy_Final/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_DC_ChildDev2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_DC_ChildDev2/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_DC_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_DC_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_DC_Grocery",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_DC_Grocery/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_DC_Libraries",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_DC_Libraries/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_DC_NNEI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_DC_NNEI/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_DC_NNEI_AllNHOODs",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_DC_NNEI_AllNHOODs/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_DC_Parks",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_DC_Parks/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_DC_POV300_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_DC_POV300_Final/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_DC_POVPRE_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_DC_POVPRE_Final/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_DC_Race_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_DC_Race_Final/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_Garvey_ABS_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_Garvey_ABS_Final/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_Garvey_BusStops",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_Garvey_BusStops/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_Garvey_DistrictBoundary",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_Garvey_DistrictBoundary/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_Garvey_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_Garvey_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_Garvey_ELPAC_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_Garvey_ELPAC_Final/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_Garvey_LTEL_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_Garvey_LTEL_Final/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_Garvey_NNEI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_Garvey_NNEI/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_Garvey_SBAC_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_Garvey_SBAC_Final/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_LAUSD_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_LAUSD_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_LAUSD_NNEI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_LAUSD_NNEI/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_LongBeach_CHEQ",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_LongBeach_CHEQ/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_LongBeach_ChildCare_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_LongBeach_ChildCare_Final/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_LongBeach_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_LongBeach_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_LongBeach_Indicators",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_LongBeach_Indicators/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_LongBeach_NNEI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_LongBeach_NNEI/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_LongBeach_ViolentCrime_Final",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_LongBeach_ViolentCrime_Final/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_QuadDistrict_EDI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_QuadDistrict_EDI/FeatureServer"
+        },
+        {
+            "name": "2023_Track3_QuadDistrict_NNEI_ForWebmap",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_Track3_QuadDistrict_NNEI_ForWebmap/FeatureServer"
+        },
+        {
+            "name": "2023_WashingtonDC_Clusters",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_WashingtonDC_Clusters/FeatureServer"
+        },
+        {
+            "name": "2023_WashingtonDC_Quadrants",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_WashingtonDC_Quadrants/FeatureServer"
+        },
+        {
+            "name": "2023_WashingtonDC_Wards",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_WashingtonDC_Wards/FeatureServer"
+        },
+        {
+            "name": "2023_WinnebagoBoone_BGs",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_WinnebagoBoone_BGs/FeatureServer"
+        },
+        {
+            "name": "2023_WinnebagoBoone_CTs",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_WinnebagoBoone_CTs/FeatureServer"
+        },
+        {
+            "name": "2023_WinnebagoBoone_EKP",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_WinnebagoBoone_EKP/FeatureServer"
+        },
+        {
+            "name": "2023_WinnebagoBoone_ExistingNHOODs",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_WinnebagoBoone_ExistingNHOODs/FeatureServer"
+        },
+        {
+            "name": "2023_WinnebagoBoone_NNEI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_WinnebagoBoone_NNEI/FeatureServer"
+        },
+        {
+            "name": "2023_WinnebagoBoone_Places",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_WinnebagoBoone_Places/FeatureServer"
+        },
+        {
+            "name": "2023_WinnebagoBoone_SchoolDistricts",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2023_WinnebagoBoone_SchoolDistricts/FeatureServer"
+        },
+        {
+            "name": "2024_MDI_MountainView",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2024_MDI_MountainView/FeatureServer"
+        },
+        {
+            "name": "2024_NewMexico_MedianIncome",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2024_NewMexico_MedianIncome/FeatureServer"
+        },
+        {
+            "name": "2024_NewMexico_RaceEthnicity",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2024_NewMexico_RaceEthnicity/FeatureServer"
+        },
+        {
+            "name": "2024_NewMexico_RaceEthnicity_NNEI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/2024_NewMexico_RaceEthnicity_NNEI/FeatureServer"
+        },
+        {
+            "name": "5_minute_walk",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/5_minute_walk/FeatureServer"
+        },
+        {
+            "name": "5_minute_walk_with_reachable_streets",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/5_minute_walk_with_reachable_streets/FeatureServer"
+        },
+        {
+            "name": "ACT Cities Layer",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/ACT Cities Layer/FeatureServer"
+        },
+        {
+            "name": "ACT_City_Centroids___including_Yuba_county___excluding_Boyle_Heights",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/ACT_City_Centroids___including_Yuba_county___excluding_Boyle_Heights/FeatureServer"
+        },
+        {
+            "name": "ACT_Modesto_Project_V2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/ACT_Modesto_Project_V2/FeatureServer"
+        },
+        {
+            "name": "ACT_Santa_Ana_Parks_Data",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/ACT_Santa_Ana_Parks_Data/FeatureServer"
+        },
+        {
+            "name": "Antioch_Schools_Surveyed",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Antioch_Schools_Surveyed/FeatureServer"
+        },
+        {
+            "name": "Antioch_Survey_Data___Cleaned_v2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Antioch_Survey_Data___Cleaned_v2/FeatureServer"
+        },
+        {
+            "name": "BexarCounty",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/BexarCounty/FeatureServer"
+        },
+        {
+            "name": "BOE_Zones_2122_shp",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/BOE_Zones_2122_shp/FeatureServer"
+        },
+        {
+            "name": "Boston_Birth_Cohort_Census_Tracts",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Boston_Birth_Cohort_Census_Tracts/FeatureServer"
+        },
+        {
+            "name": "Boyle_Heights_QC_project",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Boyle_Heights_QC_project/FeatureServer"
+        },
+        {
+            "name": "Buffer_Parcels_for_Homeless_Encampment_Ban_Sacramento",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Buffer_Parcels_for_Homeless_Encampment_Ban_Sacramento/FeatureServer"
+        },
+        {
+            "name": "Bus_Stops",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Bus_Stops/FeatureServer"
+        },
+        {
+            "name": "CA_NNEI_Ethnorace_2015",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/CA_NNEI_Ethnorace_2015/FeatureServer"
+        },
+        {
+            "name": "CA_NNEI_Ethnorace_2016",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/CA_NNEI_Ethnorace_2016/FeatureServer"
+        },
+        {
+            "name": "CA_NNEI_Ethnorace_2017",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/CA_NNEI_Ethnorace_2017/FeatureServer"
+        },
+        {
+            "name": "CA_NNEI_Ethnorace_2018",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/CA_NNEI_Ethnorace_2018/FeatureServer"
+        },
+        {
+            "name": "CA_NNEI_Ethnorace_2019",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/CA_NNEI_Ethnorace_2019/FeatureServer"
+        },
+        {
+            "name": "California_Counties_2021_for_join",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/California_Counties_2021_for_join/FeatureServer"
+        },
+        {
+            "name": "Centroids_for_Modesto_Parks_less_than_0_5_sq_miles",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Centroids_for_Modesto_Parks_less_than_0_5_sq_miles/FeatureServer"
+        },
+        {
+            "name": "Challenge_Boundary_Extract_Data_Dec_7",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Challenge_Boundary_Extract_Data_Dec_7/FeatureServer"
+        },
+        {
+            "name": "Child_Opportunity_Index_2_0_2010",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Child_Opportunity_Index_2_0_2010/FeatureServer"
+        },
+        {
+            "name": "Child_Opportunity_Index_2_0_2015",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Child_Opportunity_Index_2_0_2015/FeatureServer"
+        },
+        {
+            "name": "CountyNNEIEthnorace",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/CountyNNEIEthnorace/FeatureServer"
+        },
+        {
+            "name": "Dashboard_Policy_Sample",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Dashboard_Policy_Sample/FeatureServer"
+        },
+        {
+            "name": "Dissolve_Hot_Spots_of_NEI_2019_95_and_99_percent",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Dissolve_Hot_Spots_of_NEI_2019_95_and_99_percent/FeatureServer"
+        },
+        {
+            "name": "Dissolve_Hot_Spots_of_NEI_2019_99_percent_only",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Dissolve_Hot_Spots_of_NEI_2019_99_percent_only/FeatureServer"
+        },
+        {
+            "name": "Early_Childhoold_Education_and_Head_Start",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Early_Childhoold_Education_and_Head_Start/FeatureServer"
+        },
+        {
+            "name": "Final_Buffer_for_Homeless_Encampment_Ban_Sacramento",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Final_Buffer_for_Homeless_Encampment_Ban_Sacramento/FeatureServer"
+        },
+        {
+            "name": "Final_Buffer_for_Homeless_Encampment_Ban_Sacramento_Clip",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Final_Buffer_for_Homeless_Encampment_Ban_Sacramento_Clip/FeatureServer"
+        },
+        {
+            "name": "Hub Events (public)",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Hub Events (public)/FeatureServer"
+        },
+        {
+            "name": "LACounty_Parks",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/LACounty_Parks/FeatureServer"
+        },
+        {
+            "name": "LACounty_SchoolDistricts_All",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/LACounty_SchoolDistricts_All/FeatureServer"
+        },
+        {
+            "name": "LAUSD_Board_of_Education_Districts",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/LAUSD_Board_of_Education_Districts/FeatureServer"
+        },
+        {
+            "name": "LAUSD_Boundary",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/LAUSD_Boundary/FeatureServer"
+        },
+        {
+            "name": "List_of_BBC_geocodes",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/List_of_BBC_geocodes/FeatureServer"
+        },
+        {
+            "name": "MA_NNEI_Ethnorace_2015",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/MA_NNEI_Ethnorace_2015/FeatureServer"
+        },
+        {
+            "name": "MA_NNEI_Ethnorace_2016",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/MA_NNEI_Ethnorace_2016/FeatureServer"
+        },
+        {
+            "name": "MA_NNEI_Ethnorace_2017",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/MA_NNEI_Ethnorace_2017/FeatureServer"
+        },
+        {
+            "name": "MA_NNEI_Ethnorace_2018",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/MA_NNEI_Ethnorace_2018/FeatureServer"
+        },
+        {
+            "name": "MA_NNEI_Ethnorace_2019",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/MA_NNEI_Ethnorace_2019/FeatureServer"
+        },
+        {
+            "name": "MHSA_Boundaries",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/MHSA_Boundaries/FeatureServer"
+        },
+        {
+            "name": "Modesto_Parks_less_than_0_5_sq_miles",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Modesto_Parks_less_than_0_5_sq_miles/FeatureServer"
+        },
+        {
+            "name": "NEI_2015_2019_For_View",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/NEI_2015_2019_For_View/FeatureServer"
+        },
+        {
+            "name": "NM_NNEI_Ethnorace_2015",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/NM_NNEI_Ethnorace_2015/FeatureServer"
+        },
+        {
+            "name": "NM_NNEI_Ethnorace_2016",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/NM_NNEI_Ethnorace_2016/FeatureServer"
+        },
+        {
+            "name": "NM_NNEI_Ethnorace_2017",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/NM_NNEI_Ethnorace_2017/FeatureServer"
+        },
+        {
+            "name": "NM_NNEI_Ethnorace_2018",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/NM_NNEI_Ethnorace_2018/FeatureServer"
+        },
+        {
+            "name": "NM_NNEI_Ethnorace_2019",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/NM_NNEI_Ethnorace_2019/FeatureServer"
+        },
+        {
+            "name": "NMexAllYearsEthnoraceNNEI",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/NMexAllYearsEthnoraceNNEI/FeatureServer"
+        },
+        {
+            "name": "NNEI_2015_2019",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/NNEI_2015_2019/FeatureServer"
+        },
+        {
+            "name": "NNEI_District_All_Years",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/NNEI_District_All_Years/FeatureServer"
+        },
+        {
+            "name": "NNEI_Massachusetts",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/NNEI_Massachusetts/FeatureServer"
+        },
+        {
+            "name": "NRI_ACT",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/NRI_ACT/FeatureServer"
+        },
+        {
+            "name": "NRI_ACT_6_05_21",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/NRI_ACT_6_05_21/FeatureServer"
+        },
+        {
+            "name": "NRI_ACT_cities_6_05_21",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/NRI_ACT_cities_6_05_21/FeatureServer"
+        },
+        {
+            "name": "NRI_ACT_cities50221_upload",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/NRI_ACT_cities50221_upload/FeatureServer"
+        },
+        {
+            "name": "NRI_ACT50221_upload",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/NRI_ACT50221_upload/FeatureServer"
+        },
+        {
+            "name": "Parcels_for_Homeless_Encampment_Ban_Sacramento",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Parcels_for_Homeless_Encampment_Ban_Sacramento/FeatureServer"
+        },
+        {
+            "name": "PasadenaCouncilDistricts",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/PasadenaCouncilDistricts/FeatureServer"
+        },
+        {
+            "name": "Pomona_VaxData_Dec6",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Pomona_VaxData_Dec6/FeatureServer"
+        },
+        {
+            "name": "Pomona_VaxData_Feb3",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Pomona_VaxData_Feb3/FeatureServer"
+        },
+        {
+            "name": "Pomona_VaxData_Oct18",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Pomona_VaxData_Oct18/FeatureServer"
+        },
+        {
+            "name": "Pomona_VaxData_Oct4",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Pomona_VaxData_Oct4/FeatureServer"
+        },
+        {
+            "name": "Pomona_VaxData_Sep20",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Pomona_VaxData_Sep20/FeatureServer"
+        },
+        {
+            "name": "PomonaVax_Updated",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/PomonaVax_Updated/FeatureServer"
+        },
+        {
+            "name": "Public_Elementary_Schools",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Public_Elementary_Schools/FeatureServer"
+        },
+        {
+            "name": "Quick_Capture_UCLA_test",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Quick_Capture_UCLA_test/FeatureServer"
+        },
+        {
+            "name": "SA_test_layer_(expanded_app_version)",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/SA_test_layer_(expanded_app_version)/FeatureServer"
+        },
+        {
+            "name": "SA_test_layer_(expanded_app_version)_1",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/SA_test_layer_(expanded_app_version)_1/FeatureServer"
+        },
+        {
+            "name": "Sac zip points with counts",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Sac zip points with counts/FeatureServer"
+        },
+        {
+            "name": "Sac zip points with counts 2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Sac zip points with counts 2/FeatureServer"
+        },
+        {
+            "name": "Sac_zip_counts",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Sac_zip_counts/FeatureServer"
+        },
+        {
+            "name": "Sac_zip_points",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Sac_zip_points/FeatureServer"
+        },
+        {
+            "name": "Santa_Ana_Data_Collection_Tool",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Santa_Ana_Data_Collection_Tool/FeatureServer"
+        },
+        {
+            "name": "Santa_Ana_Data_Collection_Tool_2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Santa_Ana_Data_Collection_Tool_2/FeatureServer"
+        },
+        {
+            "name": "Santa_Ana_Data_Collection_Tool_3",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Santa_Ana_Data_Collection_Tool_3/FeatureServer"
+        },
+        {
+            "name": "Santa_Ana_Data_Collection_Tool_4",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Santa_Ana_Data_Collection_Tool_4/FeatureServer"
+        },
+        {
+            "name": "Santa_Ana_Survey_Results_view",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Santa_Ana_Survey_Results_view/FeatureServer"
+        },
+        {
+            "name": "service_009e69a3ee5b404fa74783c59f9286dd",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/service_009e69a3ee5b404fa74783c59f9286dd/FeatureServer"
+        },
+        {
+            "name": "service_054d85e861ac433eb3abbf2014361ae7",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/service_054d85e861ac433eb3abbf2014361ae7/FeatureServer"
+        },
+        {
+            "name": "service_0ed1c7aed3fe4845a25f7530ecad4824",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/service_0ed1c7aed3fe4845a25f7530ecad4824/FeatureServer"
+        },
+        {
+            "name": "service_9ee058c6890341579d0980f57e33e43b",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/service_9ee058c6890341579d0980f57e33e43b/FeatureServer"
+        },
+        {
+            "name": "SpartanburgCounty",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/SpartanburgCounty/FeatureServer"
+        },
+        {
+            "name": "survey123_1d14bbf8f1914319a16df18f0d823184_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_1d14bbf8f1914319a16df18f0d823184_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_2b553e1fd48348de849089f8eef0797d_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_2b553e1fd48348de849089f8eef0797d_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_361ff2f270f840bba3cd75669d414123_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_361ff2f270f840bba3cd75669d414123_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_36fbb00326d64a79863087f117d63439_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_36fbb00326d64a79863087f117d63439_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_418c7b19d6d84c08b12b3472b3250586_form",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_418c7b19d6d84c08b12b3472b3250586_form/FeatureServer"
+        },
+        {
+            "name": "survey123_57c3f8ab9b034841ae68af3cac346c6d_form",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_57c3f8ab9b034841ae68af3cac346c6d_form/FeatureServer"
+        },
+        {
+            "name": "survey123_5889eebb00fb4e1cb400547a6f44c6c7_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_5889eebb00fb4e1cb400547a6f44c6c7_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_5a94025ee06a4366877fc501c6a609b2_form",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_5a94025ee06a4366877fc501c6a609b2_form/FeatureServer"
+        },
+        {
+            "name": "survey123_5b182e1051a9488cac6833b35af950c3_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_5b182e1051a9488cac6833b35af950c3_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_6a3a5ab79c82416f8c9d43aa21c9decf_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_6a3a5ab79c82416f8c9d43aa21c9decf_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_72bad8d591dd46019e46cfa1d189c5cb_form",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_72bad8d591dd46019e46cfa1d189c5cb_form/FeatureServer"
+        },
+        {
+            "name": "survey123_7951e58cbbbe4800becbc0165982a989_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_7951e58cbbbe4800becbc0165982a989_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_7ab232a0f4ea49b798629085b4f4a100_form",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_7ab232a0f4ea49b798629085b4f4a100_form/FeatureServer"
+        },
+        {
+            "name": "survey123_80de7a8a185b4e57b2f47544fe95117b_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_80de7a8a185b4e57b2f47544fe95117b_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_84537bcd631a409cbae8e810622e6634_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_84537bcd631a409cbae8e810622e6634_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_8bba3fe3c3054b32aade81ec2d7aeea9_form",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_8bba3fe3c3054b32aade81ec2d7aeea9_form/FeatureServer"
+        },
+        {
+            "name": "survey123_972a06db07bc4e2b952371360abd522a_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_972a06db07bc4e2b952371360abd522a_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_99cd30e37d1441c0992d9152dd817350_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_99cd30e37d1441c0992d9152dd817350_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_9a74f46d9e1e4cf990d676c235a7386b_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_9a74f46d9e1e4cf990d676c235a7386b_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_9a7e28106a0a42aba93f201288906ee7_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_9a7e28106a0a42aba93f201288906ee7_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_9b893f24e4444bb78198dbc72a33a95d_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_9b893f24e4444bb78198dbc72a33a95d_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_9ff72c8be12b48af8bcfbbdd1f7701f9_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_9ff72c8be12b48af8bcfbbdd1f7701f9_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_b264458e1f4040bd9002b8dcea5764e0_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_b264458e1f4040bd9002b8dcea5764e0_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_e00b3ee95bc540bbbf176222c91b2d31_form",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_e00b3ee95bc540bbbf176222c91b2d31_form/FeatureServer"
+        },
+        {
+            "name": "survey123_e3eacc4ee1a147379ebfb99ef6ca0f2c_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_e3eacc4ee1a147379ebfb99ef6ca0f2c_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_e4f0b91381d848e1a9fb71f0e2e4e515_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/survey123_e4f0b91381d848e1a9fb71f0e2e4e515_fieldworker/FeatureServer"
+        },
+        {
+            "name": "Test_Excel_file_for_ArcGIS",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/Test_Excel_file_for_ArcGIS/FeatureServer"
+        },
+        {
+            "name": "tl_2019_06_place_(1)",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/tl_2019_06_place_(1)/FeatureServer"
+        },
+        {
+            "name": "tl_2019_06_place_ca",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/tl_2019_06_place_ca/FeatureServer"
+        },
+        {
+            "name": "tl_2019_25_place",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/tl_2019_25_place/FeatureServer"
+        },
+        {
+            "name": "tl_2019_25_tract_(1)",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/tl_2019_25_tract_(1)/FeatureServer"
+        },
+        {
+            "name": "tl_2019_35_place",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/tl_2019_35_place/FeatureServer"
+        },
+        {
+            "name": "tl_2019_48_place",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/tl_2019_48_place/FeatureServer"
+        },
+        {
+            "name": "tl_2019_us_county",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/tl_2019_us_county/FeatureServer"
+        },
+        {
+            "name": "TX_NNEI_Ethnorace_2015",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/TX_NNEI_Ethnorace_2015/FeatureServer"
+        },
+        {
+            "name": "TX_NNEI_Ethnorace_2016",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/TX_NNEI_Ethnorace_2016/FeatureServer"
+        },
+        {
+            "name": "TX_NNEI_Ethnorace_2017",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/TX_NNEI_Ethnorace_2017/FeatureServer"
+        },
+        {
+            "name": "TX_NNEI_Ethnorace_2018",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/TX_NNEI_Ethnorace_2018/FeatureServer"
+        },
+        {
+            "name": "TX_NNEI_Ethnorace_2019",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/TX_NNEI_Ethnorace_2019/FeatureServer"
+        },
+        {
+            "name": "UCLA_QuickCapture_2",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/UCLA_QuickCapture_2/FeatureServer"
+        },
+        {
+            "name": "UCLA_QuickCapture_2_view",
+            "type": "FeatureServer",
+            "url": "https://services6.arcgis.com/VUy2G8qE1g0VRkcr/ArcGIS/rest/services/UCLA_QuickCapture_2_view/FeatureServer"
+        }
+    ]
+}

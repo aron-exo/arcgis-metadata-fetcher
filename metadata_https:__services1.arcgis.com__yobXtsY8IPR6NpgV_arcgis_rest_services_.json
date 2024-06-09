@@ -1,0 +1,30 @@
+{
+    "currentVersion": 11.2,
+    "services": [
+        {
+            "name": "Santa_Clara_Valley_River_East_Sub_Basin_shp",
+            "type": "FeatureServer",
+            "url": "https://services1.arcgis.com/yobXtsY8IPR6NpgV/ArcGIS/rest/services/Santa_Clara_Valley_River_East_Sub_Basin_shp/FeatureServer"
+        },
+        {
+            "name": "2023A_TTC_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services1.arcgis.com/yobXtsY8IPR6NpgV/ArcGIS/rest/services/2023A_TTC_WFL1/FeatureServer"
+        },
+        {
+            "name": "Regional_Areas",
+            "type": "FeatureServer",
+            "url": "https://services1.arcgis.com/yobXtsY8IPR6NpgV/ArcGIS/rest/services/Regional_Areas/FeatureServer"
+        },
+        {
+            "name": "Communities",
+            "type": "FeatureServer",
+            "url": "https://services1.arcgis.com/yobXtsY8IPR6NpgV/ArcGIS/rest/services/Communities/FeatureServer"
+        },
+        {
+            "name": "Treasurer_and_Tax_Collector_Auction_2024A_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services1.arcgis.com/yobXtsY8IPR6NpgV/ArcGIS/rest/services/Treasurer_and_Tax_Collector_Auction_2024A_WFL1/FeatureServer"
+        }
+    ]
+}

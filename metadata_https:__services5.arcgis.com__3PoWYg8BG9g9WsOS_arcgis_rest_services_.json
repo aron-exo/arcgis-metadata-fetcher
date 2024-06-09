@@ -1,0 +1,50 @@
+{
+    "currentVersion": 11.2,
+    "services": [
+        {
+            "name": "am_i_in_wlv",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/3PoWYg8BG9g9WsOS/ArcGIS/rest/services/am_i_in_wlv/FeatureServer"
+        },
+        {
+            "name": "general_plan_land_use",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/3PoWYg8BG9g9WsOS/ArcGIS/rest/services/general_plan_land_use/FeatureServer"
+        },
+        {
+            "name": "neighborhoods",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/3PoWYg8BG9g9WsOS/ArcGIS/rest/services/neighborhoods/FeatureServer"
+        },
+        {
+            "name": "wlv_address_points",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/3PoWYg8BG9g9WsOS/ArcGIS/rest/services/wlv_address_points/FeatureServer"
+        },
+        {
+            "name": "wlv_city_boundary_nad83",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/3PoWYg8BG9g9WsOS/ArcGIS/rest/services/wlv_city_boundary_nad83/FeatureServer"
+        },
+        {
+            "name": "WLV_Fire_Hazard",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/3PoWYg8BG9g9WsOS/ArcGIS/rest/services/WLV_Fire_Hazard/FeatureServer"
+        },
+        {
+            "name": "wlv_parcels",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/3PoWYg8BG9g9WsOS/ArcGIS/rest/services/wlv_parcels/FeatureServer"
+        },
+        {
+            "name": "zoning",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/3PoWYg8BG9g9WsOS/ArcGIS/rest/services/zoning/FeatureServer"
+        },
+        {
+            "name": "specific_plans",
+            "type": "FeatureServer",
+            "url": "https://services5.arcgis.com/3PoWYg8BG9g9WsOS/ArcGIS/rest/services/specific_plans/FeatureServer"
+        }
+    ]
+}

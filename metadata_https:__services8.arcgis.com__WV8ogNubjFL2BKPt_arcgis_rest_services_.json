@@ -1,0 +1,775 @@
+{
+    "currentVersion": 11.2,
+    "services": [
+        {
+            "name": "2020_Income_Per_Capita_by_Census_Tract",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/2020_Income_Per_Capita_by_Census_Tract/FeatureServer"
+        },
+        {
+            "name": "2020_West_Covina_Census_Block_Groups",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/2020_West_Covina_Census_Block_Groups/FeatureServer"
+        },
+        {
+            "name": "2020_West_Covina_Census_Blocks",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/2020_West_Covina_Census_Blocks/FeatureServer"
+        },
+        {
+            "name": "2020_West_Covina_Census_Tracts",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/2020_West_Covina_Census_Tracts/FeatureServer"
+        },
+        {
+            "name": "2021_Area_Districts",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/2021_Area_Districts/FeatureServer"
+        },
+        {
+            "name": "2021_West_Covina_Streets",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/2021_West_Covina_Streets/FeatureServer"
+        },
+        {
+            "name": "2021_Zone_Overlays",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/2021_Zone_Overlays/FeatureServer"
+        },
+        {
+            "name": "2021_Zoning_Grid",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/2021_Zoning_Grid/FeatureServer"
+        },
+        {
+            "name": "Accessory_Dwelling_Units_(ADUs)_View",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Accessory_Dwelling_Units_(ADUs)_View/FeatureServer"
+        },
+        {
+            "name": "ACS5YR_2019ct_Ancestry",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/ACS5YR_2019ct_Ancestry/FeatureServer"
+        },
+        {
+            "name": "ACS5YR_2019ct_DisabilityByType",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/ACS5YR_2019ct_DisabilityByType/FeatureServer"
+        },
+        {
+            "name": "ACS5YR_2019ct_DisabilityStatus",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/ACS5YR_2019ct_DisabilityStatus/FeatureServer"
+        },
+        {
+            "name": "ACS5YR_2019ct_EducationalAttainment",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/ACS5YR_2019ct_EducationalAttainment/FeatureServer"
+        },
+        {
+            "name": "ACS5YR_2019ct_RenterOccupiedHousingUnits",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/ACS5YR_2019ct_RenterOccupiedHousingUnits/FeatureServer"
+        },
+        {
+            "name": "ACS5YR_2019ct_UnitsRoomsBedrooms",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/ACS5YR_2019ct_UnitsRoomsBedrooms/FeatureServer"
+        },
+        {
+            "name": "Approved_Sign_Programs",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Approved_Sign_Programs/FeatureServer"
+        },
+        {
+            "name": "Area_Districts",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Area_Districts/FeatureServer"
+        },
+        {
+            "name": "Art_in_Public_Places",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Art_in_Public_Places/FeatureServer"
+        },
+        {
+            "name": "Assessment_Districts",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Assessment_Districts/FeatureServer"
+        },
+        {
+            "name": "Businesses_in_West_Covina",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Businesses_in_West_Covina/FeatureServer"
+        },
+        {
+            "name": "BusStops",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/BusStops/FeatureServer"
+        },
+        {
+            "name": "Capital_Improvement_Project_Locations",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Capital_Improvement_Project_Locations/FeatureServer"
+        },
+        {
+            "name": "Child_Care_Centers",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Child_Care_Centers/FeatureServer"
+        },
+        {
+            "name": "City_Maintenance_Yard",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/City_Maintenance_Yard/FeatureServer"
+        },
+        {
+            "name": "City_Sewer_Manholes",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/City_Sewer_Manholes/FeatureServer"
+        },
+        {
+            "name": "City_Sewer_Pipes",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/City_Sewer_Pipes/FeatureServer"
+        },
+        {
+            "name": "CityHallLandscape",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/CityHallLandscape/FeatureServer"
+        },
+        {
+            "name": "CitywideZoning_2021",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/CitywideZoning_2021/FeatureServer"
+        },
+        {
+            "name": "Class_II_Bike_Lanes",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Class_II_Bike_Lanes/FeatureServer"
+        },
+        {
+            "name": "Colleges_and_Universities",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Colleges_and_Universities/FeatureServer"
+        },
+        {
+            "name": "Community_Centers",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Community_Centers/FeatureServer"
+        },
+        {
+            "name": "Council_Districts",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Council_Districts/FeatureServer"
+        },
+        {
+            "name": "Council_Districts_20220405_c",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Council_Districts_20220405_c/FeatureServer"
+        },
+        {
+            "name": "Council_Districts_20220405_LABELS",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Council_Districts_20220405_LABELS/FeatureServer"
+        },
+        {
+            "name": "Council_Members",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Council_Members/FeatureServer"
+        },
+        {
+            "name": "CouncilDistricts_Parcels",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/CouncilDistricts_Parcels/FeatureServer"
+        },
+        {
+            "name": "Councilmember_Labels",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Councilmember_Labels/FeatureServer"
+        },
+        {
+            "name": "CoyoteManagement",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/CoyoteManagement/FeatureServer"
+        },
+        {
+            "name": "Dental_Care_in_West_Covina",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Dental_Care_in_West_Covina/FeatureServer"
+        },
+        {
+            "name": "dgaerhaet",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/dgaerhaet/FeatureServer"
+        },
+        {
+            "name": "DowntownPlanUpdate",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/DowntownPlanUpdate/FeatureServer"
+        },
+        {
+            "name": "DowntownPlanZoning_2021",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/DowntownPlanZoning_2021/FeatureServer"
+        },
+        {
+            "name": "Early_Childhood_Education_Centers",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Early_Childhood_Education_Centers/FeatureServer"
+        },
+        {
+            "name": "EarthquakeHazard",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/EarthquakeHazard/FeatureServer"
+        },
+        {
+            "name": "Electric_Panels",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Electric_Panels/FeatureServer"
+        },
+        {
+            "name": "Electric_Vehicle_Charging_Stations",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Electric_Vehicle_Charging_Stations/FeatureServer"
+        },
+        {
+            "name": "Final_Residential_Parcel_Adjust_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Final_Residential_Parcel_Adjust_WFL1/FeatureServer"
+        },
+        {
+            "name": "Foothill_Transit_Routes_in_West_Covina",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Foothill_Transit_Routes_in_West_Covina/FeatureServer"
+        },
+        {
+            "name": "FY19_20_RESIDENTIAL_STREET_REHAB_ANNUAL_PROGRAM_20230122",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/FY19_20_RESIDENTIAL_STREET_REHAB_ANNUAL_PROGRAM_20230122/FeatureServer"
+        },
+        {
+            "name": "FY20_21_RESIDENTIAL_STREET_REHAB_ANNUAL_PROGRAM_20230122",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/FY20_21_RESIDENTIAL_STREET_REHAB_ANNUAL_PROGRAM_20230122/FeatureServer"
+        },
+        {
+            "name": "FY21_22_RESIDENTIAL_STREET_REHAB_ANNUAL_PROGRAM_20230122",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/FY21_22_RESIDENTIAL_STREET_REHAB_ANNUAL_PROGRAM_20230122/FeatureServer"
+        },
+        {
+            "name": "GeneralPlan_Updated_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/GeneralPlan_Updated_WFL1/FeatureServer"
+        },
+        {
+            "name": "GO_West_Covina_Shuttle_Routes",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/GO_West_Covina_Shuttle_Routes/FeatureServer"
+        },
+        {
+            "name": "Hospitals_and_Medical_Centers",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Hospitals_and_Medical_Centers/FeatureServer"
+        },
+        {
+            "name": "Internet_Service",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Internet_Service/FeatureServer"
+        },
+        {
+            "name": "Internet_Service_Provider_by_Address",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Internet_Service_Provider_by_Address/FeatureServer"
+        },
+        {
+            "name": "Intersect_of_Assessors_Parcels_Updated_and_All_Residential_Parcels_Within_the_City_(Zoning)",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Intersect_of_Assessors_Parcels_Updated_and_All_Residential_Parcels_Within_the_City_(Zoning)/FeatureServer"
+        },
+        {
+            "name": "LACSD_Sewer_Trunk_Manholes",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/LACSD_Sewer_Trunk_Manholes/FeatureServer"
+        },
+        {
+            "name": "Land_Use_Updated",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Land_Use_Updated/FeatureServer"
+        },
+        {
+            "name": "Map5",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Map5/FeatureServer"
+        },
+        {
+            "name": "Nursing_Homes",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Nursing_Homes/FeatureServer"
+        },
+        {
+            "name": "Parcel_CD_join",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Parcel_CD_join/FeatureServer"
+        },
+        {
+            "name": "Pharmacies",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Pharmacies/FeatureServer"
+        },
+        {
+            "name": "Places_of_Worship",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Places_of_Worship/FeatureServer"
+        },
+        {
+            "name": "Police_Department",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Police_Department/FeatureServer"
+        },
+        {
+            "name": "Police_Service_Areas",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Police_Service_Areas/FeatureServer"
+        },
+        {
+            "name": "Private_Schools",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Private_Schools/FeatureServer"
+        },
+        {
+            "name": "Project_Locations",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Project_Locations/FeatureServer"
+        },
+        {
+            "name": "Public_Services_and_Government",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Public_Services_and_Government/FeatureServer"
+        },
+        {
+            "name": "Residential_Parcels_Within_the_City_(Zoning)_DowntownPlanUpdate",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Residential_Parcels_Within_the_City_(Zoning)_DowntownPlanUpdate/FeatureServer"
+        },
+        {
+            "name": "Residential_Street_Rehab_Program",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Residential_Street_Rehab_Program/FeatureServer"
+        },
+        {
+            "name": "Sanitary_Sewage_Overflow_Locations",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Sanitary_Sewage_Overflow_Locations/FeatureServer"
+        },
+        {
+            "name": "School_District_Boundaries",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/School_District_Boundaries/FeatureServer"
+        },
+        {
+            "name": "SmallCellSites_publicview",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/SmallCellSites_publicview/FeatureServer"
+        },
+        {
+            "name": "SP17029_FY201617",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/SP17029_FY201617/FeatureServer"
+        },
+        {
+            "name": "SpecificPlans_2021_Borders",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/SpecificPlans_2021_Borders/FeatureServer"
+        },
+        {
+            "name": "SpecificPlans_Zoning_WFL1",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/SpecificPlans_Zoning_WFL1/FeatureServer"
+        },
+        {
+            "name": "Street_Segments",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Street_Segments/FeatureServer"
+        },
+        {
+            "name": "Street_Sweeping_Schedule",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Street_Sweeping_Schedule/FeatureServer"
+        },
+        {
+            "name": "StreetLights_SCE",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/StreetLights_SCE/FeatureServer"
+        },
+        {
+            "name": "Streets_WC2021_Simplified",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Streets_WC2021_Simplified/FeatureServer"
+        },
+        {
+            "name": "survey123_34faf3e263e04ee58e48d035df2a1931_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/survey123_34faf3e263e04ee58e48d035df2a1931_fieldworker/FeatureServer"
+        },
+        {
+            "name": "survey123_34faf3e263e04ee58e48d035df2a1931_stakeholder",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/survey123_34faf3e263e04ee58e48d035df2a1931_stakeholder/FeatureServer"
+        },
+        {
+            "name": "survey123_82e9ba7d24a8487198227e37677d8b34",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/survey123_82e9ba7d24a8487198227e37677d8b34/FeatureServer"
+        },
+        {
+            "name": "survey123_fe1c193c48994efd98a5eb9dabe3c05c_fieldworker",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/survey123_fe1c193c48994efd98a5eb9dabe3c05c_fieldworker/FeatureServer"
+        },
+        {
+            "name": "USPS_Public_Collection_Boxes",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/USPS_Public_Collection_Boxes/FeatureServer"
+        },
+        {
+            "name": "Water_Districts",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Water_Districts/FeatureServer"
+        },
+        {
+            "name": "Water_Service_Areas",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Water_Service_Areas/FeatureServer"
+        },
+        {
+            "name": "West_Covina_Boundary",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_Boundary/FeatureServer"
+        },
+        {
+            "name": "West_Covina_Boundary_20230125",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_Boundary_20230125/FeatureServer"
+        },
+        {
+            "name": "West_Covina_Bus_Stops",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_Bus_Stops/FeatureServer"
+        },
+        {
+            "name": "West_Covina_Council_Districts",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_Council_Districts/FeatureServer"
+        },
+        {
+            "name": "West_Covina_Fire_Department_Stations",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_Fire_Department_Stations/FeatureServer"
+        },
+        {
+            "name": "West_Covina_School_Districts",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_School_Districts/FeatureServer"
+        },
+        {
+            "name": "West_Covina_Speed_Limits",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_Speed_Limits/FeatureServer"
+        },
+        {
+            "name": "West_Covina_Zip_Codes",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_Zip_Codes/FeatureServer"
+        },
+        {
+            "name": "WestCovinaSensitiveAreas",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/WestCovinaSensitiveAreas/FeatureServer"
+        },
+        {
+            "name": "Zoning_Codes",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Zoning_Codes/FeatureServer"
+        },
+        {
+            "name": "West_Covina_Assessment_Districts",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_Assessment_Districts/FeatureServer"
+        },
+        {
+            "name": "West_Covina_Schools",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_Schools/FeatureServer"
+        },
+        {
+            "name": "West_Covina_Parcels_January_2023",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_Parcels_January_2023/FeatureServer"
+        },
+        {
+            "name": "West_Covina_City_Buildings",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_City_Buildings/FeatureServer"
+        },
+        {
+            "name": "City_Sewer_Trunks",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/City_Sewer_Trunks/FeatureServer"
+        },
+        {
+            "name": "LACSD_Sewer_Trunks",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/LACSD_Sewer_Trunks/FeatureServer"
+        },
+        {
+            "name": "LandscapeMaintenanceDistricts_20230424",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/LandscapeMaintenanceDistricts_20230424/FeatureServer"
+        },
+        {
+            "name": "WCPD_Beats",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/WCPD_Beats/FeatureServer"
+        },
+        {
+            "name": "WestCovina_2YearPalmCycle_20230531",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/WestCovina_2YearPalmCycle_20230531/FeatureServer"
+        },
+        {
+            "name": "WestCovina_5YearCycle_20230531",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/WestCovina_5YearCycle_20230531/FeatureServer"
+        },
+        {
+            "name": "Tree_Type_20230606",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Tree_Type_20230606/FeatureServer"
+        },
+        {
+            "name": "2023_West_Covina_School_District_Boundaries",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/2023_West_Covina_School_District_Boundaries/FeatureServer"
+        },
+        {
+            "name": "Public_Parcels",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Public_Parcels/FeatureServer"
+        },
+        {
+            "name": "Trash_Collection_Days",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Trash_Collection_Days/FeatureServer"
+        },
+        {
+            "name": "Overlay_Zones_20230622",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Overlay_Zones_20230622/FeatureServer"
+        },
+        {
+            "name": "Overlay_Zones_20230629",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Overlay_Zones_20230629/FeatureServer"
+        },
+        {
+            "name": "Parks2019",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Parks2019/FeatureServer"
+        },
+        {
+            "name": "WC_Schools_2022",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/WC_Schools_2022/FeatureServer"
+        },
+        {
+            "name": "Parking_Restrictions_20221207",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Parking_Restrictions_20221207/FeatureServer"
+        },
+        {
+            "name": "West_Covina_Tree_Information",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_Tree_Information/FeatureServer"
+        },
+        {
+            "name": "Tree_Type_MD_20230606",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Tree_Type_MD_20230606/FeatureServer"
+        },
+        {
+            "name": "Sewer_Sercive_Charge_FY_23_24_20230620",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Sewer_Sercive_Charge_FY_23_24_20230620/FeatureServer"
+        },
+        {
+            "name": "Sewer_Sercive_Charge_FY_23_24_20230620_b",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Sewer_Sercive_Charge_FY_23_24_20230620_b/FeatureServer"
+        },
+        {
+            "name": "Citywide_Charge_Parcles_20230807",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Citywide_Charge_Parcles_20230807/FeatureServer"
+        },
+        {
+            "name": "Citywide_TO_MAINTAIN_Parcles_20230807",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Citywide_TO_MAINTAIN_Parcles_20230807/FeatureServer"
+        },
+        {
+            "name": "Citywide_TO_MAINTAIN_Parcles_20230808",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Citywide_TO_MAINTAIN_Parcles_20230808/FeatureServer"
+        },
+        {
+            "name": "Citywide_Charge_Parcles_20230808",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Citywide_Charge_Parcles_20230808/FeatureServer"
+        },
+        {
+            "name": "Citywide_Charge_Parcles_20230810",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Citywide_Charge_Parcles_20230810/FeatureServer"
+        },
+        {
+            "name": "Bus_Stops_20230829",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Bus_Stops_20230829/FeatureServer"
+        },
+        {
+            "name": "Shuttle_Routes",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Shuttle_Routes/FeatureServer"
+        },
+        {
+            "name": "West_Covina_Fire_Station_Districts",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_Fire_Station_Districts/FeatureServer"
+        },
+        {
+            "name": "Graffiti_location_nb_1",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Graffiti_location_nb_1/FeatureServer"
+        },
+        {
+            "name": "Approved_Sign_Programs_20231016",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Approved_Sign_Programs_20231016/FeatureServer"
+        },
+        {
+            "name": "Approved_Sign_Programs_OUTLINE_DISSOLVE_20231016",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Approved_Sign_Programs_OUTLINE_DISSOLVE_20231016/FeatureServer"
+        },
+        {
+            "name": "Approved_Sign_Programs_OUTLINE_DISSOLVE_20231016_b",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Approved_Sign_Programs_OUTLINE_DISSOLVE_20231016_b/FeatureServer"
+        },
+        {
+            "name": "Approved_Sign_Programs_20231016_b",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Approved_Sign_Programs_20231016_b/FeatureServer"
+        },
+        {
+            "name": "Report_1112_1118_Geocoded",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Report_1112_1118_Geocoded/FeatureServer"
+        },
+        {
+            "name": "Report_20231127",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Report_20231127/FeatureServer"
+        },
+        {
+            "name": "MASTER_Weekly_Reports_2023",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/MASTER_Weekly_Reports_2023/FeatureServer"
+        },
+        {
+            "name": "West_Covina_Boundary_20240102",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_Boundary_20240102/FeatureServer"
+        },
+        {
+            "name": "Police_Service_Area_20240109",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Police_Service_Area_20240109/FeatureServer"
+        },
+        {
+            "name": "Report_20240211",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Report_20240211/FeatureServer"
+        },
+        {
+            "name": "PMP_Zones_20240305",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/PMP_Zones_20240305/FeatureServer"
+        },
+        {
+            "name": "West_Covina_City_Boundary__2024_",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_City_Boundary__2024_/FeatureServer"
+        },
+        {
+            "name": "FY22_23_RESIDENTIAL_STREET_REHAB_ANNUAL_PROGRAM_20240313",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/FY22_23_RESIDENTIAL_STREET_REHAB_ANNUAL_PROGRAM_20240313/FeatureServer"
+        },
+        {
+            "name": "PMP_Streets_Rank_20240314_CLIP",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/PMP_Streets_Rank_20240314_CLIP/FeatureServer"
+        },
+        {
+            "name": "Report_20240317",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Report_20240317/FeatureServer"
+        },
+        {
+            "name": "Report_20240331",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Report_20240331/FeatureServer"
+        },
+        {
+            "name": "Report_20240407",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Report_20240407/FeatureServer"
+        },
+        {
+            "name": "Report_20240414",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Report_20240414/FeatureServer"
+        },
+        {
+            "name": "West_Covina_AddressPoints_APR_24",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/West_Covina_AddressPoints_APR_24/FeatureServer"
+        },
+        {
+            "name": "Report_20240421",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Report_20240421/FeatureServer"
+        },
+        {
+            "name": "Report_20240428",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Report_20240428/FeatureServer"
+        },
+        {
+            "name": "Report_20240505",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Report_20240505/FeatureServer"
+        },
+        {
+            "name": "Report_20240512",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Report_20240512/FeatureServer"
+        },
+        {
+            "name": "Report_20240519",
+            "type": "FeatureServer",
+            "url": "https://services8.arcgis.com/WV8ogNubjFL2BKPt/ArcGIS/rest/services/Report_20240519/FeatureServer"
+        }
+    ]
+}

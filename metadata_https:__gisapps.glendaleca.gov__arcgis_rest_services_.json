@@ -1,0 +1,14 @@
+{
+    "currentVersion": 10.81,
+    "folders": [
+        "Common",
+        "PW_IntegratedWaste",
+        "Utilities"
+    ],
+    "services": [
+        {
+            "name": "SampleWorldCities",
+            "type": "MapServer"
+        }
+    ]
+}
