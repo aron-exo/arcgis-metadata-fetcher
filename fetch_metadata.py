@@ -23,7 +23,7 @@ async def get_layers_metadata(session, service_url):
     if not service_metadata:
         return layers_metadata
 
-    for layer in service_metadata.get('layers', []) + service_metadata.get('tables', []):
+    for layer in tqdm(service_metadata.get('layers', []) + service_metadata.get('tables', []), desc=f"Fetching layers from {service_url}"):
         layer_url = f"{service_url}/{layer['id']}?f=json"
         layer_metadata = await fetch_metadata(session, layer_url)
         if layer_metadata:
@@ -42,7 +42,8 @@ async def process_server(session, server):
     if not server_metadata:
         return all_metadata
 
-    for service in server_metadata.get('services', []):
+    services = server_metadata.get('services', [])
+    for service in tqdm(services, desc=f"Processing services for {server}"):
         service_url = f"{server}{service['name']}/{service['type']}"
         layers_metadata = await get_layers_metadata(session, service_url)
         all_metadata.extend(layers_metadata)
@@ -56,7 +57,7 @@ async def main():
 
         all_metadata = []
         async with aiohttp.ClientSession() as session:
-            for server in tqdm(servers):
+            for server in tqdm(servers, desc="Servers"):
                 server_metadata = await process_server(session, server)
                 all_metadata.extend(server_metadata)
 
